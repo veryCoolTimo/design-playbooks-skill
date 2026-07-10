@@ -1,0 +1,6600 @@
+{
+ "sites": {
+  "aave-recent": {
+   "style": "ML",
+   "category": "defi-fintech",
+   "website": "https://aave.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#8F80F3"
+   },
+   "profile": "profiles/sites/aave-recent.md",
+   "media": "media/aave-recent/",
+   "has_media": true
+  },
+  "aave": {
+   "style": "DN",
+   "category": "defi-lending",
+   "website": "https://aave.com/",
+   "pages": [
+    "home",
+    "products"
+   ],
+   "palette": {
+    "primary": "#FFFFFF"
+   },
+   "profile": "profiles/sites/aave.md",
+   "media": "media/aave/",
+   "has_media": true
+  },
+  "acctual": {
+   "style": "ML",
+   "category": "fintech-crypto-payments",
+   "website": "https://www.acctual.com/",
+   "pages": [
+    "home",
+    "about",
+    "blog",
+    "team"
+   ],
+   "palette": {
+    "primary": "#2B2B2B"
+   },
+   "profile": "profiles/sites/acctual.md",
+   "media": "media/acctual/",
+   "has_media": true
+  },
+  "ada": {
+   "style": "CP",
+   "category": "ai-customer-service",
+   "website": "https://www.ada.cx/",
+   "pages": [
+    "home",
+    "platform",
+    "pricing",
+    "industries",
+    "customer-stories"
+   ],
+   "palette": {
+    "primary": "#C3D3F7"
+   },
+   "profile": "profiles/sites/ada.md",
+   "media": "media/ada/",
+   "has_media": true
+  },
+  "adaline": {
+   "style": "IL",
+   "category": "ai-infra-saas",
+   "website": "https://www.adaline.ai/",
+   "pages": [
+    "home",
+    "blog",
+    "pricing",
+    "products"
+   ],
+   "palette": {
+    "primary": "#2C4A36"
+   },
+   "profile": "profiles/sites/adaline.md",
+   "media": "media/adaline/",
+   "has_media": true
+  },
+  "agentql": {
+   "style": "DT",
+   "category": "ai-infra-devtools",
+   "website": "https://www.agentql.com/",
+   "pages": [
+    "home",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#3b5bdb"
+   },
+   "profile": "profiles/sites/agentql.md",
+   "media": "media/agentql/",
+   "has_media": true
+  },
+  "airbnb": {
+   "style": "PH",
+   "category": "travel-marketplace",
+   "website": null,
+   "pages": [
+    "home",
+    "listing-detail",
+    "search-results",
+    "footer"
+   ],
+   "palette": {
+    "primary": "#ff385c"
+   },
+   "profile": "profiles/sites/airbnb.md",
+   "media": "media/airbnb/",
+   "has_media": true
+  },
+  "airtable": {
+   "style": "ML",
+   "category": "workflow-software",
+   "website": null,
+   "pages": [
+    "home",
+    "platform",
+    "pricing",
+    "articles"
+   ],
+   "palette": {
+    "primary": "#181d26"
+   },
+   "profile": "profiles/sites/airtable.md",
+   "media": "media/airtable/",
+   "has_media": true
+  },
+  "amie": {
+   "style": "ML",
+   "category": "ai-productivity-saas",
+   "website": "https://amie.so/",
+   "pages": [
+    "home",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#12A8FD"
+   },
+   "profile": "profiles/sites/amie.md",
+   "media": "media/amie/",
+   "has_media": true
+  },
+  "amplemarket": {
+   "style": "ML",
+   "category": "sales-saas",
+   "website": "https://www.amplemarket.com/",
+   "pages": [
+    "home",
+    "product",
+    "pricing",
+    "blog",
+    "contact",
+    "solutions"
+   ],
+   "palette": {
+    "primary": "#121212"
+   },
+   "profile": "profiles/sites/amplemarket.md",
+   "media": "media/amplemarket/",
+   "has_media": true
+  },
+  "amra": {
+   "style": "ML",
+   "category": "music-tech",
+   "website": "https://www.amra.com/",
+   "pages": [
+    "home",
+    "platform",
+    "company",
+    "insights"
+   ],
+   "palette": {
+    "primary": "#C6BFF3"
+   },
+   "profile": "profiles/sites/amra.md",
+   "media": "media/amra/",
+   "has_media": true
+  },
+  "aninix": {
+   "style": "ML",
+   "category": "design-tools-saas",
+   "website": "https://www.aninix.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#17171B"
+   },
+   "profile": "profiles/sites/aninix.md",
+   "media": "media/aninix/",
+   "has_media": true
+  },
+  "antimetal": {
+   "style": "ML",
+   "category": "cloud-cost-saas",
+   "website": "https://antimetal.com/",
+   "pages": [
+    "home",
+    "enterprise"
+   ],
+   "palette": {
+    "primary": "#D9F522"
+   },
+   "profile": "profiles/sites/antimetal.md",
+   "media": "media/antimetal/",
+   "has_media": true
+  },
+  "apple": {
+   "style": "PH",
+   "category": "consumer-electronics",
+   "website": null,
+   "pages": [
+    "homepage",
+    "environment",
+    "store",
+    "product-buy",
+    "accessories"
+   ],
+   "palette": {
+    "primary": "#0066cc"
+   },
+   "profile": "profiles/sites/apple.md",
+   "media": "media/apple/",
+   "has_media": true
+  },
+  "arc": {
+   "style": "CP",
+   "category": "browser-software",
+   "website": "https://arc.net/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#FFFFFF"
+   },
+   "profile": "profiles/sites/arc.md",
+   "media": "media/arc/",
+   "has_media": true
+  },
+  "arcadia": {
+   "style": "BT",
+   "category": "climate-tech",
+   "website": "https://www.arcadia.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#014134"
+   },
+   "profile": "profiles/sites/arcadia.md",
+   "media": "media/arcadia/",
+   "has_media": true
+  },
+  "area-technology": {
+   "style": "ML",
+   "category": "design-studio",
+   "website": "https://www.area.tech/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#9BA8B7"
+   },
+   "profile": "profiles/sites/area-technology.md",
+   "media": "media/area-technology/",
+   "has_media": true
+  },
+  "artboard-studio": {
+   "style": "ML",
+   "category": "design-tools",
+   "website": "https://artboard.studio/",
+   "pages": [
+    "home",
+    "product",
+    "solutions",
+    "for-teams",
+    "pricing",
+    "templates",
+    "resources"
+   ],
+   "palette": {
+    "primary": "#C8F546"
+   },
+   "profile": "profiles/sites/artboard-studio.md",
+   "media": "media/artboard-studio/",
+   "has_media": true
+  },
+  "aside": {
+   "style": "ML",
+   "category": "ai-browser-saas",
+   "website": "https://aside.com/",
+   "pages": [
+    "landing"
+   ],
+   "palette": {
+    "primary": "#0D0D0D"
+   },
+   "profile": "profiles/sites/aside.md",
+   "media": "media/aside/",
+   "has_media": true
+  },
+  "astro-build": {
+   "style": "DT",
+   "category": "developer-tools",
+   "website": "https://astro.build/",
+   "pages": [
+    "home",
+    "about",
+    "blog",
+    "careers",
+    "integrations",
+    "showcase",
+    "themes"
+   ],
+   "palette": {
+    "primary": "#883AEA"
+   },
+   "profile": "profiles/sites/astro-build.md",
+   "media": "media/astro-build/",
+   "has_media": true
+  },
+  "astro-dither": {
+   "style": "DN",
+   "category": "experimental-audiovisual",
+   "website": "https://astrodither.robertborghesi.is/",
+   "pages": [
+    "entry-gate"
+   ],
+   "palette": {
+    "primary": "#0a0a0a"
+   },
+   "profile": "profiles/sites/astro-dither.md",
+   "media": "media/astro-dither/",
+   "has_media": true
+  },
+  "augen": {
+   "style": "ML",
+   "category": "health-tech-wearables",
+   "website": "https://augen.pro/?ref=godly",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#4B8DF8"
+   },
+   "profile": "profiles/sites/augen.md",
+   "media": "media/augen/",
+   "has_media": true
+  },
+  "avara": {
+   "style": "IL",
+   "category": "crypto",
+   "website": "https://avara.xyz/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#5BE37D"
+   },
+   "profile": "profiles/sites/avara.md",
+   "media": "media/avara/",
+   "has_media": true
+  },
+  "awesomic": {
+   "style": "DT",
+   "category": "creative-services-saas",
+   "website": "https://www.awesomic.io/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#FEB5A7"
+   },
+   "profile": "profiles/sites/awesomic.md",
+   "media": "media/awesomic/",
+   "has_media": true
+  },
+  "axelar-network": {
+   "style": "BT",
+   "category": "crypto-infrastructure",
+   "website": "https://axelar.network/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#118EF5"
+   },
+   "profile": "profiles/sites/axelar-network.md",
+   "media": "media/axelar-network/",
+   "has_media": true
+  },
+  "basehub": {
+   "style": "DT",
+   "category": "dev-tools-cms",
+   "website": "https://basehub.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#FF6D00"
+   },
+   "profile": "profiles/sites/basehub.md",
+   "media": "media/basehub/",
+   "has_media": true
+  },
+  "becane-paris": {
+   "style": "ML",
+   "category": "fashion-ecommerce",
+   "website": "https://www.becaneparis.com/",
+   "pages": [
+    "shop-collection",
+    "editorial-manifesto",
+    "footer"
+   ],
+   "palette": {
+    "primary": "#ffffff"
+   },
+   "profile": "profiles/sites/becane-paris.md",
+   "media": "media/becane-paris/",
+   "has_media": true
+  },
+  "beeper": {
+   "style": "DN",
+   "category": "messaging-saas",
+   "website": "https://www.beeper.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#8748e1"
+   },
+   "profile": "profiles/sites/beeper.md",
+   "media": "media/beeper/",
+   "has_media": true
+  },
+  "belen-jones": {
+   "style": "ML",
+   "category": "portfolio",
+   "website": "https://www.belenjones.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#FFFFFF"
+   },
+   "profile": "profiles/sites/belen-jones.md",
+   "media": "media/belen-jones/",
+   "has_media": true
+  },
+  "bento": {
+   "style": "ML",
+   "category": "creator-tools",
+   "website": "https://bento.me/en/home",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#7E8BF5"
+   },
+   "profile": "profiles/sites/bento.md",
+   "media": "media/bento/",
+   "has_media": true
+  },
+  "betterstack": {
+   "style": "DT",
+   "category": "observability-saas",
+   "website": "https://betterstack.com/",
+   "pages": [
+    "home",
+    "platform",
+    "pricing",
+    "documentation",
+    "community",
+    "company",
+    "enterprise"
+   ],
+   "palette": {
+    "primary": "#6C63F0"
+   },
+   "profile": "profiles/sites/betterstack.md",
+   "media": "media/betterstack/",
+   "has_media": true
+  },
+  "binance": {
+   "style": "DT",
+   "category": "crypto-exchange",
+   "website": null,
+   "pages": [
+    "homepage",
+    "buy-crypto",
+    "deposit",
+    "markets",
+    "smart-money",
+    "futures-arena"
+   ],
+   "palette": {
+    "primary": "#fcd535"
+   },
+   "profile": "profiles/sites/binance.md",
+   "media": "media/binance/",
+   "has_media": true
+  },
+  "bmw-m": {
+   "style": "BT",
+   "category": "automotive",
+   "website": null,
+   "pages": [
+    "home",
+    "model-detail",
+    "magazine",
+    "motorsport",
+    "topics"
+   ],
+   "palette": {
+    "primary": "#000000"
+   },
+   "profile": "profiles/sites/bmw-m.md",
+   "media": "media/bmw-m/",
+   "has_media": true
+  },
+  "bmw": {
+   "style": "ML",
+   "category": "automotive",
+   "website": null,
+   "pages": [
+    "home",
+    "model-detail",
+    "configurator",
+    "dealer-inventory"
+   ],
+   "palette": {
+    "primary": "#1c69d4"
+   },
+   "profile": "profiles/sites/bmw.md",
+   "media": "media/bmw/",
+   "has_media": true
+  },
+  "boostinsurance": {
+   "style": "DT",
+   "category": "insurtech-api-platform",
+   "website": "https://boostinsurance.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#5BEA95"
+   },
+   "profile": "profiles/sites/boostinsurance.md",
+   "media": "media/boostinsurance/",
+   "has_media": true
+  },
+  "brainfishai": {
+   "style": "CP",
+   "category": "ai-customer-support-saas",
+   "website": "https://www.brainfishai.com/",
+   "pages": [
+    "home",
+    "pricing",
+    "product",
+    "resources",
+    "solutions",
+    "why"
+   ],
+   "palette": {
+    "primary": "#BFF02F"
+   },
+   "profile": "profiles/sites/brainfishai.md",
+   "media": "media/brainfishai/",
+   "has_media": true
+  },
+  "browserbase": {
+   "style": "ML",
+   "category": "ai-infrastructure-saas",
+   "website": "https://www.browserbase.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#ef3701"
+   },
+   "profile": "profiles/sites/browserbase.md",
+   "media": "media/browserbase/",
+   "has_media": true
+  },
+  "buddy-works": {
+   "style": "ML",
+   "category": "devops-saas",
+   "website": "https://buddy.works/",
+   "pages": [
+    "home",
+    "pricing",
+    "docs",
+    "changelog",
+    "contact"
+   ],
+   "palette": {
+    "primary": "#A8E82E"
+   },
+   "profile": "profiles/sites/buddy-works.md",
+   "media": "media/buddy-works/",
+   "has_media": true
+  },
+  "bugatti": {
+   "style": "EL",
+   "category": "luxury-automotive",
+   "website": null,
+   "pages": [
+    "home",
+    "model-detail",
+    "newsroom",
+    "careers"
+   ],
+   "palette": {
+    "primary": "#ffffff"
+   },
+   "profile": "profiles/sites/bugatti.md",
+   "media": "media/bugatti/",
+   "has_media": true
+  },
+  "buymeacoffee": {
+   "style": "ML",
+   "category": "creator-economy",
+   "website": "https://buymeacoffee.com/",
+   "pages": [
+    "home",
+    "about",
+    "faq",
+    "wall-of-love"
+   ],
+   "palette": {
+    "primary": "#FFDD00"
+   },
+   "profile": "profiles/sites/buymeacoffee.md",
+   "media": "media/buymeacoffee/",
+   "has_media": true
+  },
+  "buzzsprout": {
+   "style": "BT",
+   "category": "podcast-saas",
+   "website": "https://www.buzzsprout.com/",
+   "pages": [
+    "home",
+    "features",
+    "pricing",
+    "blog"
+   ],
+   "palette": {
+    "primary": "#1B3C31"
+   },
+   "profile": "profiles/sites/buzzsprout.md",
+   "media": "media/buzzsprout/",
+   "has_media": true
+  },
+  "cakeequity": {
+   "style": "CP",
+   "category": "fintech-saas",
+   "website": "https://www.cakeequity.com/",
+   "pages": [
+    "home",
+    "product",
+    "pricing",
+    "about",
+    "resources"
+   ],
+   "palette": {
+    "primary": "#695CFD"
+   },
+   "profile": "profiles/sites/cakeequity.md",
+   "media": "media/cakeequity/",
+   "has_media": true
+  },
+  "cal": {
+   "style": "ML",
+   "category": "scheduling-saas",
+   "website": null,
+   "pages": [
+    "home",
+    "pricing",
+    "features",
+    "testimonials"
+   ],
+   "palette": {
+    "primary": "#111111"
+   },
+   "profile": "profiles/sites/cal.md",
+   "media": "media/cal/",
+   "has_media": true
+  },
+  "caldera": {
+   "style": "CP",
+   "category": "crypto-infrastructure",
+   "website": "https://caldera.xyz/",
+   "pages": [
+    "home",
+    "product-rollups",
+    "product-metalayer",
+    "blog"
+   ],
+   "palette": {
+    "primary": "#F94D0E"
+   },
+   "profile": "profiles/sites/caldera.md",
+   "media": "media/caldera/",
+   "has_media": true
+  },
+  "campsite-design": {
+   "style": "ML",
+   "category": "design-collab-saas",
+   "website": "https://www.campsite.design/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#F35733"
+   },
+   "profile": "profiles/sites/campsite-design.md",
+   "media": "media/campsite-design/",
+   "has_media": true
+  },
+  "canopy-is": {
+   "style": "DT",
+   "category": "ed-tech-saas",
+   "website": "https://canopy.is/",
+   "pages": [
+    "home",
+    "features",
+    "for-teams",
+    "pricing",
+    "customer-stories",
+    "resources"
+   ],
+   "palette": {
+    "primary": "#8b5cf6"
+   },
+   "profile": "profiles/sites/canopy-is.md",
+   "media": "media/canopy-is/",
+   "has_media": true
+  },
+  "cap": {
+   "style": "ML",
+   "category": "video-collab-saas",
+   "website": "https://cap.so/",
+   "pages": [
+    "home",
+    "about",
+    "blog",
+    "download",
+    "help",
+    "pricing",
+    "product",
+    "testimonials"
+   ],
+   "palette": {
+    "primary": "#4785ff"
+   },
+   "profile": "profiles/sites/cap.md",
+   "media": "media/cap/",
+   "has_media": true
+  },
+  "capital-xyz": {
+   "style": "DT",
+   "category": "fintech",
+   "website": "https://capital.xyz/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#F15B40"
+   },
+   "profile": "profiles/sites/capital-xyz.md",
+   "media": "media/capital-xyz/",
+   "has_media": true
+  },
+  "cassettine": {
+   "style": "CP",
+   "category": "music-social",
+   "website": "https://www.cassettine.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#111111"
+   },
+   "profile": "profiles/sites/cassettine.md",
+   "media": "media/cassettine/",
+   "has_media": true
+  },
+  "cathy-dolle": {
+   "style": "ML",
+   "category": "portfolio-photography",
+   "website": "https://www.cathydolle.com/",
+   "pages": [
+    "home-gallery"
+   ],
+   "palette": {
+    "primary": "#0a0a0a"
+   },
+   "profile": "profiles/sites/cathy-dolle.md",
+   "media": "media/cathy-dolle/",
+   "has_media": true
+  },
+  "checklyhq": {
+   "style": "DT",
+   "category": "dev-monitoring",
+   "website": "https://www.checklyhq.com/",
+   "pages": [
+    "home",
+    "product",
+    "blog"
+   ],
+   "palette": {
+    "primary": "#F5F8FC"
+   },
+   "profile": "profiles/sites/checklyhq.md",
+   "media": "media/checklyhq/",
+   "has_media": true
+  },
+  "chroniclehq": {
+   "style": "DT",
+   "category": "content-creation-saas",
+   "website": "https://chroniclehq.com/",
+   "pages": [
+    "home",
+    "our-story"
+   ],
+   "palette": {
+    "primary": "#FFFFFF"
+   },
+   "profile": "profiles/sites/chroniclehq.md",
+   "media": "media/chroniclehq/",
+   "has_media": true
+  },
+  "circleso": {
+   "style": "CP",
+   "category": "community-saas",
+   "website": "https://circle.so/",
+   "pages": [
+    "home",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#516BEF"
+   },
+   "profile": "profiles/sites/circleso.md",
+   "media": "media/circleso/",
+   "has_media": true
+  },
+  "claude": {
+   "style": "EL",
+   "category": "ai-assistant",
+   "website": null,
+   "pages": [
+    "home",
+    "pricing",
+    "solutions",
+    "connectors",
+    "developer-product"
+   ],
+   "palette": {
+    "primary": "#cc785c"
+   },
+   "profile": "profiles/sites/claude.md",
+   "media": "media/claude/",
+   "has_media": true
+  },
+  "clay-com": {
+   "style": "IL",
+   "category": "sales-saas",
+   "website": "http://clay.com/",
+   "pages": [
+    "home",
+    "product",
+    "solutions",
+    "use-cases",
+    "pricing",
+    "enterprise",
+    "resources",
+    "careers"
+   ],
+   "palette": {
+    "primary": "#17150F"
+   },
+   "profile": "profiles/sites/clay-com.md",
+   "media": "media/clay-com/",
+   "has_media": true
+  },
+  "clay-earth": {
+   "style": "DN",
+   "category": "personal-crm",
+   "website": "https://clay.earth/",
+   "pages": [
+    "home",
+    "pricing",
+    "careers",
+    "stories"
+   ],
+   "palette": {
+    "primary": "#f3efe8"
+   },
+   "profile": "profiles/sites/clay-earth.md",
+   "media": "media/clay-earth/",
+   "has_media": true
+  },
+  "clay": {
+   "style": "CP",
+   "category": "gtm-data-platform",
+   "website": null,
+   "pages": [
+    "home",
+    "pricing",
+    "experts",
+    "feature-pages"
+   ],
+   "palette": {
+    "primary": "#0a0a0a"
+   },
+   "profile": "profiles/sites/clay.md",
+   "media": "media/clay/",
+   "has_media": true
+  },
+  "clearbit": {
+   "style": "ML",
+   "category": "b2b-data-saas",
+   "website": "https://clearbit.com/",
+   "pages": [
+    "home",
+    "product",
+    "pricing",
+    "customers",
+    "partners"
+   ],
+   "palette": {
+    "primary": "#2E90FA"
+   },
+   "profile": "profiles/sites/clearbit.md",
+   "media": "media/clearbit/",
+   "has_media": true
+  },
+  "clickhouse": {
+   "style": "DT",
+   "category": "database",
+   "website": null,
+   "pages": [
+    "home",
+    "pricing",
+    "events"
+   ],
+   "palette": {
+    "primary": "#faff69"
+   },
+   "profile": "profiles/sites/clickhouse.md",
+   "media": "media/clickhouse/",
+   "has_media": true
+  },
+  "clipdrop": {
+   "style": "DT",
+   "category": "ai-image-editing",
+   "website": "https://clipdrop.co/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#2b7fff"
+   },
+   "profile": "profiles/sites/clipdrop.md",
+   "media": "media/clipdrop/",
+   "has_media": true
+  },
+  "cluely": {
+   "style": "ML",
+   "category": "ai-meeting-saas",
+   "website": "https://cluely.com/",
+   "pages": [
+    "home",
+    "pricing",
+    "enterprise",
+    "careers"
+   ],
+   "palette": {
+    "primary": "#141414"
+   },
+   "profile": "profiles/sites/cluely.md",
+   "media": "media/cluely/",
+   "has_media": true
+  },
+  "clutch": {
+   "style": "ML",
+   "category": "cybersecurity",
+   "website": "https://www.clutch.security/",
+   "pages": [
+    "home",
+    "about",
+    "blog",
+    "platform",
+    "use-case",
+    "why-us"
+   ],
+   "palette": {
+    "primary": "#0A0A0A"
+   },
+   "profile": "profiles/sites/clutch.md",
+   "media": "media/clutch/",
+   "has_media": true
+  },
+  "cntrl": {
+   "style": "BT",
+   "category": "no-code-website-builder",
+   "website": "https://cntrl.site/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#00EA40"
+   },
+   "profile": "profiles/sites/cntrl.md",
+   "media": "media/cntrl/",
+   "has_media": true
+  },
+  "codex": {
+   "style": "DT",
+   "category": "web3-dev-infra",
+   "website": "https://www.codex.io/",
+   "pages": [
+    "home",
+    "about",
+    "blog",
+    "customers",
+    "product"
+   ],
+   "palette": {
+    "primary": "#DFFF2E"
+   },
+   "profile": "profiles/sites/codex.md",
+   "media": "media/codex/",
+   "has_media": true
+  },
+  "cohere": {
+   "style": "DT",
+   "category": "ai-infrastructure",
+   "website": "https://cohere.ai/",
+   "pages": [
+    "home",
+    "about",
+    "for-business",
+    "pricing",
+    "product-detail"
+   ],
+   "palette": {
+    "primary": "#1F1F1F"
+   },
+   "profile": "profiles/sites/cohere.md",
+   "media": "media/cohere/",
+   "has_media": true
+  },
+  "coinbase": {
+   "style": "ML",
+   "category": "crypto-exchange",
+   "website": null,
+   "pages": [
+    "home",
+    "explore",
+    "wealth",
+    "pricing",
+    "developer-platform"
+   ],
+   "palette": {
+    "primary": "#0052ff"
+   },
+   "profile": "profiles/sites/coinbase.md",
+   "media": "media/coinbase/",
+   "has_media": true
+  },
+  "coinflect": {
+   "style": "DN",
+   "category": "crypto-blockchain",
+   "website": "https://www.coinflect.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#f2f2f2"
+   },
+   "profile": "profiles/sites/coinflect.md",
+   "media": "media/coinflect/",
+   "has_media": true
+  },
+  "coinshift": {
+   "style": "DT",
+   "category": "crypto-fintech",
+   "website": "https://www.coinshift.xyz/",
+   "pages": [
+    "home",
+    "feature-accounting",
+    "feature-payments",
+    "pricing",
+    "magazine"
+   ],
+   "palette": {
+    "primary": "#161616"
+   },
+   "profile": "profiles/sites/coinshift.md",
+   "media": "media/coinshift/",
+   "has_media": true
+  },
+  "common": {
+   "style": "GR",
+   "category": "web3-community",
+   "website": "https://www.common.xyz/",
+   "pages": [
+    "home",
+    "about",
+    "ecosystem",
+    "product"
+   ],
+   "palette": {
+    "primary": "#000000"
+   },
+   "profile": "profiles/sites/common.md",
+   "media": "media/common/",
+   "has_media": true
+  },
+  "composer-trade": {
+   "style": "CP",
+   "category": "fintech-investing",
+   "website": "https://www.composer.trade/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#000000"
+   },
+   "profile": "profiles/sites/composer-trade.md",
+   "media": "media/composer-trade/",
+   "has_media": true
+  },
+  "composio": {
+   "style": "DT",
+   "category": "developer-tools",
+   "website": null,
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#0007cd"
+   },
+   "profile": "profiles/sites/composio.md",
+   "media": "media/composio/",
+   "has_media": true
+  },
+  "copy-ai": {
+   "style": "ML",
+   "category": "ai-writing-saas",
+   "website": "https://www.copy.ai/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#47BEBA"
+   },
+   "profile": "profiles/sites/copy-ai.md",
+   "media": "media/copy-ai/",
+   "has_media": true
+  },
+  "cora": {
+   "style": "IL",
+   "category": "ai-assistant-saas",
+   "website": "https://cora.computer/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#ffffff"
+   },
+   "profile": "profiles/sites/cora.md",
+   "media": "media/cora/",
+   "has_media": true
+  },
+  "cord": {
+   "style": "BT",
+   "category": "dev-platform-saas",
+   "website": "https://cord.com/",
+   "pages": [
+    "home",
+    "pricing",
+    "product"
+   ],
+   "palette": {
+    "primary": "#8B7BF5"
+   },
+   "profile": "profiles/sites/cord.md",
+   "media": "media/cord/",
+   "has_media": true
+  },
+  "cortexdao": {
+   "style": "ML",
+   "category": "defi-dao",
+   "website": "https://cortexdao.io/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#17A672"
+   },
+   "profile": "profiles/sites/cortexdao.md",
+   "media": "media/cortexdao/",
+   "has_media": true
+  },
+  "craft-do": {
+   "style": "ML",
+   "category": "productivity-saas",
+   "website": "https://www.craft.do/",
+   "pages": [
+    "home",
+    "product",
+    "pricing",
+    "download"
+   ],
+   "palette": {
+    "primary": "#0A0A0A"
+   },
+   "profile": "profiles/sites/craft-do.md",
+   "media": "media/craft-do/",
+   "has_media": true
+  },
+  "createanything": {
+   "style": "PH",
+   "category": "ai-builder-saas",
+   "website": "https://www.createanything.com/",
+   "pages": [
+    "home",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#1a1a1a"
+   },
+   "profile": "profiles/sites/createanything.md",
+   "media": "media/createanything/",
+   "has_media": true
+  },
+  "ctrl": {
+   "style": "ML",
+   "category": "crypto-wallet",
+   "website": "https://ctrl.xyz/",
+   "pages": [
+    "home",
+    "security",
+    "token"
+   ],
+   "palette": {
+    "primary": "#35C838"
+   },
+   "profile": "profiles/sites/ctrl.md",
+   "media": "media/ctrl/",
+   "has_media": true
+  },
+  "current": {
+   "style": "ML",
+   "category": "team-collaboration-saas",
+   "website": "https://current.so/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#141414"
+   },
+   "profile": "profiles/sites/current.md",
+   "media": "media/current/",
+   "has_media": true
+  },
+  "cursor": {
+   "style": "EL",
+   "category": "developer-tools",
+   "website": null,
+   "pages": [
+    "home",
+    "pricing",
+    "features",
+    "enterprise",
+    "blog"
+   ],
+   "palette": {
+    "primary": "#f54e00"
+   },
+   "profile": "profiles/sites/cursor.md",
+   "media": "media/cursor/",
+   "has_media": true
+  },
+  "cycle": {
+   "style": "CP",
+   "category": "product-management-saas",
+   "website": "https://www.cycle.app/",
+   "pages": [
+    "home",
+    "blog",
+    "integrations",
+    "pricing",
+    "release-notes"
+   ],
+   "palette": {
+    "primary": "#3D3DE2"
+   },
+   "profile": "profiles/sites/cycle.md",
+   "media": "media/cycle/",
+   "has_media": true
+  },
+  "cycleapp": {
+   "style": "ML",
+   "category": "product-management-saas",
+   "website": "https://www.cycle.app/",
+   "pages": [
+    "home",
+    "product",
+    "pricing",
+    "blog",
+    "changelog"
+   ],
+   "palette": {
+    "primary": "#2A44E8"
+   },
+   "profile": "profiles/sites/cycleapp.md",
+   "media": "media/cycleapp/",
+   "has_media": true
+  },
+  "dashlane": {
+   "style": "IL",
+   "category": "security-saas",
+   "website": "https://www.dashlane.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#0E3A44"
+   },
+   "profile": "profiles/sites/dashlane.md",
+   "media": "media/dashlane/",
+   "has_media": true
+  },
+  "decideai": {
+   "style": "DT",
+   "category": "ai-web3-infrastructure",
+   "website": "https://decideai.xyz/",
+   "pages": [
+    "home",
+    "product-decide-id",
+    "product-decide-protocol"
+   ],
+   "palette": {
+    "primary": "#57E389"
+   },
+   "profile": "profiles/sites/decideai.md",
+   "media": "media/decideai/",
+   "has_media": true
+  },
+  "decipad": {
+   "style": "ML",
+   "category": "data-analytics-saas",
+   "website": "https://www.decipad.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#C1FA6C"
+   },
+   "profile": "profiles/sites/decipad.md",
+   "media": "media/decipad/",
+   "has_media": true
+  },
+  "default": {
+   "style": "ML",
+   "category": "sales-automation-saas",
+   "website": "https://www.default.com/",
+   "pages": [
+    "home",
+    "pricing",
+    "product",
+    "resources",
+    "use-cases"
+   ],
+   "palette": {
+    "primary": "#5755F4"
+   },
+   "profile": "profiles/sites/default.md",
+   "media": "media/default/",
+   "has_media": true
+  },
+  "dell-1996": {
+   "style": "CP",
+   "category": "enterprise-hardware",
+   "website": null,
+   "pages": [
+    "home",
+    "product-line",
+    "product-detail"
+   ],
+   "palette": {
+    "primary": "#e91d2a"
+   },
+   "profile": "profiles/sites/dell-1996.md",
+   "media": "media/dell-1996/",
+   "has_media": true
+  },
+  "deta-space": {
+   "style": "GR",
+   "category": "cloud-platform",
+   "website": "https://deta.space/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#ee72a8"
+   },
+   "profile": "profiles/sites/deta-space.md",
+   "media": "media/deta-space/",
+   "has_media": true
+  },
+  "deta": {
+   "style": "IL",
+   "category": "productivity-saas",
+   "website": "https://deta.surf/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#4585ed"
+   },
+   "profile": "profiles/sites/deta.md",
+   "media": "media/deta/",
+   "has_media": true
+  },
+  "diagram": {
+   "style": "DT",
+   "category": "ai-design-tools",
+   "website": "https://diagram.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#232327"
+   },
+   "profile": "profiles/sites/diagram.md",
+   "media": "media/diagram/",
+   "has_media": true
+  },
+  "dimension": {
+   "style": "DT",
+   "category": "developer-tools",
+   "website": "https://www.dimension.dev/",
+   "pages": [
+    "home",
+    "about",
+    "blog",
+    "careers"
+   ],
+   "palette": {
+    "primary": "#f97ba4"
+   },
+   "profile": "profiles/sites/dimension.md",
+   "media": "media/dimension/",
+   "has_media": true
+  },
+  "dirt": {
+   "style": "ML",
+   "category": "creative-studio",
+   "website": "https://dirtverse.co/",
+   "pages": [
+    "home",
+    "work-grid",
+    "news",
+    "contact-form",
+    "footer"
+   ],
+   "palette": {
+    "primary": "#111111"
+   },
+   "profile": "profiles/sites/dirt.md",
+   "media": "media/dirt/",
+   "has_media": true
+  },
+  "discord": {
+   "style": "CP",
+   "category": "gaming-social",
+   "website": null,
+   "pages": [
+    "home",
+    "ads-quests",
+    "nitro",
+    "trending-games"
+   ],
+   "palette": {
+    "primary": "#5865f2"
+   },
+   "profile": "profiles/sites/discord.md",
+   "media": "media/discord/",
+   "has_media": true
+  },
+  "displace": {
+   "style": "DT",
+   "category": "agency",
+   "website": "https://displace.agency/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#ff4a2c"
+   },
+   "profile": "profiles/sites/displace.md",
+   "media": "media/displace/",
+   "has_media": true
+  },
+  "dock": {
+   "style": "ML",
+   "category": "sales-saas",
+   "website": "https://www.dock.us/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#4466FF"
+   },
+   "profile": "profiles/sites/dock.md",
+   "media": "media/dock/",
+   "has_media": true
+  },
+  "dope-security": {
+   "style": "DT",
+   "category": "cybersecurity-saas",
+   "website": "https://dope.security/",
+   "pages": [
+    "home",
+    "product",
+    "pricing",
+    "about",
+    "blog",
+    "partners"
+   ],
+   "palette": {
+    "primary": "#F4F2F7"
+   },
+   "profile": "profiles/sites/dope-security.md",
+   "media": "media/dope-security/",
+   "has_media": true
+  },
+  "dub": {
+   "style": "ML",
+   "category": "marketing-saas",
+   "website": "https://dub.co/",
+   "pages": [
+    "home",
+    "pricing",
+    "blog",
+    "customers",
+    "enterprise",
+    "resources"
+   ],
+   "palette": {
+    "primary": "#171717"
+   },
+   "profile": "profiles/sites/dub.md",
+   "media": "media/dub/",
+   "has_media": true
+  },
+  "eclipse": {
+   "style": "BT",
+   "category": "crypto-infrastructure",
+   "website": "https://www.eclipse.builders/",
+   "pages": [
+    "home",
+    "how-it-works",
+    "careers",
+    "news",
+    "resources"
+   ],
+   "palette": {
+    "primary": "#0E0E0E"
+   },
+   "profile": "profiles/sites/eclipse.md",
+   "media": "media/eclipse/",
+   "has_media": true
+  },
+  "ecosia": {
+   "style": "PH",
+   "category": "sustainability-search",
+   "website": "https://www.ecosia.org/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#215C39"
+   },
+   "profile": "profiles/sites/ecosia.md",
+   "media": "media/ecosia/",
+   "has_media": true
+  },
+  "elevenlabs": {
+   "style": "EL",
+   "category": "ai-voice",
+   "website": null,
+   "pages": [
+    "home",
+    "pricing",
+    "agents",
+    "voice-library"
+   ],
+   "palette": {
+    "primary": "#292524"
+   },
+   "profile": "profiles/sites/elevenlabs.md",
+   "media": "media/elevenlabs/",
+   "has_media": true
+  },
+  "endlesstools": {
+   "style": "DN",
+   "category": "creative-saas",
+   "website": "https://endlesstools.io/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#efefef"
+   },
+   "profile": "profiles/sites/endlesstools.md",
+   "media": "media/endlesstools/",
+   "has_media": true
+  },
+  "equals-app": {
+   "style": "ML",
+   "category": "data-tooling-saas",
+   "website": "https://equals.app/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#000000"
+   },
+   "profile": "profiles/sites/equals-app.md",
+   "media": "media/equals-app/",
+   "has_media": true
+  },
+  "equals": {
+   "style": "ML",
+   "category": "fintech-saas",
+   "website": "https://equals.com/",
+   "pages": [
+    "home",
+    "about",
+    "company",
+    "product",
+    "pricing",
+    "use-cases",
+    "resources",
+    "guides"
+   ],
+   "palette": {
+    "primary": "#D9C3F5"
+   },
+   "profile": "profiles/sites/equals.md",
+   "media": "media/equals/",
+   "has_media": true
+  },
+  "era-app": {
+   "style": "ML",
+   "category": "fintech-personal-finance",
+   "website": "https://era.app/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#1C1C19"
+   },
+   "profile": "profiles/sites/era-app.md",
+   "media": "media/era-app/",
+   "has_media": true
+  },
+  "eraser": {
+   "style": "DT",
+   "category": "dev-tools",
+   "website": "https://www.eraser.io/",
+   "pages": [
+    "home",
+    "product-landing",
+    "pricing",
+    "resources",
+    "use-case"
+   ],
+   "palette": {
+    "primary": "#FFFFFF"
+   },
+   "profile": "profiles/sites/eraser.md",
+   "media": "media/eraser/",
+   "has_media": true
+  },
+  "evergreen": {
+   "style": "EL",
+   "category": "hr-saas",
+   "website": "https://www.evergreen.so/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#000000"
+   },
+   "profile": "profiles/sites/evergreen.md",
+   "media": "media/evergreen/",
+   "has_media": true
+  },
+  "everlend": {
+   "style": "DT",
+   "category": "defi-lending",
+   "website": "https://everlend.finance/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#1CD272"
+   },
+   "profile": "profiles/sites/everlend.md",
+   "media": "media/everlend/",
+   "has_media": true
+  },
+  "evervault": {
+   "style": "DN",
+   "category": "security-infrastructure",
+   "website": "https://evervault.com/",
+   "pages": [
+    "home",
+    "pricing",
+    "blog",
+    "use-cases"
+   ],
+   "palette": {
+    "primary": "#FFFFFF"
+   },
+   "profile": "profiles/sites/evervault.md",
+   "media": "media/evervault/",
+   "has_media": true
+  },
+  "expo": {
+   "style": "ML",
+   "category": "developer-tools",
+   "website": null,
+   "pages": [
+    "home",
+    "pricing",
+    "docs"
+   ],
+   "palette": {
+    "primary": "#000000"
+   },
+   "profile": "profiles/sites/expo.md",
+   "media": "media/expo/",
+   "has_media": true
+  },
+  "fable": {
+   "style": "DT",
+   "category": "design-tool-saas",
+   "website": "https://www.fable.app/",
+   "pages": [
+    "home",
+    "pricing",
+    "product",
+    "resources",
+    "use-cases"
+   ],
+   "palette": {
+    "primary": "#FDB52D"
+   },
+   "profile": "profiles/sites/fable.md",
+   "media": "media/fable/",
+   "has_media": true
+  },
+  "fabric-so": {
+   "style": "ML",
+   "category": "productivity-saas",
+   "website": "https://fabric.so/",
+   "pages": [
+    "home",
+    "about"
+   ],
+   "palette": {
+    "primary": "#0A0A0A"
+   },
+   "profile": "profiles/sites/fabric-so.md",
+   "media": "media/fabric-so/",
+   "has_media": true
+  },
+  "fal": {
+   "style": "CP",
+   "category": "ai-infrastructure",
+   "website": "https://fal.ai/",
+   "pages": [
+    "home",
+    "explore",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#0E0E0E"
+   },
+   "profile": "profiles/sites/fal.md",
+   "media": "media/fal/",
+   "has_media": true
+  },
+  "fasthtml": {
+   "style": "CP",
+   "category": "dev-tools",
+   "website": "https://fastht.ml/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#000000"
+   },
+   "profile": "profiles/sites/fasthtml.md",
+   "media": "media/fasthtml/",
+   "has_media": true
+  },
+  "ferrari": {
+   "style": "EL",
+   "category": "luxury-automotive",
+   "website": null,
+   "pages": [
+    "homepage",
+    "model-pages",
+    "f1-racing",
+    "preowned-listings",
+    "pricing",
+    "lifestyle"
+   ],
+   "palette": {
+    "primary": "#da291c"
+   },
+   "profile": "profiles/sites/ferrari.md",
+   "media": "media/ferrari/",
+   "has_media": true
+  },
+  "fiberplane": {
+   "style": "BT",
+   "category": "devops-saas",
+   "website": "https://fiberplane.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#141414"
+   },
+   "profile": "profiles/sites/fiberplane.md",
+   "media": "media/fiberplane/",
+   "has_media": true
+  },
+  "figma": {
+   "style": "CP",
+   "category": "design-creative",
+   "website": "https://figma.com",
+   "pages": [
+    "home",
+    "pricing",
+    "blog",
+    "product",
+    "solutions",
+    "events"
+   ],
+   "palette": {
+    "primary": "#0D0D0D"
+   },
+   "profile": "profiles/sites/figma.md",
+   "media": "media/figma/",
+   "has_media": true
+  },
+  "figura-digital": {
+   "style": "BT",
+   "category": "design-talent-marketplace",
+   "website": "https://www.figura.digital/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#DBFE08"
+   },
+   "profile": "profiles/sites/figura-digital.md",
+   "media": "media/figura-digital/",
+   "has_media": true
+  },
+  "film-ai": {
+   "style": "BT",
+   "category": "creator-tools",
+   "website": "https://flim.ai/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#FF3700"
+   },
+   "profile": "profiles/sites/film-ai.md",
+   "media": "media/film-ai/",
+   "has_media": true
+  },
+  "flox": {
+   "style": "ML",
+   "category": "dev-platform",
+   "website": "https://flox.dev/",
+   "pages": [
+    "home",
+    "features",
+    "blog",
+    "about"
+   ],
+   "palette": {
+    "primary": "#C77DF3"
+   },
+   "profile": "profiles/sites/flox.md",
+   "media": "media/flox/",
+   "has_media": true
+  },
+  "fly": {
+   "style": "IL",
+   "category": "dev-platform",
+   "website": "https://fly.io/",
+   "pages": [
+    "home",
+    "about-us",
+    "security"
+   ],
+   "palette": {
+    "primary": "#7C3AED"
+   },
+   "profile": "profiles/sites/fly.md",
+   "media": "media/fly/",
+   "has_media": true
+  },
+  "fold-money": {
+   "style": "ML",
+   "category": "fintech",
+   "website": "https://fold.money/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#469bf7"
+   },
+   "profile": "profiles/sites/fold-money.md",
+   "media": "media/fold-money/",
+   "has_media": true
+  },
+  "fonts-ninja": {
+   "style": "BT",
+   "category": "design-tools",
+   "website": "https://fonts.ninja/",
+   "pages": [
+    "home",
+    "catalog",
+    "about",
+    "product-tool",
+    "dark-mode"
+   ],
+   "palette": {
+    "primary": "#131313"
+   },
+   "profile": "profiles/sites/fonts-ninja.md",
+   "media": "media/fonts-ninja/",
+   "has_media": true
+  },
+  "framer": {
+   "style": "DT",
+   "category": "no-code-web-builder",
+   "website": "https://www.framer.com/",
+   "pages": [
+    "home",
+    "features",
+    "enterprise",
+    "marketplace",
+    "pricing",
+    "support"
+   ],
+   "palette": {
+    "primary": "#0055FF"
+   },
+   "profile": "profiles/sites/framer.md",
+   "media": "media/framer/",
+   "has_media": true
+  },
+  "front": {
+   "style": "CP",
+   "category": "customer-support-saas",
+   "website": "https://front.com/",
+   "pages": [
+    "home",
+    "product",
+    "solutions",
+    "pricing",
+    "resources"
+   ],
+   "palette": {
+    "primary": "#4C1D80"
+   },
+   "profile": "profiles/sites/front.md",
+   "media": "media/front/",
+   "has_media": true
+  },
+  "galileo-ft": {
+   "style": "DN",
+   "category": "fintech-infrastructure",
+   "website": "https://www.galileo-ft.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#3E50FC"
+   },
+   "profile": "profiles/sites/galileo-ft.md",
+   "media": "media/galileo-ft/",
+   "has_media": true
+  },
+  "gamma": {
+   "style": "ML",
+   "category": "ai-design-saas",
+   "website": "https://gamma.app/",
+   "pages": [
+    "home",
+    "about",
+    "pricing",
+    "products",
+    "solutions"
+   ],
+   "palette": {
+    "primary": "#1F3FAE"
+   },
+   "profile": "profiles/sites/gamma.md",
+   "media": "media/gamma/",
+   "has_media": true
+  },
+  "geniestudio": {
+   "style": "ML",
+   "category": "ai-design-saas",
+   "website": "https://geniestudio.app/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#191d28"
+   },
+   "profile": "profiles/sites/geniestudio.md",
+   "media": "media/geniestudio/",
+   "has_media": true
+  },
+  "genway": {
+   "style": "GR",
+   "category": "ai-research-saas",
+   "website": "https://www.genway.ai/",
+   "pages": [
+    "home",
+    "about",
+    "blog"
+   ],
+   "palette": {
+    "primary": "#221C63"
+   },
+   "profile": "profiles/sites/genway.md",
+   "media": "media/genway/",
+   "has_media": true
+  },
+  "getapron": {
+   "style": "CP",
+   "category": "fintech-payments",
+   "website": "https://getapron.com/",
+   "pages": [
+    "home",
+    "product",
+    "pricing",
+    "audience-accountants",
+    "audience-businesses"
+   ],
+   "palette": {
+    "primary": "#FFE223"
+   },
+   "profile": "profiles/sites/getapron.md",
+   "media": "media/getapron/",
+   "has_media": true
+  },
+  "getcoco": {
+   "style": "CP",
+   "category": "smb-finance-saas",
+   "website": "https://getcoco.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#2BC0F0"
+   },
+   "profile": "profiles/sites/getcoco.md",
+   "media": "media/getcoco/",
+   "has_media": true
+  },
+  "getcontrast": {
+   "style": "ML",
+   "category": "webinar-saas",
+   "website": "https://www.getcontrast.io/",
+   "pages": [
+    "home",
+    "features",
+    "blog",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#FA5A5A"
+   },
+   "profile": "profiles/sites/getcontrast.md",
+   "media": "media/getcontrast/",
+   "has_media": true
+  },
+  "getrepeat": {
+   "style": "BT",
+   "category": "ecommerce-saas",
+   "website": "https://www.getrepeat.io/",
+   "pages": [
+    "home",
+    "company",
+    "content"
+   ],
+   "palette": {
+    "primary": "#E0F64C"
+   },
+   "profile": "profiles/sites/getrepeat.md",
+   "media": "media/getrepeat/",
+   "has_media": true
+  },
+  "getstark": {
+   "style": "CP",
+   "category": "accessibility-saas",
+   "website": "https://www.getstark.co/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#fedb62"
+   },
+   "profile": "profiles/sites/getstark.md",
+   "media": "media/getstark/",
+   "has_media": true
+  },
+  "gitbook": {
+   "style": "DT",
+   "category": "developer-tools",
+   "website": "https://www.gitbook.com/",
+   "pages": [
+    "home",
+    "product",
+    "features",
+    "solutions",
+    "integrations",
+    "pricing",
+    "blog",
+    "company"
+   ],
+   "palette": {
+    "primary": "#F0E585"
+   },
+   "profile": "profiles/sites/gitbook.md",
+   "media": "media/gitbook/",
+   "has_media": true
+  },
+  "gitness": {
+   "style": "DT",
+   "category": "developer-tools",
+   "website": "https://gitness.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#ffffff"
+   },
+   "profile": "profiles/sites/gitness.md",
+   "media": "media/gitness/",
+   "has_media": true
+  },
+  "glideapps": {
+   "style": "DT",
+   "category": "no-code-saas",
+   "website": "https://www.glideapps.com/",
+   "pages": [
+    "home",
+    "product",
+    "solutions-business",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#12CCE6"
+   },
+   "profile": "profiles/sites/glideapps.md",
+   "media": "media/glideapps/",
+   "has_media": true
+  },
+  "glitch": {
+   "style": "CP",
+   "category": "dev-tools-community-saas",
+   "website": "https://glitch.com/",
+   "pages": [
+    "home",
+    "discover",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#CDF3E6"
+   },
+   "profile": "profiles/sites/glitch.md",
+   "media": "media/glitch/",
+   "has_media": true
+  },
+  "glyphy": {
+   "style": "CP",
+   "category": "text-utility",
+   "website": "https://glyphy.io/",
+   "pages": [
+    "home",
+    "tool-index (font generator)",
+    "symbol-browser",
+    "name-generator",
+    "emoticon-browser",
+    "blog"
+   ],
+   "palette": {
+    "primary": "#111111"
+   },
+   "profile": "profiles/sites/glyphy.md",
+   "media": "media/glyphy/",
+   "has_media": true
+  },
+  "goodnotes": {
+   "style": "PH",
+   "category": "productivity-software",
+   "website": "https://www.goodnotes.com/",
+   "pages": [
+    "home",
+    "features",
+    "pricing",
+    "blog"
+   ],
+   "palette": {
+    "primary": "#49BFDE"
+   },
+   "profile": "profiles/sites/goodnotes.md",
+   "media": "media/goodnotes/",
+   "has_media": true
+  },
+  "gopano": {
+   "style": "ML",
+   "category": "customer-success-saas",
+   "website": "https://www.gopano.io/",
+   "pages": [
+    "home",
+    "teams",
+    "integrations",
+    "pricing",
+    "blog"
+   ],
+   "palette": {
+    "primary": "#1C1B15"
+   },
+   "profile": "profiles/sites/gopano.md",
+   "media": "media/gopano/",
+   "has_media": true
+  },
+  "gotomorro": {
+   "style": "BT",
+   "category": "legaltech",
+   "website": "https://www.gotomorro.com/",
+   "pages": [
+    "home",
+    "product",
+    "pricing",
+    "solutions",
+    "blog"
+   ],
+   "palette": {
+    "primary": "#79EA54"
+   },
+   "profile": "profiles/sites/gotomorro.md",
+   "media": "media/gotomorro/",
+   "has_media": true
+  },
+  "grabee": {
+   "style": "ML",
+   "category": "feedback-saas",
+   "website": "https://grabee.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#5B4DF0"
+   },
+   "profile": "profiles/sites/grabee.md",
+   "media": "media/grabee/",
+   "has_media": true
+  },
+  "granola": {
+   "style": "ML",
+   "category": "ai-productivity-saas",
+   "website": "https://www.granola.ai/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#a2e681"
+   },
+   "profile": "profiles/sites/granola.md",
+   "media": "media/granola/",
+   "has_media": true
+  },
+  "graphy": {
+   "style": "DN",
+   "category": "analytics",
+   "website": "https://graphy.app/",
+   "pages": [
+    "home",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#FFFFFF"
+   },
+   "profile": "profiles/sites/graphy.md",
+   "media": "media/graphy/",
+   "has_media": true
+  },
+  "gregor-collienne": {
+   "style": "ML",
+   "category": "photography-portfolio",
+   "website": "https://gregorcollienne.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#141414"
+   },
+   "profile": "profiles/sites/gregor-collienne.md",
+   "media": "media/gregor-collienne/",
+   "has_media": true
+  },
+  "harry-atkins": {
+   "style": "ML",
+   "category": "personal-portfolio",
+   "website": "https://harryjatkins.com/",
+   "pages": [
+    "home/project-index"
+   ],
+   "palette": {
+    "primary": "#1A1A1A"
+   },
+   "profile": "profiles/sites/harry-atkins.md",
+   "media": "media/harry-atkins/",
+   "has_media": true
+  },
+  "hashicorp": {
+   "style": "DT",
+   "category": "devtools-infrastructure",
+   "website": null,
+   "pages": [
+    "home",
+    "product",
+    "pricing",
+    "resources"
+   ],
+   "palette": {
+    "primary": "#ffffff"
+   },
+   "profile": "profiles/sites/hashicorp.md",
+   "media": "media/hashicorp/",
+   "has_media": true
+  },
+  "hatch-fm": {
+   "style": "ML",
+   "category": "content-marketing-saas",
+   "website": "https://www.hatch.fm/",
+   "pages": [
+    "home",
+    "about",
+    "customers",
+    "examples",
+    "pricing",
+    "why-us"
+   ],
+   "palette": {
+    "primary": "#A7EDC3"
+   },
+   "profile": "profiles/sites/hatch-fm.md",
+   "media": "media/hatch-fm/",
+   "has_media": true
+  },
+  "headroom": {
+   "style": "BT",
+   "category": "internal-tools-saas",
+   "website": "https://headroom.com/",
+   "pages": [
+    "home",
+    "about"
+   ],
+   "palette": {
+    "primary": "#213CFF"
+   },
+   "profile": "profiles/sites/headroom.md",
+   "media": "media/headroom/",
+   "has_media": true
+  },
+  "healthytogether": {
+   "style": "CP",
+   "category": "govtech-health",
+   "website": "https://www.healthytogether.co/",
+   "pages": [
+    "home",
+    "enterprise-product",
+    "government-product"
+   ],
+   "palette": {
+    "primary": "#5B4DF0"
+   },
+   "profile": "profiles/sites/healthytogether.md",
+   "media": "media/healthytogether/",
+   "has_media": true
+  },
+  "height-app": {
+   "style": "DT",
+   "category": "project-management-saas",
+   "website": "https://height.app/",
+   "pages": [
+    "home",
+    "company",
+    "home-light-variant"
+   ],
+   "palette": {
+    "primary": "#6A5CF5"
+   },
+   "profile": "profiles/sites/height-app.md",
+   "media": "media/height-app/",
+   "has_media": true
+  },
+  "hellotime": {
+   "style": "ML",
+   "category": "scheduling-saas",
+   "website": "https://www.hellotime.io/",
+   "pages": [
+    "home",
+    "about",
+    "blog",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#2C2C2E"
+   },
+   "profile": "profiles/sites/hellotime.md",
+   "media": "media/hellotime/",
+   "has_media": true
+  },
+  "herokit": {
+   "style": "CP",
+   "category": "design-utility-saas",
+   "website": "https://herokit.design/",
+   "pages": [
+    "home",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#F2F79B"
+   },
+   "profile": "profiles/sites/herokit.md",
+   "media": "media/herokit/",
+   "has_media": true
+  },
+  "heynds": {
+   "style": "ML",
+   "category": "ai-writing-saas",
+   "website": "https://www.heynds.com/en",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#F63901"
+   },
+   "profile": "profiles/sites/heynds.md",
+   "media": "media/heynds/",
+   "has_media": true
+  },
+  "heyquin": {
+   "style": "ML",
+   "category": "crm-saas",
+   "website": "https://www.heyquin.io/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#DDE93A"
+   },
+   "profile": "profiles/sites/heyquin.md",
+   "media": "media/heyquin/",
+   "has_media": true
+  },
+  "holograph": {
+   "style": "DT",
+   "category": "crypto-infrastructure",
+   "website": "https://www.holograph.xyz/",
+   "pages": [
+    "home",
+    "community",
+    "developers",
+    "ecosystem",
+    "governance"
+   ],
+   "palette": {
+    "primary": "#0E0E0E"
+   },
+   "profile": "profiles/sites/holograph.md",
+   "media": "media/holograph/",
+   "has_media": true
+  },
+  "hook-xyz": {
+   "style": "IL",
+   "category": "web3-defi",
+   "website": "https://hook.xyz/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#141210"
+   },
+   "profile": "profiles/sites/hook-xyz.md",
+   "media": "media/hook-xyz/",
+   "has_media": true
+  },
+  "hp": {
+   "style": "ML",
+   "category": "consumer-electronics",
+   "website": null,
+   "pages": [
+    "homepage",
+    "laptop-shop",
+    "printer-pricing",
+    "faq"
+   ],
+   "palette": {
+    "primary": "#024ad8"
+   },
+   "profile": "profiles/sites/hp.md",
+   "media": "media/hp/",
+   "has_media": true
+  },
+  "huddle-works": {
+   "style": "ML",
+   "category": "hiring-marketplace",
+   "website": "https://www.huddle.works/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#0a0a0a"
+   },
+   "profile": "profiles/sites/huddle-works.md",
+   "media": "media/huddle-works/",
+   "has_media": true
+  },
+  "hydra": {
+   "style": "IL",
+   "category": "dev-data-tools",
+   "website": "https://www.hydra.so/",
+   "pages": [
+    "home",
+    "pricing",
+    "product",
+    "resources"
+   ],
+   "palette": {
+    "primary": "#F2731D"
+   },
+   "profile": "profiles/sites/hydra.md",
+   "media": "media/hydra/",
+   "has_media": true
+  },
+  "hyperliquid": {
+   "style": "DT",
+   "category": "crypto-defi-exchange",
+   "website": "https://hyperliquid.xyz/",
+   "pages": [
+    "home",
+    "blog-index",
+    "product-landing (vaults)"
+   ],
+   "palette": {
+    "primary": "#98F1DE"
+   },
+   "profile": "profiles/sites/hyperliquid.md",
+   "media": "media/hyperliquid/",
+   "has_media": true
+  },
+  "ibm": {
+   "style": "ML",
+   "category": "enterprise-technology",
+   "website": null,
+   "pages": [
+    "home",
+    "product",
+    "consulting",
+    "community"
+   ],
+   "palette": {
+    "primary": "#0f62fe"
+   },
+   "profile": "profiles/sites/ibm.md",
+   "media": "media/ibm/",
+   "has_media": true
+  },
+  "icebug": {
+   "style": "ML",
+   "category": "outdoor-footwear-ecommerce",
+   "website": "https://www.icebug.com/en-GB",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#FFFFFF"
+   },
+   "profile": "profiles/sites/icebug.md",
+   "media": "media/icebug/",
+   "has_media": true
+  },
+  "idle-finance": {
+   "style": "DN",
+   "category": "defi-yield-protocol",
+   "website": "https://idle.finance/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#ffffff"
+   },
+   "profile": "profiles/sites/idle-finance.md",
+   "media": "media/idle-finance/",
+   "has_media": true
+  },
+  "imgs-so": {
+   "style": "ML",
+   "category": "photo-community",
+   "website": "https://imgs.so/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#ffffff"
+   },
+   "profile": "profiles/sites/imgs-so.md",
+   "media": "media/imgs-so/",
+   "has_media": true
+  },
+  "impilo": {
+   "style": "CP",
+   "category": "healthtech-saas",
+   "website": "https://impilo.health/",
+   "pages": [
+    "home",
+    "about",
+    "blog",
+    "solutions"
+   ],
+   "palette": {
+    "primary": "#ffffff"
+   },
+   "profile": "profiles/sites/impilo.md",
+   "media": "media/impilo/",
+   "has_media": true
+  },
+  "index-app": {
+   "style": "ML",
+   "category": "analytics-bi-saas",
+   "website": "https://index.app/",
+   "pages": [
+    "home",
+    "pricing",
+    "blog"
+   ],
+   "palette": {
+    "primary": "#2B2723"
+   },
+   "profile": "profiles/sites/index-app.md",
+   "media": "media/index-app/",
+   "has_media": true
+  },
+  "index-inc": {
+   "style": "DN",
+   "category": "product-management-saas",
+   "website": "https://index.inc/",
+   "pages": [
+    "home",
+    "integration-docs"
+   ],
+   "palette": {
+    "primary": "#FF5A36"
+   },
+   "profile": "profiles/sites/index-inc.md",
+   "media": "media/index-inc/",
+   "has_media": true
+  },
+  "intercom": {
+   "style": "EL",
+   "category": "customer-service-saas",
+   "website": "https://www.intercom.com",
+   "pages": [
+    "home",
+    "pricing",
+    "product",
+    "customers"
+   ],
+   "palette": {
+    "primary": "#111111"
+   },
+   "profile": "profiles/sites/intercom.md",
+   "media": "media/intercom/",
+   "has_media": true
+  },
+  "interfere": {
+   "style": "ML",
+   "category": "developer-tools",
+   "website": "https://interfere.com/",
+   "pages": [
+    "landing"
+   ],
+   "palette": {
+    "primary": "#111113"
+   },
+   "profile": "profiles/sites/interfere.md",
+   "media": "media/interfere/",
+   "has_media": true
+  },
+  "inthememory": {
+   "style": "ML",
+   "category": "retail-tech-saas",
+   "website": null,
+   "pages": [
+    "home",
+    "about",
+    "careers",
+    "product-features"
+   ],
+   "palette": {
+    "primary": "#16302E"
+   },
+   "profile": "profiles/sites/inthememory.md",
+   "media": "media/inthememory/",
+   "has_media": true
+  },
+  "jam-dev": {
+   "style": "DT",
+   "category": "developer-tools",
+   "website": "https://jam.dev/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#73e5b8"
+   },
+   "profile": "profiles/sites/jam-dev.md",
+   "media": "media/jam-dev/",
+   "has_media": true
+  },
+  "jasper": {
+   "style": "GR",
+   "category": "ai-marketing-saas",
+   "website": "https://www.jasper.ai/",
+   "pages": [
+    "home",
+    "platform",
+    "pricing",
+    "solutions",
+    "company",
+    "resources"
+   ],
+   "palette": {
+    "primary": "#8624F5"
+   },
+   "profile": "profiles/sites/jasper.md",
+   "media": "media/jasper/",
+   "has_media": true
+  },
+  "jitter": {
+   "style": "BT",
+   "category": "motion-design-saas",
+   "website": "https://jitter.video/",
+   "pages": [
+    "home",
+    "product",
+    "pricing",
+    "customers",
+    "templates"
+   ],
+   "palette": {
+    "primary": "#b493fe"
+   },
+   "profile": "profiles/sites/jitter.md",
+   "media": "media/jitter/",
+   "has_media": true
+  },
+  "juicebox": {
+   "style": "ML",
+   "category": "ai-recruiting-saas",
+   "website": "https://juicebox.ai/",
+   "pages": [
+    "home",
+    "pricing",
+    "blog"
+   ],
+   "palette": {
+    "primary": "#0D0D0D"
+   },
+   "profile": "profiles/sites/juicebox.md",
+   "media": "media/juicebox/",
+   "has_media": true
+  },
+  "june": {
+   "style": "ML",
+   "category": "product-analytics",
+   "website": "https://www.june.so/",
+   "pages": [
+    "home",
+    "features",
+    "pricing",
+    "customers",
+    "changelog"
+   ],
+   "palette": {
+    "primary": "#5E5CE6"
+   },
+   "profile": "profiles/sites/june.md",
+   "media": "media/june/",
+   "has_media": true
+  },
+  "kikin": {
+   "style": "IL",
+   "category": "fintech",
+   "website": "https://www.kikin.io/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#56DC49"
+   },
+   "profile": "profiles/sites/kikin.md",
+   "media": "media/kikin/",
+   "has_media": true
+  },
+  "kindsight": {
+   "style": "EL",
+   "category": "nonprofit-saas",
+   "website": "https://kindsight.io/",
+   "pages": [
+    "home",
+    "company",
+    "pricing",
+    "products",
+    "resources",
+    "solutions"
+   ],
+   "palette": {
+    "primary": "#DF8462"
+   },
+   "profile": "profiles/sites/kindsight.md",
+   "media": "media/kindsight/",
+   "has_media": true
+  },
+  "kit": {
+   "style": "GR",
+   "category": "creator-economy-saas",
+   "website": "https://kit.com/",
+   "pages": [
+    "home",
+    "features",
+    "pricing",
+    "blog",
+    "use-case-landing"
+   ],
+   "palette": {
+    "primary": "#3BA5F8"
+   },
+   "profile": "profiles/sites/kit.md",
+   "media": "media/kit/",
+   "has_media": true
+  },
+  "ko-fi": {
+   "style": "ML",
+   "category": "creator-economy",
+   "website": "https://ko-fi.com/",
+   "pages": [
+    "home",
+    "how-it-works",
+    "pricing",
+    "membership",
+    "commissions",
+    "shop",
+    "our-story"
+   ],
+   "palette": {
+    "primary": "#77A4EE"
+   },
+   "profile": "profiles/sites/ko-fi.md",
+   "media": "media/ko-fi/",
+   "has_media": true
+  },
+  "kosmik": {
+   "style": "IL",
+   "category": "productivity-saas",
+   "website": "https://www.kosmik.app/",
+   "pages": [
+    "home",
+    "features",
+    "use-cases"
+   ],
+   "palette": {
+    "primary": "#F2662D"
+   },
+   "profile": "profiles/sites/kosmik.md",
+   "media": "media/kosmik/",
+   "has_media": true
+  },
+  "kraken": {
+   "style": "DT",
+   "category": "crypto-exchange",
+   "website": null,
+   "pages": [
+    "landing"
+   ],
+   "palette": {
+    "primary": "#7132f5"
+   },
+   "profile": "profiles/sites/kraken.md",
+   "media": "media/kraken/",
+   "has_media": true
+  },
+  "krepling": {
+   "style": "IL",
+   "category": "ecommerce-saas",
+   "website": "https://www.krepling.com/",
+   "pages": [
+    "home",
+    "features",
+    "pricing",
+    "blog"
+   ],
+   "palette": {
+    "primary": "#B255FB"
+   },
+   "profile": "profiles/sites/krepling.md",
+   "media": "media/krepling/",
+   "has_media": true
+  },
+  "lamborghini": {
+   "style": "EL",
+   "category": "automotive",
+   "website": null,
+   "pages": [
+    "home",
+    "event",
+    "news"
+   ],
+   "palette": {
+    "primary": "#FFC000"
+   },
+   "profile": "profiles/sites/lamborghini.md",
+   "media": "media/lamborghini/",
+   "has_media": true
+  },
+  "langbase": {
+   "style": "DN",
+   "category": "ai-infra-saas",
+   "website": "https://langbase.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#ffffff"
+   },
+   "profile": "profiles/sites/langbase.md",
+   "media": "media/langbase/",
+   "has_media": true
+  },
+  "lattice": {
+   "style": "ML",
+   "category": "hr-saas",
+   "website": "https://lattice.com/",
+   "pages": [
+    "home",
+    "platform",
+    "solutions",
+    "pricing",
+    "resources",
+    "customers",
+    "company"
+   ],
+   "palette": {
+    "primary": "#17594F"
+   },
+   "profile": "profiles/sites/lattice.md",
+   "media": "media/lattice/",
+   "has_media": true
+  },
+  "lazy-so": {
+   "style": "DT",
+   "category": "productivity-software",
+   "website": "https://lazy.so/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#1e1f23"
+   },
+   "profile": "profiles/sites/lazy-so.md",
+   "media": "media/lazy-so/",
+   "has_media": true
+  },
+  "linear.app": {
+   "style": "DT",
+   "category": "dev-tools",
+   "website": null,
+   "pages": [
+    "home",
+    "pricing",
+    "contact-sales",
+    "changelog",
+    "intake"
+   ],
+   "palette": {
+    "primary": "#5e6ad2"
+   },
+   "profile": "profiles/sites/linear.app.md",
+   "media": "media/linear.app/",
+   "has_media": true
+  },
+  "listenup": {
+   "style": "ML",
+   "category": "product-management-saas",
+   "website": "https://www.listenup.ai/",
+   "pages": [
+    "home",
+    "pricing",
+    "product",
+    "use-cases"
+   ],
+   "palette": {
+    "primary": "#F6CB5C"
+   },
+   "profile": "profiles/sites/listenup.md",
+   "media": "media/listenup/",
+   "has_media": true
+  },
+  "literal-club": {
+   "style": "DT",
+   "category": "social-reading-platform",
+   "website": "https://literal.club/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#25C575"
+   },
+   "profile": "profiles/sites/literal-club.md",
+   "media": "media/literal-club/",
+   "has_media": true
+  },
+  "lithic": {
+   "style": "ML",
+   "category": "fintech-payments-infrastructure",
+   "website": "https://www.lithic.com/",
+   "pages": [
+    "home",
+    "platform",
+    "services",
+    "solutions",
+    "company",
+    "blog"
+   ],
+   "palette": {
+    "primary": "#0E7C4F"
+   },
+   "profile": "profiles/sites/lithic.md",
+   "media": "media/lithic/",
+   "has_media": true
+  },
+  "liveblocks": {
+   "style": "DN",
+   "category": "dev-platform",
+   "website": "https://liveblocks.io/",
+   "pages": [
+    "home",
+    "product",
+    "feature (comments/notifications/presence/dashboard/infrastructure)",
+    "pricing",
+    "company"
+   ],
+   "palette": {
+    "primary": "#ffffff"
+   },
+   "profile": "profiles/sites/liveblocks.md",
+   "media": "media/liveblocks/",
+   "has_media": true
+  },
+  "loops": {
+   "style": "ML",
+   "category": "email-marketing-saas",
+   "website": "https://loops.so/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#FB5A0C"
+   },
+   "profile": "profiles/sites/loops.md",
+   "media": "media/loops/",
+   "has_media": true
+  },
+  "lottiefiles": {
+   "style": "CP",
+   "category": "creative-tools-saas",
+   "website": "https://lottiefiles.com/",
+   "pages": [
+    "home",
+    "pricing",
+    "community",
+    "customer-case-study",
+    "developer-integrations",
+    "enterprise",
+    "tool-landing"
+   ],
+   "palette": {
+    "primary": "#00C1A2"
+   },
+   "profile": "profiles/sites/lottiefiles.md",
+   "media": "media/lottiefiles/",
+   "has_media": true
+  },
+  "lottielab": {
+   "style": "ML",
+   "category": "design-tools-saas",
+   "website": "https://www.lottielab.com/",
+   "pages": [
+    "home",
+    "features",
+    "examples"
+   ],
+   "palette": {
+    "primary": "#8674F0"
+   },
+   "profile": "profiles/sites/lottielab.md",
+   "media": "media/lottielab/",
+   "has_media": true
+  },
+  "lovable": {
+   "style": "GR",
+   "category": "ai-dev-tools",
+   "website": null,
+   "pages": [
+    "landing"
+   ],
+   "palette": {
+    "primary": "#1c1c1c"
+   },
+   "profile": "profiles/sites/lovable.md",
+   "media": "media/lovable/",
+   "has_media": true
+  },
+  "luroapp": {
+   "style": "DT",
+   "category": "design-system-tools",
+   "website": "https://luroapp.com/",
+   "pages": [
+    "home",
+    "pricing",
+    "blog"
+   ],
+   "palette": {
+    "primary": "#EC2C8C"
+   },
+   "profile": "profiles/sites/luroapp.md",
+   "media": "media/luroapp/",
+   "has_media": true
+  },
+  "madewithgsap": {
+   "style": "DN",
+   "category": "dev-resources",
+   "website": "https://madewithgsap.com/",
+   "pages": [
+    "home",
+    "collection",
+    "faq",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#CDF546"
+   },
+   "profile": "profiles/sites/madewithgsap.md",
+   "media": "media/madewithgsap/",
+   "has_media": true
+  },
+  "magicbeans": {
+   "style": "CP",
+   "category": "smb-finance-saas",
+   "website": "https://magicbeans.app/",
+   "pages": [
+    "home",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#111111"
+   },
+   "profile": "profiles/sites/magicbeans.md",
+   "media": "media/magicbeans/",
+   "has_media": true
+  },
+  "makelog": {
+   "style": "CP",
+   "category": "dev-tools-changelog",
+   "website": "https://www.makelog.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#8A47E6"
+   },
+   "profile": "profiles/sites/makelog.md",
+   "media": "media/makelog/",
+   "has_media": true
+  },
+  "maneken": {
+   "style": "BT",
+   "category": "design-tools",
+   "website": "https://maneken.app/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#0251B8"
+   },
+   "profile": "profiles/sites/maneken.md",
+   "media": "media/maneken/",
+   "has_media": true
+  },
+  "mastercard": {
+   "style": "ML",
+   "category": "fintech-payments",
+   "website": null,
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#141413"
+   },
+   "profile": "profiles/sites/mastercard.md",
+   "media": "media/mastercard/",
+   "has_media": true
+  },
+  "meech213": {
+   "style": "ML",
+   "category": "photography-portfolio",
+   "website": "https://www.meech213.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#141414"
+   },
+   "profile": "profiles/sites/meech213.md",
+   "media": "media/meech213/",
+   "has_media": true
+  },
+  "memorisely": {
+   "style": "ML",
+   "category": "ed-tech",
+   "website": "https://www.memorisely.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#1b1a1d"
+   },
+   "profile": "profiles/sites/memorisely.md",
+   "media": "media/memorisely/",
+   "has_media": true
+  },
+  "merlin": {
+   "style": "ML",
+   "category": "ai-productivity-saas",
+   "website": "https://www.merlin.computer/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#000000"
+   },
+   "profile": "profiles/sites/merlin.md",
+   "media": "media/merlin/",
+   "has_media": true
+  },
+  "meta": {
+   "style": "ML",
+   "category": "consumer-hardware",
+   "website": null,
+   "pages": [
+    "homepage",
+    "product-detail",
+    "buy-now-configurator",
+    "accessory-subpage"
+   ],
+   "palette": {
+    "primary": "#0064e0"
+   },
+   "profile": "profiles/sites/meta.md",
+   "media": "media/meta/",
+   "has_media": true
+  },
+  "metadrop": {
+   "style": "DN",
+   "category": "crypto-launchpad",
+   "website": "https://metadrop.com/",
+   "pages": [
+    "home",
+    "activity"
+   ],
+   "palette": {
+    "primary": "#F5F5F2"
+   },
+   "profile": "profiles/sites/metadrop.md",
+   "media": "media/metadrop/",
+   "has_media": true
+  },
+  "metaview": {
+   "style": "GR",
+   "category": "hr-recruiting-saas",
+   "website": null,
+   "pages": [
+    "home",
+    "pricing",
+    "customers",
+    "careers",
+    "resources",
+    "security-privacy"
+   ],
+   "palette": {
+    "primary": "#7DF0A8"
+   },
+   "profile": "profiles/sites/metaview.md",
+   "media": "media/metaview/",
+   "has_media": true
+  },
+  "mezmo": {
+   "style": "BT",
+   "category": "observability-saas",
+   "website": "https://www.mezmo.com/",
+   "pages": [
+    "home",
+    "platform"
+   ],
+   "palette": {
+    "primary": "#E4F97B"
+   },
+   "profile": "profiles/sites/mezmo.md",
+   "media": "media/mezmo/",
+   "has_media": true
+  },
+  "micro": {
+   "style": "IL",
+   "category": "productivity-saas",
+   "website": "https://www.micro.so/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#f4f4ec"
+   },
+   "profile": "profiles/sites/micro.md",
+   "media": "media/micro/",
+   "has_media": true
+  },
+  "minimax": {
+   "style": "ML",
+   "category": "ai-models",
+   "website": null,
+   "pages": [
+    "homepage",
+    "product-showcase",
+    "documentation",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#0a0a0a"
+   },
+   "profile": "profiles/sites/minimax.md",
+   "media": "media/minimax/",
+   "has_media": true
+  },
+  "mintlify-recent": {
+   "style": "ML",
+   "category": "developer-tools",
+   "website": "https://www.mintlify.com/",
+   "pages": [
+    "landing"
+   ],
+   "palette": {
+    "primary": "#141414"
+   },
+   "profile": "profiles/sites/mintlify-recent.md",
+   "media": "media/mintlify-recent/",
+   "has_media": true
+  },
+  "mintlify": {
+   "style": "DT",
+   "category": "developer-tools",
+   "website": "https://mintlify.com/",
+   "pages": [
+    "home",
+    "pricing",
+    "careers",
+    "documentation",
+    "customers",
+    "lead-form",
+    "light-mode-home"
+   ],
+   "palette": {
+    "primary": "#FAFAFA"
+   },
+   "profile": "profiles/sites/mintlify.md",
+   "media": "media/mintlify/",
+   "has_media": true
+  },
+  "miro": {
+   "style": "ML",
+   "category": "collaboration-saas",
+   "website": "https://miro.com/intelligent-canvas/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#171717"
+   },
+   "profile": "profiles/sites/miro.md",
+   "media": "media/miro/",
+   "has_media": true
+  },
+  "mistral.ai": {
+   "style": "GR",
+   "category": "ai-foundation-models",
+   "website": null,
+   "pages": [
+    "home",
+    "product",
+    "solutions",
+    "news-article",
+    "contact",
+    "services"
+   ],
+   "palette": {
+    "primary": "#fa520f"
+   },
+   "profile": "profiles/sites/mistral.ai.md",
+   "media": "media/mistral.ai/",
+   "has_media": true
+  },
+  "mixpanel": {
+   "style": "DT",
+   "category": "analytics-saas",
+   "website": "https://mixpanel.com/home/",
+   "pages": [
+    "home",
+    "product-feature",
+    "developer",
+    "customers",
+    "pricing",
+    "scale"
+   ],
+   "palette": {
+    "primary": "#7856FF"
+   },
+   "profile": "profiles/sites/mixpanel.md",
+   "media": "media/mixpanel/",
+   "has_media": true
+  },
+  "mmm-page": {
+   "style": "CP",
+   "category": "no-code-website-builder",
+   "website": "https://mmm.page/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#7A1FE0"
+   },
+   "profile": "profiles/sites/mmm-page.md",
+   "media": "media/mmm-page/",
+   "has_media": true
+  },
+  "modal": {
+   "style": "DT",
+   "category": "ai-infrastructure",
+   "website": "https://modal.com/",
+   "pages": [
+    "home",
+    "pricing",
+    "use-cases",
+    "customers",
+    "blog",
+    "company"
+   ],
+   "palette": {
+    "primary": "#7FEE64"
+   },
+   "profile": "profiles/sites/modal.md",
+   "media": "media/modal/",
+   "has_media": true
+  },
+  "mode": {
+   "style": "EL",
+   "category": "bi-saas",
+   "website": "https://mode.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#EDF2E3"
+   },
+   "profile": "profiles/sites/mode.md",
+   "media": "media/mode/",
+   "has_media": true
+  },
+  "monad": {
+   "style": "GR",
+   "category": "security-data-infrastructure",
+   "website": "https://www.monad.com/",
+   "pages": [
+    "home",
+    "product",
+    "integrations",
+    "about",
+    "blog"
+   ],
+   "palette": {
+    "primary": "#161513"
+   },
+   "profile": "profiles/sites/monad.md",
+   "media": "media/monad/",
+   "has_media": true
+  },
+  "mongodb": {
+   "style": "DT",
+   "category": "developer-tools",
+   "website": null,
+   "pages": [
+    "homepage",
+    "product",
+    "pricing",
+    "course-catalog",
+    "use-case",
+    "community-edition"
+   ],
+   "palette": {
+    "primary": "#00ed64"
+   },
+   "profile": "profiles/sites/mongodb.md",
+   "media": "media/mongodb/",
+   "has_media": true
+  },
+  "monologue": {
+   "style": "EL",
+   "category": "ai-productivity-saas",
+   "website": "https://www.monologue.to/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#D6D2C9"
+   },
+   "profile": "profiles/sites/monologue.md",
+   "media": "media/monologue/",
+   "has_media": true
+  },
+  "moonli": {
+   "style": "CP",
+   "category": "crypto-infra",
+   "website": "https://moonli.me/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#B4F53C"
+   },
+   "profile": "profiles/sites/moonli.md",
+   "media": "media/moonli/",
+   "has_media": true
+  },
+  "morflax": {
+   "style": "IL",
+   "category": "3d-design-studio",
+   "website": "https://morflax.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#ffffff"
+   },
+   "profile": "profiles/sites/morflax.md",
+   "media": "media/morflax/",
+   "has_media": true
+  },
+  "morphic": {
+   "style": "DT",
+   "category": "ai-video-studio",
+   "website": "https://morphic.com/",
+   "pages": [
+    "home",
+    "about",
+    "product-feature"
+   ],
+   "palette": {
+    "primary": "#2b6bf3"
+   },
+   "profile": "profiles/sites/morphic.md",
+   "media": "media/morphic/",
+   "has_media": true
+  },
+  "motionformobile": {
+   "style": "CP",
+   "category": "creator-video-saas",
+   "website": "https://www.motionformobile.com/",
+   "pages": [
+    "home",
+    "about",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#F04E23"
+   },
+   "profile": "profiles/sites/motionformobile.md",
+   "media": "media/motionformobile/",
+   "has_media": true
+  },
+  "movingparts": {
+   "style": "ML",
+   "category": "developer-tools",
+   "website": "https://movingparts.io/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#2002FF"
+   },
+   "profile": "profiles/sites/movingparts.md",
+   "media": "media/movingparts/",
+   "has_media": true
+  },
+  "multiparty": {
+   "style": "ML",
+   "category": "dev-infra-security",
+   "website": "https://multiparty.ai/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#2563EB"
+   },
+   "profile": "profiles/sites/multiparty.md",
+   "media": "media/multiparty/",
+   "has_media": true
+  },
+  "mural": {
+   "style": "CP",
+   "category": "collaboration-saas",
+   "website": "https://www.mural.co/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#ff4b4d"
+   },
+   "profile": "profiles/sites/mural.md",
+   "media": "media/mural/",
+   "has_media": true
+  },
+  "mux": {
+   "style": "BT",
+   "category": "dev-infra",
+   "website": "https://www.mux.com/",
+   "pages": [
+    "home",
+    "product",
+    "pricing",
+    "blog",
+    "team"
+   ],
+   "palette": {
+    "primary": "#232323"
+   },
+   "profile": "profiles/sites/mux.md",
+   "media": "media/mux/",
+   "has_media": true
+  },
+  "mymind": {
+   "style": "GR",
+   "category": "personal-software",
+   "website": "https://mymind.com/",
+   "pages": [
+    "home",
+    "how-it-works",
+    "blog-index",
+    "about-why"
+   ],
+   "palette": {
+    "primary": "#fd4b19"
+   },
+   "profile": "profiles/sites/mymind.md",
+   "media": "media/mymind/",
+   "has_media": true
+  },
+  "near": {
+   "style": "CP",
+   "category": "crypto-blockchain",
+   "website": "https://near.org/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#5beda5"
+   },
+   "profile": "profiles/sites/near.md",
+   "media": "media/near/",
+   "has_media": true
+  },
+  "nike": {
+   "style": "PH",
+   "category": "sportswear-retail",
+   "website": null,
+   "pages": [
+    "home-category",
+    "product-listing",
+    "product-detail",
+    "membership",
+    "collection-landing"
+   ],
+   "palette": {
+    "primary": "#111111"
+   },
+   "profile": "profiles/sites/nike.md",
+   "media": "media/nike/",
+   "has_media": true
+  },
+  "nintendo-2001": {
+   "style": "CP",
+   "category": "gaming",
+   "website": null,
+   "pages": [
+    "home",
+    "systems",
+    "games",
+    "news",
+    "login-register"
+   ],
+   "palette": {
+    "primary": "#f68d1f"
+   },
+   "profile": "profiles/sites/nintendo-2001.md",
+   "media": "media/nintendo-2001/",
+   "has_media": true
+  },
+  "nothing-to-watch": {
+   "style": "DN",
+   "category": "entertainment-media",
+   "website": "https://nothing-to-watch.port80.ch/",
+   "pages": [
+    "onboarding"
+   ],
+   "palette": {
+    "primary": "#F5F5F5"
+   },
+   "profile": "profiles/sites/nothing-to-watch.md",
+   "media": "media/nothing-to-watch/",
+   "has_media": true
+  },
+  "notion": {
+   "style": "ML",
+   "category": "productivity-saas",
+   "website": "https://www.notion.so/",
+   "pages": [
+    "home",
+    "product",
+    "docs",
+    "projects",
+    "ai",
+    "calendar",
+    "pricing",
+    "download"
+   ],
+   "palette": {
+    "primary": "#191918"
+   },
+   "profile": "profiles/sites/notion.md",
+   "media": "media/notion/",
+   "has_media": true
+  },
+  "nvidia": {
+   "style": "DT",
+   "category": "semiconductors-ai-computing",
+   "website": null,
+   "pages": [
+    "homepage",
+    "industry-landing",
+    "solutions-landing",
+    "product-landing"
+   ],
+   "palette": {
+    "primary": "#76b900"
+   },
+   "profile": "profiles/sites/nvidia.md",
+   "media": "media/nvidia/",
+   "has_media": true
+  },
+  "obscura": {
+   "style": "IL",
+   "category": "privacy-security",
+   "website": "https://obscura.net/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#ff652f"
+   },
+   "profile": "profiles/sites/obscura.md",
+   "media": "media/obscura/",
+   "has_media": true
+  },
+  "obviously": {
+   "style": "ML",
+   "category": "ai-tooling-saas",
+   "website": "https://www.obviously.ai/",
+   "pages": [
+    "home",
+    "service",
+    "pricing",
+    "case-study"
+   ],
+   "palette": {
+    "primary": "#2E7CF6"
+   },
+   "profile": "profiles/sites/obviously.md",
+   "media": "media/obviously/",
+   "has_media": true
+  },
+  "ollama": {
+   "style": "ML",
+   "category": "ai-developer-tools",
+   "website": null,
+   "pages": [
+    "home",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#000000"
+   },
+   "profile": "profiles/sites/ollama.md",
+   "media": "media/ollama/",
+   "has_media": true
+  },
+  "opencode.ai": {
+   "style": "DT",
+   "category": "developer-tools",
+   "website": null,
+   "pages": [
+    "home",
+    "product (zen)",
+    "enterprise"
+   ],
+   "palette": {
+    "primary": "#201d1d"
+   },
+   "profile": "profiles/sites/opencode.ai.md",
+   "media": "media/opencode.ai/",
+   "has_media": true
+  },
+  "opencollective": {
+   "style": "IL",
+   "category": "fintech-fundraising",
+   "website": "https://opencollective.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#12316B"
+   },
+   "profile": "profiles/sites/opencollective.md",
+   "media": "media/opencollective/",
+   "has_media": true
+  },
+  "openserv": {
+   "style": "DT",
+   "category": "ai-agent-marketplace",
+   "website": "https://openserv.ai/",
+   "pages": [
+    "home",
+    "about",
+    "contact",
+    "faqs"
+   ],
+   "palette": {
+    "primary": "#6D28D9"
+   },
+   "profile": "profiles/sites/openserv.md",
+   "media": "media/openserv/",
+   "has_media": true
+  },
+  "operate": {
+   "style": "IL",
+   "category": "sales-crm",
+   "website": "https://operate.so/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#127024"
+   },
+   "profile": "profiles/sites/operate.md",
+   "media": "media/operate/",
+   "has_media": true
+  },
+  "orior-ai": {
+   "style": "ML",
+   "category": "ai-saas",
+   "website": "https://www.oriorai.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#D9D6D0"
+   },
+   "profile": "profiles/sites/orior-ai.md",
+   "media": "media/orior-ai/",
+   "has_media": true
+  },
+  "ortto": {
+   "style": "ML",
+   "category": "marketing-saas",
+   "website": "https://ortto.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#2765fd"
+   },
+   "profile": "profiles/sites/ortto.md",
+   "media": "media/ortto/",
+   "has_media": true
+  },
+  "osmo-supply": {
+   "style": "DT",
+   "category": "dev-tools",
+   "website": "https://www.osmo.supply/",
+   "pages": [
+    "home",
+    "pricing",
+    "faq"
+   ],
+   "palette": {
+    "primary": "#efedea"
+   },
+   "profile": "profiles/sites/osmo-supply.md",
+   "media": "media/osmo-supply/",
+   "has_media": true
+  },
+  "outerbase": {
+   "style": "DT",
+   "category": "dev-data-tools",
+   "website": "https://www.outerbase.com/",
+   "pages": [
+    "home",
+    "pricing",
+    "blog"
+   ],
+   "palette": {
+    "primary": "#e8e8e8"
+   },
+   "profile": "profiles/sites/outerbase.md",
+   "media": "media/outerbase/",
+   "has_media": true
+  },
+  "outseta": {
+   "style": "CP",
+   "category": "membership-saas",
+   "website": "https://www.outseta.com/",
+   "pages": [
+    "home",
+    "product",
+    "pricing",
+    "blog",
+    "company",
+    "learn"
+   ],
+   "palette": {
+    "primary": "#E32C9B"
+   },
+   "profile": "profiles/sites/outseta.md",
+   "media": "media/outseta/",
+   "has_media": true
+  },
+  "overflow": {
+   "style": "GR",
+   "category": "design-tools-saas",
+   "website": "https://overflow.io/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#000000"
+   },
+   "profile": "profiles/sites/overflow.md",
+   "media": "media/overflow/",
+   "has_media": true
+  },
+  "oxide-computer": {
+   "style": "DT",
+   "category": "cloud-infrastructure",
+   "website": "https://oxide.computer/",
+   "pages": [
+    "home",
+    "product",
+    "blog",
+    "careers",
+    "events"
+   ],
+   "palette": {
+    "primary": "#48D597"
+   },
+   "profile": "profiles/sites/oxide-computer.md",
+   "media": "media/oxide-computer/",
+   "has_media": true
+  },
+  "oysterhr": {
+   "style": "CP",
+   "category": "hr-saas",
+   "website": "https://www.oysterhr.com/",
+   "pages": [
+    "home",
+    "about",
+    "platform",
+    "pricing",
+    "product",
+    "resources"
+   ],
+   "palette": {
+    "primary": "#17493B"
+   },
+   "profile": "profiles/sites/oysterhr.md",
+   "media": "media/oysterhr/",
+   "has_media": true
+  },
+  "pacome-pertant": {
+   "style": "DT",
+   "category": "portfolio-motion-design",
+   "website": "https://pacomepertant.com/",
+   "pages": [
+    "landing-gate"
+   ],
+   "palette": {
+    "primary": "#F7F7F7"
+   },
+   "profile": "profiles/sites/pacome-pertant.md",
+   "media": "media/pacome-pertant/",
+   "has_media": true
+  },
+  "paper-design": {
+   "style": "ML",
+   "category": "design-tools",
+   "website": "https://paper.design/",
+   "pages": [
+    "home",
+    "home-dark"
+   ],
+   "palette": {
+    "primary": "#181816"
+   },
+   "profile": "profiles/sites/paper-design.md",
+   "media": "media/paper-design/",
+   "has_media": true
+  },
+  "paper": {
+   "style": "DT",
+   "category": "design-saas",
+   "website": "https://paper.design/",
+   "pages": [
+    "home",
+    "roadmap",
+    "build-log/changelog"
+   ],
+   "palette": {
+    "primary": "#F7F6F0"
+   },
+   "profile": "profiles/sites/paper.md",
+   "media": "media/paper/",
+   "has_media": true
+  },
+  "paradigmai": {
+   "style": "ML",
+   "category": "ai-saas",
+   "website": "https://www.paradigmai.com/",
+   "pages": [
+    "home",
+    "product",
+    "solutions",
+    "templates",
+    "pricing",
+    "blog",
+    "careers"
+   ],
+   "palette": {
+    "primary": "#101319"
+   },
+   "profile": "profiles/sites/paradigmai.md",
+   "media": "media/paradigmai/",
+   "has_media": true
+  },
+  "pass-app": {
+   "style": "BT",
+   "category": "crypto-wallet-web3",
+   "website": "https://pass.app/",
+   "pages": [
+    "home",
+    "about",
+    "security"
+   ],
+   "palette": {
+    "primary": "#2B1C96"
+   },
+   "profile": "profiles/sites/pass-app.md",
+   "media": "media/pass-app/",
+   "has_media": true
+  },
+  "passionfroot": {
+   "style": "IL",
+   "category": "creator-economy-saas",
+   "website": "https://www.passionfroot.me/",
+   "pages": [
+    "home",
+    "about",
+    "careers",
+    "for-brands",
+    "blog"
+   ],
+   "palette": {
+    "primary": "#F2845C"
+   },
+   "profile": "profiles/sites/passionfroot.md",
+   "media": "media/passionfroot/",
+   "has_media": true
+  },
+  "paywithpeppermint": {
+   "style": "CP",
+   "category": "fintech",
+   "website": "https://paywithpeppermint.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#1B2150"
+   },
+   "profile": "profiles/sites/paywithpeppermint.md",
+   "media": "media/paywithpeppermint/",
+   "has_media": true
+  },
+  "pencilbooth": {
+   "style": "CP",
+   "category": "creator-saas",
+   "website": "https://www.pencilbooth.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#111111"
+   },
+   "profile": "profiles/sites/pencilbooth.md",
+   "media": "media/pencilbooth/",
+   "has_media": true
+  },
+  "penpot": {
+   "style": "ML",
+   "category": "design-saas-open-source",
+   "website": "https://penpot.app/",
+   "pages": [
+    "home",
+    "product",
+    "self-host/developers",
+    "community/wall-of-love",
+    "resources/templates"
+   ],
+   "palette": {
+    "primary": "#2EE5A8"
+   },
+   "profile": "profiles/sites/penpot.md",
+   "media": "media/penpot/",
+   "has_media": true
+  },
+  "pinterest": {
+   "style": "PH",
+   "category": "social-discovery",
+   "website": null,
+   "pages": [
+    "home",
+    "search-results",
+    "creator-marketing",
+    "creator-article",
+    "login-modal"
+   ],
+   "palette": {
+    "primary": "#e60023"
+   },
+   "profile": "profiles/sites/pinterest.md",
+   "media": "media/pinterest/",
+   "has_media": true
+  },
+  "pirsch": {
+   "style": "DT",
+   "category": "analytics-saas",
+   "website": "https://pirsch.io/",
+   "pages": [
+    "home",
+    "product",
+    "pricing",
+    "solution",
+    "blog"
+   ],
+   "palette": {
+    "primary": "#3fe0a1"
+   },
+   "profile": "profiles/sites/pirsch.md",
+   "media": "media/pirsch/",
+   "has_media": true
+  },
+  "planetscale": {
+   "style": "ML",
+   "category": "database-saas",
+   "website": "https://planetscale.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#f35815"
+   },
+   "profile": "profiles/sites/planetscale.md",
+   "media": "media/planetscale/",
+   "has_media": true
+  },
+  "planpoint": {
+   "style": "ML",
+   "category": "real-estate-saas",
+   "website": "https://www.planpoint.io/",
+   "pages": [
+    "home",
+    "features",
+    "examples",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#2563EB"
+   },
+   "profile": "profiles/sites/planpoint.md",
+   "media": "media/planpoint/",
+   "has_media": true
+  },
+  "playstation": {
+   "style": "DT",
+   "category": "gaming",
+   "website": null,
+   "pages": [
+    "home",
+    "product-listing",
+    "game-detail",
+    "support"
+   ],
+   "palette": {
+    "primary": "#0070d1"
+   },
+   "profile": "profiles/sites/playstation.md",
+   "media": "media/playstation/",
+   "has_media": true
+  },
+  "podia": {
+   "style": "CP",
+   "category": "creator-economy-saas",
+   "website": "https://www.podia.com/",
+   "pages": [
+    "home",
+    "email-marketing",
+    "online-store",
+    "pricing",
+    "switch-comparison",
+    "website-builder"
+   ],
+   "palette": {
+    "primary": "#231F35"
+   },
+   "profile": "profiles/sites/podia.md",
+   "media": "media/podia/",
+   "has_media": true
+  },
+  "podium": {
+   "style": "ML",
+   "category": "creative-agency",
+   "website": "https://podium.global/",
+   "pages": [
+    "home",
+    "work-index",
+    "about",
+    "contact"
+   ],
+   "palette": {
+    "primary": "#ffffff"
+   },
+   "profile": "profiles/sites/podium.md",
+   "media": "media/podium/",
+   "has_media": true
+  },
+  "podscan": {
+   "style": "ML",
+   "category": "media-monitoring-saas",
+   "website": "https://podscan.fm/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#111111"
+   },
+   "profile": "profiles/sites/podscan.md",
+   "media": "media/podscan/",
+   "has_media": true
+  },
+  "pop-site": {
+   "style": "ML",
+   "category": "link-in-bio-saas",
+   "website": "https://pop.site/",
+   "pages": [
+    "home",
+    "blog",
+    "sections/features"
+   ],
+   "palette": {
+    "primary": "#3B7BF7"
+   },
+   "profile": "profiles/sites/pop-site.md",
+   "media": "media/pop-site/",
+   "has_media": true
+  },
+  "portalgaming": {
+   "style": "GR",
+   "category": "web3-gaming-platform",
+   "website": "https://portalgaming.com/",
+   "pages": [
+    "home",
+    "build",
+    "ecosystem"
+   ],
+   "palette": {
+    "primary": "#0A0A0A"
+   },
+   "profile": "profiles/sites/portalgaming.md",
+   "media": "media/portalgaming/",
+   "has_media": true
+  },
+  "portrait": {
+   "style": "ML",
+   "category": "web3-identity",
+   "website": "https://portrait.so/",
+   "pages": [
+    "home",
+    "about",
+    "blog",
+    "points"
+   ],
+   "palette": {
+    "primary": "#26241F"
+   },
+   "profile": "profiles/sites/portrait.md",
+   "media": "media/portrait/",
+   "has_media": true
+  },
+  "posthog": {
+   "style": "CP",
+   "category": "developer-tools",
+   "website": null,
+   "pages": [
+    "home",
+    "pricing",
+    "docs",
+    "product-feature"
+   ],
+   "palette": {
+    "primary": "#f7a501"
+   },
+   "profile": "profiles/sites/posthog.md",
+   "media": "media/posthog/",
+   "has_media": true
+  },
+  "prevalent-ai": {
+   "style": "IL",
+   "category": "cybersecurity-saas",
+   "website": "https://prevalent.ai/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#6360d5"
+   },
+   "profile": "profiles/sites/prevalent-ai.md",
+   "media": "media/prevalent-ai/",
+   "has_media": true
+  },
+  "prismic": {
+   "style": "ML",
+   "category": "dev-tools-cms",
+   "website": "https://prismic.io/",
+   "pages": [
+    "home",
+    "product",
+    "pricing",
+    "blog",
+    "showcase",
+    "developers-landing",
+    "agencies-landing"
+   ],
+   "palette": {
+    "primary": "#151515"
+   },
+   "profile": "profiles/sites/prismic.md",
+   "media": "media/prismic/",
+   "has_media": true
+  },
+  "privy": {
+   "style": "ML",
+   "category": "web3-dev-infrastructure",
+   "website": "https://www.privy.io/",
+   "pages": [
+    "home",
+    "about",
+    "features",
+    "pricing",
+    "security"
+   ],
+   "palette": {
+    "primary": "#4E46E5"
+   },
+   "profile": "profiles/sites/privy.md",
+   "media": "media/privy/",
+   "has_media": true
+  },
+  "prototyper-for-figma": {
+   "style": "DT",
+   "category": "design-tools",
+   "website": "https://prototyper.design/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#0A8DE7"
+   },
+   "profile": "profiles/sites/prototyper-for-figma.md",
+   "media": "media/prototyper-for-figma/",
+   "has_media": true
+  },
+  "qatalog": {
+   "style": "ML",
+   "category": "enterprise-ai-saas",
+   "website": "https://qatalog.com/",
+   "pages": [
+    "home",
+    "pricing",
+    "product",
+    "resources"
+   ],
+   "palette": {
+    "primary": "#1E1E1E"
+   },
+   "profile": "profiles/sites/qatalog.md",
+   "media": "media/qatalog/",
+   "has_media": true
+  },
+  "qatchup": {
+   "style": "IL",
+   "category": "feedback-saas",
+   "website": "https://www.qatchup.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#292929"
+   },
+   "profile": "profiles/sites/qatchup.md",
+   "media": "media/qatchup/",
+   "has_media": true
+  },
+  "ragged-edge": {
+   "style": "ML",
+   "category": "branding-agency",
+   "website": "https://raggededge.com/",
+   "pages": [
+    "home",
+    "footer",
+    "contact"
+   ],
+   "palette": {
+    "primary": "#141414"
+   },
+   "profile": "profiles/sites/ragged-edge.md",
+   "media": "media/ragged-edge/",
+   "has_media": true
+  },
+  "rally-space": {
+   "style": "ML",
+   "category": "product-comms-saas",
+   "website": "https://rally.space/",
+   "pages": [
+    "home",
+    "product",
+    "blog"
+   ],
+   "palette": {
+    "primary": "#17140F"
+   },
+   "profile": "profiles/sites/rally-space.md",
+   "media": "media/rally-space/",
+   "has_media": true
+  },
+  "raycast": {
+   "style": "DN",
+   "category": "developer-tools",
+   "website": "https://raycast.com",
+   "pages": [
+    "home",
+    "pricing",
+    "blog"
+   ],
+   "palette": {
+    "primary": "#e8e8ec"
+   },
+   "profile": "profiles/sites/raycast.md",
+   "media": "media/raycast/",
+   "has_media": true
+  },
+  "react-email": {
+   "style": "DT",
+   "category": "dev-tools",
+   "website": "https://react.email/",
+   "pages": [
+    "home",
+    "components-gallery",
+    "templates-gallery"
+   ],
+   "palette": {
+    "primary": "#ffffff"
+   },
+   "profile": "profiles/sites/react-email.md",
+   "media": "media/react-email/",
+   "has_media": true
+  },
+  "ready-so": {
+   "style": "ML",
+   "category": "scheduling-saas",
+   "website": "http://ready.so/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#7364F8"
+   },
+   "profile": "profiles/sites/ready-so.md",
+   "media": "media/ready-so/",
+   "has_media": true
+  },
+  "reef": {
+   "style": "IL",
+   "category": "web3-blockchain",
+   "website": "https://reef.io/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#681aff"
+   },
+   "profile": "profiles/sites/reef.md",
+   "media": "media/reef/",
+   "has_media": true
+  },
+  "reflect": {
+   "style": "DN",
+   "category": "productivity",
+   "website": "https://reflect.app/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#1e0b45"
+   },
+   "profile": "profiles/sites/reflect.md",
+   "media": "media/reflect/",
+   "has_media": true
+  },
+  "relace": {
+   "style": "ML",
+   "category": "ai-infra-saas",
+   "website": "https://relace.ai/",
+   "pages": [
+    "home",
+    "pricing",
+    "blog",
+    "about-us"
+   ],
+   "palette": {
+    "primary": "#F5A623"
+   },
+   "profile": "profiles/sites/relace.md",
+   "media": "media/relace/",
+   "has_media": true
+  },
+  "relate-so": {
+   "style": "ML",
+   "category": "crm-sales-saas",
+   "website": "https://www.relate.so/",
+   "pages": [
+    "home",
+    "changelog"
+   ],
+   "palette": {
+    "primary": "#2563EB"
+   },
+   "profile": "profiles/sites/relate-so.md",
+   "media": "media/relate-so/",
+   "has_media": true
+  },
+  "relayed": {
+   "style": "ML",
+   "category": "meeting-ai-saas",
+   "website": "https://relayed.ai/",
+   "pages": [
+    "home",
+    "product",
+    "use-cases"
+   ],
+   "palette": {
+    "primary": "#E062E8"
+   },
+   "profile": "profiles/sites/relayed.md",
+   "media": "media/relayed/",
+   "has_media": true
+  },
+  "renault": {
+   "style": "PH",
+   "category": "automotive",
+   "website": null,
+   "pages": [
+    "home",
+    "vehicle-listing",
+    "configurator",
+    "campaign"
+   ],
+   "palette": {
+    "primary": "#ffed00"
+   },
+   "profile": "profiles/sites/renault.md",
+   "media": "media/renault/",
+   "has_media": true
+  },
+  "replay": {
+   "style": "GR",
+   "category": "dev-tools",
+   "website": "https://www.replay.io/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#f02d5e"
+   },
+   "profile": "profiles/sites/replay.md",
+   "media": "media/replay/",
+   "has_media": true
+  },
+  "replicate": {
+   "style": "ML",
+   "category": "ai-ml-platform",
+   "website": null,
+   "pages": [
+    "home",
+    "pricing",
+    "model-collections",
+    "enterprise"
+   ],
+   "palette": {
+    "primary": "#ea2804"
+   },
+   "profile": "profiles/sites/replicate.md",
+   "media": "media/replicate/",
+   "has_media": true
+  },
+  "replit": {
+   "style": "DT",
+   "category": "dev-tools-saas",
+   "website": "https://replit.com/",
+   "pages": [
+    "home",
+    "feature (cde)",
+    "feature (collaboration)",
+    "feature (deployments)",
+    "feature (replit-ai)",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#E4592B"
+   },
+   "profile": "profiles/sites/replit.md",
+   "media": "media/replit/",
+   "has_media": true
+  },
+  "resend-forward": {
+   "style": "ML",
+   "category": "developer-tools",
+   "website": "https://resend.com/forward",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#0a0a0a"
+   },
+   "profile": "profiles/sites/resend-forward.md",
+   "media": "media/resend-forward/",
+   "has_media": true
+  },
+  "resend": {
+   "style": "DT",
+   "category": "email-api-saas",
+   "website": "https://resend.com/",
+   "pages": [
+    "home",
+    "features",
+    "pricing",
+    "enterprise",
+    "contact",
+    "handbook"
+   ],
+   "palette": {
+    "primary": "#f5f5f5"
+   },
+   "profile": "profiles/sites/resend.md",
+   "media": "media/resend/",
+   "has_media": true
+  },
+  "retool": {
+   "style": "DT",
+   "category": "low-code-platform",
+   "website": "https://retool.com/",
+   "pages": [
+    "home",
+    "product (apps",
+    "ai-apps",
+    "database",
+    "mobile",
+    "external-apps)",
+    "solutions (enterprise)",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#EFECE1"
+   },
+   "profile": "profiles/sites/retool.md",
+   "media": "media/retool/",
+   "has_media": true
+  },
+  "revolut": {
+   "style": "DN",
+   "category": "fintech",
+   "website": null,
+   "pages": [
+    "home",
+    "product",
+    "pricing-plans"
+   ],
+   "palette": {
+    "primary": "#ffffff"
+   },
+   "profile": "profiles/sites/revolut.md",
+   "media": "media/revolut/",
+   "has_media": true
+  },
+  "reworkd": {
+   "style": "ML",
+   "category": "ai-infra-saas",
+   "website": "https://www.reworkd.ai/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#406fef"
+   },
+   "profile": "profiles/sites/reworkd.md",
+   "media": "media/reworkd/",
+   "has_media": true
+  },
+  "risecalendar": {
+   "style": "DN",
+   "category": "productivity-saas",
+   "website": "https://www.risecalendar.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#6d68e9"
+   },
+   "profile": "profiles/sites/risecalendar.md",
+   "media": "media/risecalendar/",
+   "has_media": true
+  },
+  "runwayml": {
+   "style": "PH",
+   "category": "ai-creative-tools",
+   "website": null,
+   "pages": [
+    "home",
+    "pricing",
+    "research",
+    "studios",
+    "contact"
+   ],
+   "palette": {
+    "primary": "#000000"
+   },
+   "profile": "profiles/sites/runwayml.md",
+   "media": "media/runwayml/",
+   "has_media": true
+  },
+  "safepal": {
+   "style": "DN",
+   "category": "crypto-wallet",
+   "website": "https://www.safepal.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#7BF0C1"
+   },
+   "profile": "profiles/sites/safepal.md",
+   "media": "media/safepal/",
+   "has_media": true
+  },
+  "sandclock": {
+   "style": "DT",
+   "category": "fintech-defi",
+   "website": "https://www.sandclock.org/",
+   "pages": [
+    "home",
+    "save",
+    "invest",
+    "donate",
+    "token"
+   ],
+   "palette": {
+    "primary": "#F3E2CC"
+   },
+   "profile": "profiles/sites/sandclock.md",
+   "media": "media/sandclock/",
+   "has_media": true
+  },
+  "sanity": {
+   "style": "DT",
+   "category": "content-platform",
+   "website": null,
+   "pages": [
+    "home",
+    "pricing",
+    "product (studio)",
+    "campaign (content-agent)"
+   ],
+   "palette": {
+    "primary": "#ffffff"
+   },
+   "profile": "profiles/sites/sanity.md",
+   "media": "media/sanity/",
+   "has_media": true
+  },
+  "saucelabs": {
+   "style": "IL",
+   "category": "dev-tools-qa-testing",
+   "website": "https://saucelabs.com/",
+   "pages": [
+    "home",
+    "blog",
+    "pricing",
+    "products",
+    "solutions"
+   ],
+   "palette": {
+    "primary": "#3EDC81"
+   },
+   "profile": "profiles/sites/saucelabs.md",
+   "media": "media/saucelabs/",
+   "has_media": true
+  },
+  "save-day": {
+   "style": "BT",
+   "category": "ai-productivity",
+   "website": "https://www.save.day/",
+   "pages": [
+    "home",
+    "product"
+   ],
+   "palette": {
+    "primary": "#FBD65B"
+   },
+   "profile": "profiles/sites/save-day.md",
+   "media": "media/save-day/",
+   "has_media": true
+  },
+  "saybriefly": {
+   "style": "ML",
+   "category": "meeting-ai-saas",
+   "website": "https://saybriefly.com/",
+   "pages": [
+    "home",
+    "pricing",
+    "blog-index"
+   ],
+   "palette": {
+    "primary": "#163300"
+   },
+   "profile": "profiles/sites/saybriefly.md",
+   "media": "media/saybriefly/",
+   "has_media": true
+  },
+  "scenery": {
+   "style": "DT",
+   "category": "video-collaboration-saas",
+   "website": "https://scenery.video/",
+   "pages": [
+    "home",
+    "product",
+    "pricing",
+    "company",
+    "blog"
+   ],
+   "palette": {
+    "primary": "#f5c518"
+   },
+   "profile": "profiles/sites/scenery.md",
+   "media": "media/scenery/",
+   "has_media": true
+  },
+  "seline": {
+   "style": "ML",
+   "category": "analytics-saas",
+   "website": "https://seline.so/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#3AA4EE"
+   },
+   "profile": "profiles/sites/seline.md",
+   "media": "media/seline/",
+   "has_media": true
+  },
+  "sentry": {
+   "style": "DN",
+   "category": "developer-tools",
+   "website": null,
+   "pages": [
+    "home",
+    "product",
+    "pricing",
+    "contact"
+   ],
+   "palette": {
+    "primary": "#150f23"
+   },
+   "profile": "profiles/sites/sentry.md",
+   "media": "media/sentry/",
+   "has_media": true
+  },
+  "shapeco": {
+   "style": "ML",
+   "category": "ed-tech",
+   "website": "https://shape.co/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#FBFBFB"
+   },
+   "profile": "profiles/sites/shapeco.md",
+   "media": "media/shapeco/",
+   "has_media": true
+  },
+  "shareio": {
+   "style": "EL",
+   "category": "creator-economy-saas",
+   "website": "https://www.shareio.app/",
+   "pages": [
+    "home",
+    "about",
+    "whitepaper"
+   ],
+   "palette": {
+    "primary": "#EFEFEC"
+   },
+   "profile": "profiles/sites/shareio.md",
+   "media": "media/shareio/",
+   "has_media": true
+  },
+  "shares-io": {
+   "style": "CP",
+   "category": "fintech-social-investing",
+   "website": "https://shares.io/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#5B4FF2"
+   },
+   "profile": "profiles/sites/shares-io.md",
+   "media": "media/shares-io/",
+   "has_media": true
+  },
+  "shareup": {
+   "style": "IL",
+   "category": "collaboration-saas",
+   "website": "https://shareup.app/",
+   "pages": [
+    "home",
+    "use-cases",
+    "community",
+    "jobs",
+    "blog"
+   ],
+   "palette": {
+    "primary": "#8B5CF6"
+   },
+   "profile": "profiles/sites/shareup.md",
+   "media": "media/shareup/",
+   "has_media": true
+  },
+  "shopify-design": {
+   "style": "ML",
+   "category": "design-agency-showcase",
+   "website": "https://shopify.design/",
+   "pages": [
+    "home",
+    "work-gallery"
+   ],
+   "palette": {
+    "primary": "#0a0a0a"
+   },
+   "profile": "profiles/sites/shopify-design.md",
+   "media": "media/shopify-design/",
+   "has_media": true
+  },
+  "shopify-editions-spring-26": {
+   "style": "DT",
+   "category": "ecommerce",
+   "website": "https://www.shopify.com/editions/spring2026",
+   "pages": [
+    "landing",
+    "feature-showcase"
+   ],
+   "palette": {
+    "primary": "#ffffff"
+   },
+   "profile": "profiles/sites/shopify-editions-spring-26.md",
+   "media": "media/shopify-editions-spring-26/",
+   "has_media": true
+  },
+  "shopify-editions": {
+   "style": "ML",
+   "category": "ecommerce-platform",
+   "website": "https://www.shopify.com/editions/winter2026",
+   "pages": [
+    "landing",
+    "feature-showcase",
+    "release-notes"
+   ],
+   "palette": {
+    "primary": "#FFFFFF"
+   },
+   "profile": "profiles/sites/shopify-editions.md",
+   "media": "media/shopify-editions/",
+   "has_media": true
+  },
+  "shopify": {
+   "style": "ML",
+   "category": "ecommerce-saas",
+   "website": "https://www.shopify.com/",
+   "pages": [
+    "home",
+    "enterprise",
+    "pricing",
+    "resources",
+    "solutions"
+   ],
+   "palette": {
+    "primary": "#0a0a0a"
+   },
+   "profile": "profiles/sites/shopify.md",
+   "media": "media/shopify/",
+   "has_media": true
+  },
+  "shortcut": {
+   "style": "DT",
+   "category": "dev-collab-saas",
+   "website": "https://www.shortcut.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#3a96c9"
+   },
+   "profile": "profiles/sites/shortcut.md",
+   "media": "media/shortcut/",
+   "has_media": true
+  },
+  "shortverse": {
+   "style": "IL",
+   "category": "entertainment",
+   "website": "https://www.shortverse.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#6B01F4"
+   },
+   "profile": "profiles/sites/shortverse.md",
+   "media": "media/shortverse/",
+   "has_media": true
+  },
+  "shuttle": {
+   "style": "DT",
+   "category": "file-sharing-saas",
+   "website": "https://shuttle.zip/",
+   "pages": [
+    "home",
+    "pricing",
+    "updates"
+   ],
+   "palette": {
+    "primary": "#FFFFFF"
+   },
+   "profile": "profiles/sites/shuttle.md",
+   "media": "media/shuttle/",
+   "has_media": true
+  },
+  "sileon": {
+   "style": "DT",
+   "category": "fintech-bnpl-saas",
+   "website": "https://sileon.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#FFFFFF"
+   },
+   "profile": "profiles/sites/sileon.md",
+   "media": "media/sileon/",
+   "has_media": true
+  },
+  "silo": {
+   "style": "ML",
+   "category": "ecommerce-hardware",
+   "website": "https://www.silosilosilo.com/",
+   "pages": [
+    "home",
+    "product-configurator",
+    "cart-bar"
+   ],
+   "palette": {
+    "primary": "#6e6e6e"
+   },
+   "profile": "profiles/sites/silo.md",
+   "media": "media/silo/",
+   "has_media": true
+  },
+  "sketch": {
+   "style": "ML",
+   "category": "design-tools",
+   "website": "https://www.sketch.com/",
+   "pages": [
+    "home",
+    "features",
+    "pricing",
+    "blog"
+   ],
+   "palette": {
+    "primary": "#F1692B"
+   },
+   "profile": "profiles/sites/sketch.md",
+   "media": "media/sketch/",
+   "has_media": true
+  },
+  "skiff": {
+   "style": "ML",
+   "category": "privacy-saas",
+   "website": "https://skiff.com/",
+   "pages": [
+    "home",
+    "product-mail",
+    "product-pages",
+    "product-drive",
+    "product-calendar",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#0D0D0D"
+   },
+   "profile": "profiles/sites/skiff.md",
+   "media": "media/skiff/",
+   "has_media": true
+  },
+  "slack": {
+   "style": "CP",
+   "category": "workplace-messaging",
+   "website": null,
+   "pages": [
+    "home",
+    "features",
+    "pricing",
+    "contact-sales"
+   ],
+   "palette": {
+    "primary": "#4a154b"
+   },
+   "profile": "profiles/sites/slack.md",
+   "media": "media/slack/",
+   "has_media": true
+  },
+  "spacex": {
+   "style": "PH",
+   "category": "aerospace",
+   "website": null,
+   "pages": [
+    "home",
+    "shop",
+    "vehicle-detail",
+    "human-spaceflight",
+    "mission"
+   ],
+   "palette": {
+    "primary": "#000000"
+   },
+   "profile": "profiles/sites/spacex.md",
+   "media": "media/spacex/",
+   "has_media": true
+  },
+  "sparkles": {
+   "style": "CP",
+   "category": "ai-dev-tools",
+   "website": "https://sparkles.dev/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#171717"
+   },
+   "profile": "profiles/sites/sparkles.md",
+   "media": "media/sparkles/",
+   "has_media": true
+  },
+  "specifyapp": {
+   "style": "DT",
+   "category": "design-system-saas",
+   "website": "https://specifyapp.com/",
+   "pages": [
+    "home",
+    "pricing",
+    "blog",
+    "solutions"
+   ],
+   "palette": {
+    "primary": "#6C51E4"
+   },
+   "profile": "profiles/sites/specifyapp.md",
+   "media": "media/specifyapp/",
+   "has_media": true
+  },
+  "spellbook": {
+   "style": "DT",
+   "category": "legaltech-saas",
+   "website": "https://www.spellbook.legal/",
+   "pages": [
+    "home",
+    "product",
+    "company",
+    "resources",
+    "security"
+   ],
+   "palette": {
+    "primary": "#ffffff"
+   },
+   "profile": "profiles/sites/spellbook.md",
+   "media": "media/spellbook/",
+   "has_media": true
+  },
+  "spotify": {
+   "style": "CP",
+   "category": "music-streaming",
+   "website": null,
+   "pages": [
+    "app-shell",
+    "browse",
+    "search"
+   ],
+   "palette": {
+    "primary": "#1ed760"
+   },
+   "profile": "profiles/sites/spotify.md",
+   "media": "media/spotify/",
+   "has_media": true
+  },
+  "sprout": {
+   "style": "CP",
+   "category": "social-saas",
+   "website": "https://sprout.place/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#4A0E1E"
+   },
+   "profile": "profiles/sites/sprout.md",
+   "media": "media/sprout/",
+   "has_media": true
+  },
+  "stableaudio": {
+   "style": "ML",
+   "category": "ai-audio-generation",
+   "website": "https://www.stableaudio.com/",
+   "pages": [
+    "home",
+    "about",
+    "pricing",
+    "user-guide"
+   ],
+   "palette": {
+    "primary": "#9EC5F8"
+   },
+   "profile": "profiles/sites/stableaudio.md",
+   "media": "media/stableaudio/",
+   "has_media": true
+  },
+  "standards-site": {
+   "style": "DT",
+   "category": "design-tools-saas",
+   "website": "https://standards.site/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#fe2e00"
+   },
+   "profile": "profiles/sites/standards-site.md",
+   "media": "media/standards-site/",
+   "has_media": true
+  },
+  "starbucks": {
+   "style": "ML",
+   "category": "food-beverage",
+   "website": null,
+   "pages": [
+    "home",
+    "rewards",
+    "gift-cards",
+    "product-detail",
+    "product-nutrition"
+   ],
+   "palette": {
+    "primary": "#00754A"
+   },
+   "profile": "profiles/sites/starbucks.md",
+   "media": "media/starbucks/",
+   "has_media": true
+  },
+  "starlight-money": {
+   "style": "DT",
+   "category": "crypto-fintech",
+   "website": "https://www.starlight.money/",
+   "pages": [
+    "home",
+    "about",
+    "blog",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#2b2115"
+   },
+   "profile": "profiles/sites/starlight-money.md",
+   "media": "media/starlight-money/",
+   "has_media": true
+  },
+  "statamic": {
+   "style": "IL",
+   "category": "cms",
+   "website": "https://statamic.com/",
+   "pages": [
+    "home",
+    "pricing",
+    "product-features"
+   ],
+   "palette": {
+    "primary": "#1A1A1E"
+   },
+   "profile": "profiles/sites/statamic.md",
+   "media": "media/statamic/",
+   "has_media": true
+  },
+  "steep": {
+   "style": "ML",
+   "category": "analytics-saas",
+   "website": "https://steep.app/",
+   "pages": [
+    "home",
+    "pricing",
+    "download",
+    "help-center",
+    "company"
+   ],
+   "palette": {
+    "primary": "#1a1a1a"
+   },
+   "profile": "profiles/sites/steep.md",
+   "media": "media/steep/",
+   "has_media": true
+  },
+  "stripe": {
+   "style": "GR",
+   "category": "fintech-infrastructure",
+   "website": null,
+   "pages": [
+    "home",
+    "product",
+    "pricing",
+    "signup"
+   ],
+   "palette": {
+    "primary": "#533afd"
+   },
+   "profile": "profiles/sites/stripe.md",
+   "media": "media/stripe/",
+   "has_media": true
+  },
+  "strut": {
+   "style": "ML",
+   "category": "ai-writing-saas",
+   "website": "https://strut.so/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#FEB546"
+   },
+   "profile": "profiles/sites/strut.md",
+   "media": "media/strut/",
+   "has_media": true
+  },
+  "studio-design": {
+   "style": "BT",
+   "category": "no-code-site-builder",
+   "website": "https://studio.design/",
+   "pages": [
+    "home",
+    "features",
+    "pricing",
+    "templates",
+    "learn",
+    "updates"
+   ],
+   "palette": {
+    "primary": "#F13A9B"
+   },
+   "profile": "profiles/sites/studio-design.md",
+   "media": "media/studio-design/",
+   "has_media": true
+  },
+  "sublime": {
+   "style": "EL",
+   "category": "personal-knowledge-management",
+   "website": "https://sublime.app/",
+   "pages": [
+    "home",
+    "manifesto"
+   ],
+   "palette": {
+    "primary": "#CAFFA5"
+   },
+   "profile": "profiles/sites/sublime.md",
+   "media": "media/sublime/",
+   "has_media": true
+  },
+  "suno": {
+   "style": "EL",
+   "category": "ai-music-generation",
+   "website": "https://www.suno.ai/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#141414"
+   },
+   "profile": "profiles/sites/suno.md",
+   "media": "media/suno/",
+   "has_media": true
+  },
+  "supabase": {
+   "style": "DT",
+   "category": "developer-tools",
+   "website": "https://supabase.com",
+   "pages": [
+    "home",
+    "pricing",
+    "blog",
+    "product",
+    "developers",
+    "launch-week"
+   ],
+   "palette": {
+    "primary": "#3ecf8e"
+   },
+   "profile": "profiles/sites/supabase.md",
+   "media": "media/supabase/",
+   "has_media": true
+  },
+  "super": {
+   "style": "DN",
+   "category": "fintech-rewards",
+   "website": "https://www.super.com/",
+   "pages": [
+    "home",
+    "product",
+    "about",
+    "careers",
+    "blog",
+    "press"
+   ],
+   "palette": {
+    "primary": "#E90D74"
+   },
+   "profile": "profiles/sites/super.md",
+   "media": "media/super/",
+   "has_media": true
+  },
+  "superhuman": {
+   "style": "PH",
+   "category": "ai-productivity-saas",
+   "website": "https://superhuman.com/",
+   "pages": [
+    "home",
+    "product",
+    "pricing",
+    "enterprise",
+    "contact",
+    "blog"
+   ],
+   "palette": {
+    "primary": "#6C3BD9"
+   },
+   "profile": "profiles/sites/superhuman.md",
+   "media": "media/superhuman/",
+   "has_media": true
+  },
+  "supertape": {
+   "style": "BT",
+   "category": "music-saas",
+   "website": "https://www.supertape.com/",
+   "pages": [
+    "home",
+    "platforms",
+    "pricing",
+    "templates"
+   ],
+   "palette": {
+    "primary": "#7B5CFA"
+   },
+   "profile": "profiles/sites/supertape.md",
+   "media": "media/supertape/",
+   "has_media": true
+  },
+  "superthread": {
+   "style": "ML",
+   "category": "project-management-saas",
+   "website": "https://www.superthread.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#111727"
+   },
+   "profile": "profiles/sites/superthread.md",
+   "media": "media/superthread/",
+   "has_media": true
+  },
+  "swagapp": {
+   "style": "CP",
+   "category": "hr-saas",
+   "website": "https://swagapp.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#391853"
+   },
+   "profile": "profiles/sites/swagapp.md",
+   "media": "media/swagapp/",
+   "has_media": true
+  },
+  "switch-lit": {
+   "style": "IL",
+   "category": "writing-saas",
+   "website": "https://switch-lit.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#000000"
+   },
+   "profile": "profiles/sites/switch-lit.md",
+   "media": "media/switch-lit/",
+   "has_media": true
+  },
+  "syllabus": {
+   "style": "ML",
+   "category": "seo-marketing-saas",
+   "website": "https://syllabus.io/",
+   "pages": [
+    "home",
+    "about"
+   ],
+   "palette": {
+    "primary": "#FBE59A"
+   },
+   "profile": "profiles/sites/syllabus.md",
+   "media": "media/syllabus/",
+   "has_media": true
+  },
+  "synthesia": {
+   "style": "PH",
+   "category": "ai-video-generation",
+   "website": "https://www.synthesia.io/",
+   "pages": [
+    "home",
+    "features",
+    "pricing",
+    "company",
+    "resources",
+    "use-cases"
+   ],
+   "palette": {
+    "primary": "#2B5CE6"
+   },
+   "profile": "profiles/sites/synthesia.md",
+   "media": "media/synthesia/",
+   "has_media": true
+  },
+  "tableland": {
+   "style": "IL",
+   "category": "web3-dev-infra",
+   "website": "https://tableland.xyz/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#1A1A1A"
+   },
+   "profile": "profiles/sites/tableland.md",
+   "media": "media/tableland/",
+   "has_media": true
+  },
+  "tailwindcss": {
+   "style": "DT",
+   "category": "developer-tools",
+   "website": "https://tailwindcss.com/",
+   "pages": [
+    "home",
+    "home-light-mode"
+   ],
+   "palette": {
+    "primary": "#394053"
+   },
+   "profile": "profiles/sites/tailwindcss.md",
+   "media": "media/tailwindcss/",
+   "has_media": true
+  },
+  "tally": {
+   "style": "IL",
+   "category": "form-builder-saas",
+   "website": null,
+   "pages": [
+    "home",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#0f70d9"
+   },
+   "profile": "profiles/sites/tally.md",
+   "media": "media/tally/",
+   "has_media": true
+  },
+  "tana": {
+   "style": "ML",
+   "category": "productivity-saas",
+   "website": "https://tana.inc/",
+   "pages": [
+    "home",
+    "features",
+    "use-case-individuals",
+    "use-case-teams",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#96409B"
+   },
+   "profile": "profiles/sites/tana.md",
+   "media": "media/tana/",
+   "has_media": true
+  },
+  "tedy": {
+   "style": "PH",
+   "category": "hr-saas",
+   "website": "https://www.tedy.app/",
+   "pages": [
+    "home",
+    "product-overview",
+    "pricing",
+    "faq",
+    "features"
+   ],
+   "palette": {
+    "primary": "#F5117B"
+   },
+   "profile": "profiles/sites/tedy.md",
+   "media": "media/tedy/",
+   "has_media": true
+  },
+  "tesla": {
+   "style": "PH",
+   "category": "automotive",
+   "website": null,
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#3E6AE1"
+   },
+   "profile": "profiles/sites/tesla.md",
+   "media": "media/tesla/",
+   "has_media": true
+  },
+  "textla": {
+   "style": "CP",
+   "category": "sms-marketing-saas",
+   "website": "https://www.textla.com/",
+   "pages": [
+    "home",
+    "pricing",
+    "product",
+    "resources"
+   ],
+   "palette": {
+    "primary": "#F5E31C"
+   },
+   "profile": "profiles/sites/textla.md",
+   "media": "media/textla/",
+   "has_media": true
+  },
+  "theleap": {
+   "style": "CP",
+   "category": "creator-economy-saas",
+   "website": "https://www.theleap.co/",
+   "pages": [
+    "home",
+    "about",
+    "blog",
+    "resources"
+   ],
+   "palette": {
+    "primary": "#E9F55E"
+   },
+   "profile": "profiles/sites/theleap.md",
+   "media": "media/theleap/",
+   "has_media": true
+  },
+  "thenile": {
+   "style": "DT",
+   "category": "ai-infra-database-saas",
+   "website": "https://www.thenile.dev/",
+   "pages": [
+    "home",
+    "about",
+    "blog",
+    "community",
+    "docs",
+    "pricing",
+    "templates"
+   ],
+   "palette": {
+    "primary": "#7DEDE8"
+   },
+   "profile": "profiles/sites/thenile.md",
+   "media": "media/thenile/",
+   "has_media": true
+  },
+  "thepatchsystem": {
+   "style": "BT",
+   "category": "healthtech-saas",
+   "website": "https://thepatchsystem.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#ff622d"
+   },
+   "profile": "profiles/sites/thepatchsystem.md",
+   "media": "media/thepatchsystem/",
+   "has_media": true
+  },
+  "theverge": {
+   "style": "BT",
+   "category": "tech-media",
+   "website": null,
+   "pages": [
+    "homepage"
+   ],
+   "palette": {
+    "primary": "#3cffd0"
+   },
+   "profile": "profiles/sites/theverge.md",
+   "media": "media/theverge/",
+   "has_media": true
+  },
+  "threads": {
+   "style": "DN",
+   "category": "scheduling-saas",
+   "website": "https://threads.com/",
+   "pages": [
+    "home",
+    "pricing",
+    "gallery",
+    "interactive-landing"
+   ],
+   "palette": {
+    "primary": "#6D4AEF"
+   },
+   "profile": "profiles/sites/threads.md",
+   "media": "media/threads/",
+   "has_media": true
+  },
+  "three-tools": {
+   "style": "DT",
+   "category": "developer-tools",
+   "website": "https://three.tools/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#ff4505"
+   },
+   "profile": "profiles/sites/three-tools.md",
+   "media": "media/three-tools/",
+   "has_media": true
+  },
+  "tiblo": {
+   "style": "BT",
+   "category": "productivity-software",
+   "website": "https://www.tiblo.app/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#F4501A"
+   },
+   "profile": "profiles/sites/tiblo.md",
+   "media": "media/tiblo/",
+   "has_media": true
+  },
+  "timescale": {
+   "style": "DT",
+   "category": "database-saas",
+   "website": "https://www.timescale.com/",
+   "pages": [
+    "home",
+    "why-product",
+    "customer-stories",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#F0F95C"
+   },
+   "profile": "profiles/sites/timescale.md",
+   "media": "media/timescale/",
+   "has_media": true
+  },
+  "tines": {
+   "style": "CP",
+   "category": "security-automation",
+   "website": "https://www.tines.com/",
+   "pages": [
+    "home",
+    "pricing",
+    "product",
+    "resources",
+    "solutions"
+   ],
+   "palette": {
+    "primary": "#8D75E6"
+   },
+   "profile": "profiles/sites/tines.md",
+   "media": "media/tines/",
+   "has_media": true
+  },
+  "titan": {
+   "style": "EL",
+   "category": "fintech-wealth-management",
+   "website": "https://www.titan.com/",
+   "pages": [
+    "home",
+    "newsletters",
+    "pricing",
+    "product-detail",
+    "product-index"
+   ],
+   "palette": {
+    "primary": "#F2C744"
+   },
+   "profile": "profiles/sites/titan.md",
+   "media": "media/titan/",
+   "has_media": true
+  },
+  "todoist": {
+   "style": "IL",
+   "category": "productivity-saas",
+   "website": "https://todoist.com/home",
+   "pages": [
+    "home",
+    "features",
+    "for-teams",
+    "pricing",
+    "resources"
+   ],
+   "palette": {
+    "primary": "#DC4C3E"
+   },
+   "profile": "profiles/sites/todoist.md",
+   "media": "media/todoist/",
+   "has_media": true
+  },
+  "together.ai": {
+   "style": "DT",
+   "category": "ai-infrastructure",
+   "website": null,
+   "pages": [
+    "home",
+    "pricing",
+    "research",
+    "docs"
+   ],
+   "palette": {
+    "primary": "#000000"
+   },
+   "profile": "profiles/sites/together.ai.md",
+   "media": "media/together.ai/",
+   "has_media": true
+  },
+  "tome": {
+   "style": "DN",
+   "category": "ai-saas",
+   "website": "https://tome.app/",
+   "pages": [
+    "home",
+    "feature",
+    "blog",
+    "templates",
+    "use-cases"
+   ],
+   "palette": {
+    "primary": "#FF00BF"
+   },
+   "profile": "profiles/sites/tome.md",
+   "media": "media/tome/",
+   "has_media": true
+  },
+  "topology": {
+   "style": "DT",
+   "category": "venture-capital",
+   "website": "https://www.topology.vc/",
+   "pages": [
+    "home",
+    "about",
+    "principles",
+    "team",
+    "public-goods"
+   ],
+   "palette": {
+    "primary": "#E8E6E0"
+   },
+   "profile": "profiles/sites/topology.md",
+   "media": "media/topology/",
+   "has_media": true
+  },
+  "tracky": {
+   "style": "IL",
+   "category": "productivity-saas",
+   "website": "https://tracky.so/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#4a2cfe"
+   },
+   "profile": "profiles/sites/tracky.md",
+   "media": "media/tracky/",
+   "has_media": true
+  },
+  "trunk": {
+   "style": "IL",
+   "category": "dev-tools",
+   "website": "https://trunk.io/",
+   "pages": [
+    "about",
+    "blog",
+    "customers",
+    "product-check",
+    "product-ci-analytics",
+    "product-ci-debugger",
+    "solution-bazel",
+    "solution-clang-tidy"
+   ],
+   "palette": {
+    "primary": "#F5F5F3"
+   },
+   "profile": "profiles/sites/trunk.md",
+   "media": "media/trunk/",
+   "has_media": true
+  },
+  "trustditto": {
+   "style": "ML",
+   "category": "compliance-saas",
+   "website": "https://trustditto.com/",
+   "pages": [
+    "home",
+    "about",
+    "customers",
+    "frameworks",
+    "resources",
+    "solutions"
+   ],
+   "palette": {
+    "primary": "#1E1B3C"
+   },
+   "profile": "profiles/sites/trustditto.md",
+   "media": "media/trustditto/",
+   "has_media": true
+  },
+  "tryeraser": {
+   "style": "ML",
+   "category": "dev-tools",
+   "website": "https://www.tryeraser.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#05060F"
+   },
+   "profile": "profiles/sites/tryeraser.md",
+   "media": "media/tryeraser/",
+   "has_media": true
+  },
+  "tuple": {
+   "style": "ML",
+   "category": "dev-collab-saas",
+   "website": "https://tuple.app/",
+   "pages": [
+    "home",
+    "blog",
+    "integrations",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#4f46e5"
+   },
+   "profile": "profiles/sites/tuple.md",
+   "media": "media/tuple/",
+   "has_media": true
+  },
+  "turn": {
+   "style": "CP",
+   "category": "messaging-saas",
+   "website": "https://www.turn.io/",
+   "pages": [
+    "home",
+    "product",
+    "solutions",
+    "pricing",
+    "community",
+    "about"
+   ],
+   "palette": {
+    "primary": "#4C2A85"
+   },
+   "profile": "profiles/sites/turn.md",
+   "media": "media/turn/",
+   "has_media": true
+  },
+  "twingate": {
+   "style": "DT",
+   "category": "security-infrastructure",
+   "website": "https://www.twingate.com/",
+   "pages": [
+    "home",
+    "pricing",
+    "blog",
+    "about"
+   ],
+   "palette": {
+    "primary": "#E7F55D"
+   },
+   "profile": "profiles/sites/twingate.md",
+   "media": "media/twingate/",
+   "has_media": true
+  },
+  "uber": {
+   "style": "BT",
+   "category": "transportation",
+   "website": null,
+   "pages": [
+    "home",
+    "ride-landing",
+    "drive-landing",
+    "eats-landing"
+   ],
+   "palette": {
+    "primary": "#000000"
+   },
+   "profile": "profiles/sites/uber.md",
+   "media": "media/uber/",
+   "has_media": true
+  },
+  "uizard": {
+   "style": "DN",
+   "category": "ai-design-saas",
+   "website": "https://uizard.io/",
+   "pages": [
+    "home",
+    "feature",
+    "product",
+    "solutions",
+    "templates",
+    "blog"
+   ],
+   "palette": {
+    "primary": "#2E6FF2"
+   },
+   "profile": "profiles/sites/uizard.md",
+   "media": "media/uizard/",
+   "has_media": true
+  },
+  "unicorn": {
+   "style": "DN",
+   "category": "design-utility-saas",
+   "website": "https://www.unicorn.studio/",
+   "pages": [
+    "home",
+    "resources-docs"
+   ],
+   "palette": {
+    "primary": "#a78bfa"
+   },
+   "profile": "profiles/sites/unicorn.md",
+   "media": "media/unicorn/",
+   "has_media": true
+  },
+  "usedrop": {
+   "style": "PH",
+   "category": "ecommerce-saas",
+   "website": "https://www.usedrop.io/",
+   "pages": [
+    "home",
+    "pricing",
+    "resources",
+    "use-cases"
+   ],
+   "palette": {
+    "primary": "#161412"
+   },
+   "profile": "profiles/sites/usedrop.md",
+   "media": "media/usedrop/",
+   "has_media": true
+  },
+  "useparallel": {
+   "style": "BT",
+   "category": "hiring-saas",
+   "website": "https://www.useparallel.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#E3FF3C"
+   },
+   "profile": "profiles/sites/useparallel.md",
+   "media": "media/useparallel/",
+   "has_media": true
+  },
+  "useportal": {
+   "style": "IL",
+   "category": "freelance-saas",
+   "website": "https://useportal.net/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#297dfa"
+   },
+   "profile": "profiles/sites/useportal.md",
+   "media": "media/useportal/",
+   "has_media": true
+  },
+  "usestir": {
+   "style": "ML",
+   "category": "creator-economy-fintech",
+   "website": "https://www.usestir.com/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#7352ff"
+   },
+   "profile": "profiles/sites/usestir.md",
+   "media": "media/usestir/",
+   "has_media": true
+  },
+  "usetola": {
+   "style": "ML",
+   "category": "fintech-saas",
+   "website": "https://usetola.com/",
+   "pages": [
+    "home",
+    "product",
+    "solutions",
+    "pricing",
+    "company"
+   ],
+   "palette": {
+    "primary": "#1E1E1C"
+   },
+   "profile": "profiles/sites/usetola.md",
+   "media": "media/usetola/",
+   "has_media": true
+  },
+  "vana": {
+   "style": "IL",
+   "category": "web3-data-platform",
+   "website": "https://www.vana.com/",
+   "pages": [
+    "home",
+    "about"
+   ],
+   "palette": {
+    "primary": "#0075FF"
+   },
+   "profile": "profiles/sites/vana.md",
+   "media": "media/vana/",
+   "has_media": true
+  },
+  "vapi": {
+   "style": "DT",
+   "category": "ai-voice-infrastructure",
+   "website": "https://vapi.ai/",
+   "pages": [
+    "home",
+    "startups"
+   ],
+   "palette": {
+    "primary": "#63F5B6"
+   },
+   "profile": "profiles/sites/vapi.md",
+   "media": "media/vapi/",
+   "has_media": true
+  },
+  "ventriloc": {
+   "style": "DT",
+   "category": "data-analytics-consultancy",
+   "website": "https://ventriloc.ca/en/",
+   "pages": [
+    "home",
+    "about",
+    "services"
+   ],
+   "palette": {
+    "primary": "#F0561D"
+   },
+   "profile": "profiles/sites/ventriloc.md",
+   "media": "media/ventriloc/",
+   "has_media": true
+  },
+  "vercel": {
+   "style": "ML",
+   "category": "developer-platform",
+   "website": null,
+   "pages": [
+    "home",
+    "ai-gateway",
+    "customers",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#171717"
+   },
+   "profile": "profiles/sites/vercel.md",
+   "media": "media/vercel/",
+   "has_media": true
+  },
+  "vetric": {
+   "style": "GR",
+   "category": "data-platform",
+   "website": "https://vetric.io/",
+   "pages": [
+    "home",
+    "about",
+    "careers",
+    "products",
+    "use-case"
+   ],
+   "palette": {
+    "primary": "#101018"
+   },
+   "profile": "profiles/sites/vetric.md",
+   "media": "media/vetric/",
+   "has_media": true
+  },
+  "viewport": {
+   "style": "ML",
+   "category": "portfolio-saas",
+   "website": "https://viewport.co/",
+   "pages": [
+    "home",
+    "feature-landing",
+    "product-tool",
+    "changelog",
+    "use-cases"
+   ],
+   "palette": {
+    "primary": "#1B9AFF"
+   },
+   "profile": "profiles/sites/viewport.md",
+   "media": "media/viewport/",
+   "has_media": true
+  },
+  "vodafone": {
+   "style": "PH",
+   "category": "telecom",
+   "website": null,
+   "pages": [
+    "home/marketing landing"
+   ],
+   "palette": {
+    "primary": "#e60000"
+   },
+   "profile": "profiles/sites/vodafone.md",
+   "media": "media/vodafone/",
+   "has_media": true
+  },
+  "voicenotes": {
+   "style": "EL",
+   "category": "ai-productivity-saas",
+   "website": "https://voicenotes.com/",
+   "pages": [
+    "home",
+    "feature-landing"
+   ],
+   "palette": {
+    "primary": "#1E3B2A"
+   },
+   "profile": "profiles/sites/voicenotes.md",
+   "media": "media/voicenotes/",
+   "has_media": true
+  },
+  "voltagent": {
+   "style": "DT",
+   "category": "developer-tools",
+   "website": null,
+   "pages": [
+    "landing"
+   ],
+   "palette": {
+    "primary": "#00d992"
+   },
+   "profile": "profiles/sites/voltagent.md",
+   "media": "media/voltagent/",
+   "has_media": true
+  },
+  "warp": {
+   "style": "DT",
+   "category": "developer-tools",
+   "website": null,
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#f7f5f0"
+   },
+   "profile": "profiles/sites/warp.md",
+   "media": "media/warp/",
+   "has_media": true
+  },
+  "webflow": {
+   "style": "DT",
+   "category": "saas-web-platform",
+   "website": null,
+   "pages": [
+    "landing",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#080808"
+   },
+   "profile": "profiles/sites/webflow.md",
+   "media": "media/webflow/",
+   "has_media": true
+  },
+  "whimsical": {
+   "style": "DN",
+   "category": "productivity-saas",
+   "website": "https://whimsical.com/",
+   "pages": [
+    "home",
+    "pricing",
+    "product-feature",
+    "ai-feature"
+   ],
+   "palette": {
+    "primary": "#2E0D45"
+   },
+   "profile": "profiles/sites/whimsical.md",
+   "media": "media/whimsical/",
+   "has_media": true
+  },
+  "wired": {
+   "style": "BT",
+   "category": "media",
+   "website": null,
+   "pages": [
+    "home",
+    "article"
+   ],
+   "palette": {
+    "primary": "#000000"
+   },
+   "profile": "profiles/sites/wired.md",
+   "media": "media/wired/",
+   "has_media": true
+  },
+  "wise": {
+   "style": "BT",
+   "category": "fintech",
+   "website": null,
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#9fe870"
+   },
+   "profile": "profiles/sites/wise.md",
+   "media": "media/wise/",
+   "has_media": true
+  },
+  "withcompound": {
+   "style": "ML",
+   "category": "fintech-wealth-management",
+   "website": "https://withcompound.com/",
+   "pages": [
+    "home",
+    "membership"
+   ],
+   "palette": {
+    "primary": "#1F1F1F"
+   },
+   "profile": "profiles/sites/withcompound.md",
+   "media": "media/withcompound/",
+   "has_media": true
+  },
+  "wowpage": {
+   "style": "BT",
+   "category": "web-design-agency",
+   "website": "https://www.wowpage.io/",
+   "pages": [
+    "home"
+   ],
+   "palette": {
+    "primary": "#335b47"
+   },
+   "profile": "profiles/sites/wowpage.md",
+   "media": "media/wowpage/",
+   "has_media": true
+  },
+  "x-advertising": {
+   "style": "ML",
+   "category": "advertising-platform",
+   "website": "https://business.x.com/en/advertising",
+   "pages": [
+    "landing"
+   ],
+   "palette": {
+    "primary": "#000000"
+   },
+   "profile": "profiles/sites/x-advertising.md",
+   "media": "media/x-advertising/",
+   "has_media": true
+  },
+  "x.ai": {
+   "style": "DT",
+   "category": "ai-research",
+   "website": "https://x.ai",
+   "pages": [
+    "home",
+    "product-features",
+    "announcements",
+    "pricing",
+    "auth"
+   ],
+   "palette": {
+    "primary": "#ffffff"
+   },
+   "profile": "profiles/sites/x.ai.md",
+   "media": "media/x.ai/",
+   "has_media": true
+  },
+  "zapier": {
+   "style": "ML",
+   "category": "workflow-automation",
+   "website": null,
+   "pages": [
+    "home",
+    "pricing"
+   ],
+   "palette": {
+    "primary": "#ff4f00"
+   },
+   "profile": "profiles/sites/zapier.md",
+   "media": "media/zapier/",
+   "has_media": true
+  },
+  "zkpass": {
+   "style": "DT",
+   "category": "web3-privacy-protocol",
+   "website": "https://zkpass.org/",
+   "pages": [
+    "home",
+    "home-alt-theme"
+   ],
+   "palette": {
+    "primary": "#c6f21e"
+   },
+   "profile": "profiles/sites/zkpass.md",
+   "media": "media/zkpass/",
+   "has_media": true
+  }
+ },
+ "playbooks": {
+  "pages": [
+   "about",
+   "blog",
+   "company",
+   "features",
+   "home",
+   "misc",
+   "pricing",
+   "product",
+   "resources",
+   "solutions",
+   "use-cases"
+  ],
+  "styles": [
+   "big-type",
+   "colorful-playful",
+   "dark-neon",
+   "dark-tech",
+   "elegant-serif",
+   "gradient-mesh",
+   "illustration",
+   "minimal-light",
+   "photo-driven"
+  ],
+  "domains": [
+   "app-icons",
+   "design-work",
+   "og-images",
+   "websites"
+  ]
+ },
+ "flats": {
+  "design": 248,
+  "app-icons": 93,
+  "og-images": 49
+ }
+}
