@@ -1,0 +1,96 @@
+# App Icons Catalog
+> Coverage: 93 items from corpus · media at media/app-icons/
+
+- **aave.jpg** — Soft periwinkle squircle with an embossed glossy white arch over two dots (top of the Aave "ghost" mark), lots of negative space below · style: glassy, soft-3d, minimal · palette: #8C8CF2 #FFFFFF #EDEDFB
+- **ahead.jpg** — Giant lavender blob-head mascot winking, cropped to fill frame against indigo backdrop · style: flat, mascot, playful · palette: #3B24CE #D9B8EC #451554
+- **alto-s-adventure.jpg** — Full-bleed flat landscape scene: snowboarder silhouette flipping over a windmill, misty layered mountains and sun · style: flat, scenic, illustration · palette: #C9E0D2 #2E3427 #E9F2E3
+- **alto-s-odyssey.jpg** — Dusk desert scene: flagged tower silhouette before a huge sun, hot-air balloon and birds, layered purple-pink haze · style: flat, gradient, scenic illustration · palette: #F2A0B4 #7A2E4D #A98BC0
+- **amazon-kindle.jpg** — Black silhouette of a child reading against a starry sky-blue gradient · style: flat, gradient, silhouette · palette: #58ABD8 #0B0B0B #BEE3F2
+- **amie.jpg** — Puffy pillow-soft white clover/"O" shape centered on warm pink · style: 3d, soft-plush, monogram · palette: #F7909A #FFF7F4
+- **arc-search.png** — Overlapping red and blue rounded strokes forming a hand-drawn "A" with a white sticker outline on deep indigo · style: flat, sticker, monogram · palette: #3A0CA8 #FA4B5F #1531F5
+- **baby-einstein.jpg** — White hand-drawn line-art kid face with glasses and spiky sunray hair on muted blue · style: flat, line-art, mascot · palette: #4A63AC #FFFFFF
+- **bump.png** — Glossy 3D rounded triangle/arrow with yellow-magenta-green rim and blue gel core, floating on glowing blue with light rays · style: 3d, glassy, skeuomorphic, gradient · palette: #1136E8 #F014C8 #F5E924
+- **claude.jpg** — Hand-cut cream 12-ray starburst/asterisk centered on terracotta coral · style: flat, organic-geometric, logomark · palette: #D97757 #F5F0E6
+- **colorize-black-white-photo.jpg** — 3D magic wand diagonally splitting a landscape from grayscale hills to saturated orange dunes and blue sky, with sparkles · style: 3d, skeuomorphic, gradient · palette: #2196F3 #F5A623 #9E9E9E
+- **comet.jpg** — Chrome-glossy triple crescent wave/crest arcs sweeping across a black squircle · style: glassy, skeuomorphic, monochrome · palette: #111111 #D8D8D8
+- **commons.jpg** — Halftone-dot photographic Earth circle centered on royal blue · style: flat, halftone-print, photographic · palette: #1A2AAD #FFFFFF
+- **cosmos.jpg** — Six black dots arranged in a ring (flower/loader motif) on warm off-white squircle · style: flat, minimal, geometric · palette: #0A0A0A #F7F6F2
+- **cursor.jpg** — Black faceted hexagon/cube with a white cursor-pointer facet cut out, on cream gradient squircle · style: flat, geometric, logomark · palette: #17171C #F1EFE7
+- **daimon.jpg** — Glossy white speech-bubble blob with indigo quote-mark eyes on a blue gel squircle · style: glassy, 3d, mascot-ish · palette: #4B8DF8 #FFFFFF #3D3DC8
+- **dion.jpg** — Retro CRT television rendered in 3D showing SMPTE color test bars, "DION" nameplate below · style: skeuomorphic, 3d, retro · palette: #1B1B1B #ED2224 #23C4CE
+- **ditty.jpg** — Tilted white elliptical ring/disc with two eye slits reading as a winking face, on pure black · style: flat, monochrome, geometric-mascot · palette: #000000 #FFFFFF
+- **dogo.jpg** — Smiling cartoon beagle holding a purple leash in its mouth, cropped on green squircle · style: mascot, 3d, gradient illustration · palette: #2FB565 #F4A928 #7A3FBF
+- **duolingo.png** — Extreme close-crop of Duo the owl's face: huge white eyes and orange beak on bright green · style: flat, mascot · palette: #78C800 #FFFFFF #F49000
+- **fabric.jpg** — White folder glyph with a Finder-style smiling face on solid black · style: flat, minimal, mascot-glyph · palette: #000000 #FFFFFF
+- **family.png** — Scalloped cloud-edged white square frame around a teal window, on bright teal · style: flat, soft-gradient, geometric · palette: #00C2C0 #EAF7FE
+- **firefly.jpg** — Pixel-art magenta-purple flame with a white pixel face inside, on black · style: flat, pixel-art, mascot · palette: #E040FB #8A7CFF #000000
+- **flighty.jpg** — Glossy white airliner seen top-down banking across a dark charcoal squircle · style: 3d, skeuomorphic, glassy · palette: #26282C #EDEEF2
+- **flowie.jpg** — soft blob ghost mascot winking, lime speech bubble floating above on periwinkle field · style: flat/mascot/gradient · palette: #5B5BD6 #FFFFFF #A6E22E
+- **genk.jpg** — full-bleed cartoon pink brain character reading an open pink book, glossy outlines on black · style: mascot/3d/glassy · palette: #F2A0B5 #FF3D7F #000000
+- **google-gemini.jpg** — four-point curved star (sparkle) with full-spectrum gradient, centered on white rounded square · style: gradient/glassy/flat · palette: #EA4335 #4285F4 #34A853
+- **granola.jpg** — hand-drawn black brushstroke spiral centered on glossy olive-green rounded square · style: flat/skeuomorphic · palette: #A8C13F #2B2B2B
+- **grok.jpg** — sharp chrome slash-through-circle emblem (stylized zero/orbit) on pure black · style: 3d/monogram/glassy · palette: #000000 #D9D9D9 #FFFFFF
+- **grug.png** — childlike handwritten lowercase wordmark "grug." in marker strokes on plain white · style: flat/monogram · palette: #000000 #FFFFFF
+- **happit.jpg** — glossy white porthole button with pixel-LED sad/neutral face screen on blue gradient · style: 3d/skeuomorphic/glassy · palette: #2E6BE6 #E8F0FA #7FE7F0
+- **headspace.jpg** — imperfect orange circle with closed eyes and calm smile on white · style: flat/mascot · palette: #F47D20 #1A1A1A #FFFFFF
+- **helm.png** — frosted-glass ship's steering wheel with soft grid lines on cyan-blue gradient square · style: glassy/3d/gradient · palette: #29A8F0 #1E62E0 #EAF6FF
+- **hey-email.jpg** — single-line white doodle of waving hand plus envelope on violet-to-blue gradient · style: flat/gradient · palette: #5522E0 #1F6FF2 #FFFFFF
+- **hipstamatic.jpg** — photoreal retro leather-clad camera face with big lens and yellow shutter button · style: skeuomorphic/3d · palette: #2E2620 #E8D84A #C87A2E
+- **imposter-game.jpg** — crowd of rounded jellybean characters with faces, hooded dark imposter glaring in center · style: mascot/3d/gradient · palette: #8656D6 #E8447A #F08030
+- **inside.jpg** — painterly boy in red shirt seen from behind against murky teal-gray gloom (Playdead INSIDE key art) · style: flat/skeuomorphic · palette: #37424A #C93B3B #10151A
+- **instagram.jpg** — glossy white outline camera glyph over hot magenta-orange-violet radial gradient · style: gradient/glassy/flat · palette: #C513AB #FF6B2B #7B2BF2
+- **invoice-maker-estimates-app.jpg** — soft 3D paper receipt with $ sign emerging from dark slot on sky-blue rounded square · style: 3d/skeuomorphic/flat · palette: #5FA8E8 #F2F5F8 #52606E
+- **ivory-for-mastodon.jpg** — emoji-style 3D elephant face with tusks and curled trunk on vivid violet · style: 3d/mascot/glassy · palette: #6610F2 #C3D0DE #B8C4D6
+- **knitflow.jpg** — 3x4 grid of black knit-stitch V loops forming fabric pattern on white · style: flat/monogram · palette: #000000 #FFFFFF
+- **limbo.jpg** — solid black silhouette of boy's head with two glowing white dot eyes on flat gray · style: flat · palette: #808080 #0A0A0A #FFFFFF
+- **linear-mobile.jpg** — sliced circle of ascending diagonal metallic bars (rising-sun mark) on dotted charcoal square · style: 3d/gradient/monogram · palette: #17181A #EDEEEF #9A9CA0
+- **linktree.jpg** — bold black asterisk-tree glyph centered on bright green gradient rounded square · style: flat/gradient/monogram · palette: #3FE07A #000000
+- **logoist-6.jpg** — translucent pen nib with bezier handles and curve guides on yellow-to-orange gradient · style: glassy/gradient/skeuomorphic · palette: #FFCC00 #F07830 #FFF4D6
+- **loona.jpg** — chubby 3D sleepy creature in nightcap hugging polka-dot pillow against starry purple dusk · style: 3d/mascot · palette: #3D2A63 #4D7BE8 #E8E0F0
+- **lovi.jpg** — rounded white script wordmark "Lovi" with dotted-i smile motif on lavender gradient squircle · style: flat/gradient/monogram · palette: #9B7BE8 #F2C8E0 #FFFFFF
+- **manus.jpg** — thick black outline hand snapping fingers with spark ticks, embossed on off-white squircle · style: flat/monogram/glassy · palette: #FFFFFF #1A1A1A
+- **methods.jpg** — tilted 3D torus ring floating on a pale lavender field, soft iridescent highlights · style: 3d/glassy/gradient · palette: #B79FD1 #E8E2EE #8E7BB8
+- **monument-valley-2.jpg** — isometric star-shaped plinth with two flat geometric figures (mother and child) holding hands under dotted stars · style: flat/gradient · palette: #1E6EF0 #F26522 #FFFFFF
+- **monument-valley.jpg** — isometric orange block pedestal with white cone-hatted figure (Ida) on a teal starfield · style: flat/gradient · palette: #00A388 #F5921E #FFFFFF
+- **mymind.png** — cropped organic humanoid form in fuzzy bouclé texture, head resting pensively on hand, on flat grey · style: 3d/mascot/skeuomorphic · palette: #F26F1D #D9D9D9 #C2410C
+- **not-boring-camera.jpg** — oversized skeuomorphic camera lens with knurled black barrel and viewfinder on white body · style: skeuomorphic/3d · palette: #F2F2F2 #1A1A1A #B14FC7
+- **numo.jpg** — full-bleed watercolor berry with green leaves and a sly cartoon face (half-lidded eyes, smirk) · style: flat/mascot · palette: #F4436C #2E9E5B #000000
+- **one-year.jpg** — single hand-drawn flower doodle in glossy blue ink centered on off-white rounded square · style: flat/glassy · palette: #2E14D6 #F4F4F2 #FFFFFF
+- **open.png** — two abstract black organic forms (tall ellipse + half-bowl) forming a minimal monogram on warm off-white · style: flat/monogram · palette: #12100B #ECEAE3
+- **orb-social.jpg** — vertical neon-glow "ORB" wordmark in blurred cyan-blue tubes over grainy red dot grid on black · style: gradient/glassy · palette: #34E3F0 #2B1BC7 #A03318
+- **outfit-planner-lookscope.jpg** — chunky rounded "LOOK" bubble letters stacked 2x2, black on white · style: flat/monogram · palette: #111111 #FFFFFF
+- **perplexity.jpg** — embossed geometric knot/asterisk mark (radiating triangles and squares) in polished silver on black rounded square · style: glassy/3d/monogram · palette: #0D0D0D #E6E6E6 #9A9A9A
+- **pico-cam.jpg** — phone-back camera pill with lens and green indicator above playful retro "pico cam" script, all on tomato red · style: flat/skeuomorphic · palette: #ED3B2C #0B0B0B #FFFFFF
+- **pieter-pot-supermarkt.jpg** — bouncy tilted lowercase "pieter pot" wordmark stacked three rows, near-black on cream · style: flat/monogram · palette: #22201E #F8F3EA
+- **pillow.jpg** — squishy glossy pillow squircle with concave edges, purple-to-orange sunset gradient on white base · style: 3d/glassy/gradient · palette: #8B2FD6 #E93A8F #FB7A3C
+- **pixel-flow.jpg** — 3D cube-headed yellow pig face with floppy ears and big orange snout, full-bleed · style: 3d/mascot · palette: #FFD21C #F58A0B #1F2733
+- **popcorn.jpg** — dark charcoal squircle frame with scalloped popcorn-kernel cutout revealing pastel holographic gradient · style: flat/gradient · palette: #33302E #F6E3C5 #D9C9EE
+- **promova.png** — glossy inflated vinyl shapes (pink cushion, blue bolster, yellow soccer ball) arranged on black · style: 3d/glassy · palette: #F565A8 #A8B4EF #FFD629
+- **raycast-qbt41pi.jpg** — beveled glass pixel-fragment mark (square bursting into diagonal shards) on deep red gradient rounded square · style: glassy/3d/gradient · palette: #8E0E0E #FCDCDC #3A0505
+- **raycast.jpg** — same beveled pixel-shard raycast mark, glossy pink-white glass on dark crimson gradient · style: glassy/3d/gradient · palette: #8E0E0E #FCDCDC #3A0505
+- **remove-objects.jpg** — giant glossy eraser/capsule bottle with green cap and X label rising over emerald horizon bands · style: 3d/glassy · palette: #0FDE8A #0AA85B #FFFFFF
+- **retro.png** — chromed liquid-metal letter "R" split into three mirrored segments on white · style: 3d/glassy/monogram · palette: #3B3B3B #D8D8D8 #FFFFFF
+- **royal-match.jpg** — painterly 3D king mascot with gold jeweled crown and grey beard against sparkling indigo · style: 3d/mascot · palette: #2C2A6E #FFC61C #E23A2E
+- **secretary-keyboard.jpg** — retro dictaphone/intercom face: perforated speaker grille, red record and white buttons on beige plastic · style: skeuomorphic/3d · palette: #D8D1C2 #CE1F1F #333B4A
+- **skillsta.jpg** — cropped smiling octopus with curling tentacles, white and grey flat shapes on near-black · style: flat/mascot · palette: #EFEFEF #ABABAB #141414
+- **sleepiest.jpg** — Rounded squircle with white cut-out koala face peeking from bottom edge, chunky "zzz" letterforms floating above on deep indigo gradient · style: flat/mascot/gradient · palette: #2B1B6B #4A3A9E #FFFFFF
+- **slumber.jpg** — Full-bleed night scene: soft 3D sleeping crescent moon with a serene face resting on clouds, floating music notes and stars · style: 3d/mascot/skeuomorphic · palette: #F5E6B0 #1B4A73 #6B93B8
+- **splat.jpg** — Glossy inflated purple splat/blob on white, with groovy 60s-style "SPLAT" lettering carved out as negative space · style: 3d/glassy/wordmark · palette: #B23AF0 #FFFFFF #8A1FC4
+- **sudoku-a-day.jpg** — 3x3 grid on off-white squircle mixing embossed dark letters S-U-D-O-K-U with three candy-glossy shape tokens (hexagon, burst, triangle) · style: 3d/flat-grid/wordmark · palette: #F4F4F5 #3A3A3C #7B5CE0
+- **sugar.jpg** — Holographic chrome smiley chat-bubble sticker with black embossed eyes/smile, thick white die-cut border on lilac paper texture · style: 3d/glassy/gradient/sticker · palette: #4FA8F0 #F5A020 #E86BD8
+- **summ.jpg** — White four-lobed clover/flower shape holding a pink cut-out microphone glyph on hot-pink gradient field · style: flat/gradient/soft-emboss · palette: #F0506B #FFFFFF #E8395A
+- **sway.jpg** — Blurred aura-gradient field (orange, lime, lavender, sky) with soft white italic serif "sway" wordmark · style: gradient/wordmark/blur · palette: #F07030 #D8E040 #B8C4E8
+- **thru.jpg** — Bold black abstract pine tree built from two swooping bough layers and a triangle trunk on acid pale-yellow square · style: flat/monogram/geometric · palette: #F4F98C #12140D
+- **tolan.jpg** — Chunky black grotesque "Tolan" wordmark over a playful collage of oversized pastel petal/blob shapes (pink, peach, lilac, green) · style: flat/gradient/wordmark · palette: #F060A8 #8CC078 #C8A8F0
+- **tripadvisor.jpg** — Dark-green owl-face mark (two ringed eyes plus brow arc) centered on vivid neon-green soft squircle · style: flat/mascot/monogram · palette: #00E070 #043020
+- **tv-show-tracker.jpg** — Skeuomorphic retro TV: glowing cyan scan-lined screen, speaker perforations, and a round physical dial on light-gray body · style: skeuomorphic/3d/glassy · palette: #20D8F0 #E8E8EA #FFFFFF
+- **twitch.jpg** — Flat black chat-bubble glyph with white face and two rectangular eyes, hard offset depth, on solid Twitch purple · style: flat/monogram · palette: #9146FF #000000 #FFFFFF
+- **uglycash.jpg** — Raw hand-drawn marker doodle of a banded stack of $100 bills with a smiley face, white on pure black · style: flat/doodle/mascot · palette: #000000 #FFFFFF
+- **unwind.jpg** — Three rounded pill/capsule toggles on near-black: gold sunrise, sky-blue midday sun, indigo moon — a day-to-night sequence · style: flat/gradient · palette: #E0B04C #78CCE8 #4A3EA8
+- **vsco.jpg** — Minimal black line-art segmented lens/color-wheel ring (two concentric spoked rings) centered on white · style: flat/monogram/linework · palette: #000000 #FFFFFF
+- **whale-trail.jpg** — Cheerful cartoon whale with a huge glossy eye soaring over puffy white clouds against full rainbow stripe rays · style: flat/mascot/gradient · palette: #6B7FA8 #F0D020 #38B8E8
+- **wise.jpg** — Angular dark-green "fast arrow" flag glyph (abstract W/7 hybrid) on bright grass-green gradient squircle · style: flat/monogram/gradient · palette: #6BE04A #163300
+- **xchat.jpg** — Soft-3D pearlescent white chat bubble, matte and dimensional like a river stone, floating on near-black squircle · style: 3d/glassy/monochrome · palette: #1A1A1C #E8E8EA
+- **ynab.jpg** — Embossed glassy white "Y" as a tree trunk crowned by radiating leaf shapes on periwinkle-blue gradient squircle · style: 3d/glassy/monogram · palette: #5560E8 #F0F0FA #FFFFFF
+- **yukee.jpg** — Puffy white wavy-edged square with a four-point star/sparkle cut out of its center, on charcoal squircle · style: 3d/flat/monogram · palette: #2A2A2C #FFFFFF
+- **zeitgeist-journal-diary.jpg** — Soft-embossed white ghost/speech-bubble character with two oval periwinkle eyes on violet-blue gradient squircle · style: 3d/mascot/soft-emboss · palette: #6E6BEB #F4F2FC
