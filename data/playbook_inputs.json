@@ -1,0 +1,347 @@
+{
+ "big": {
+  "home": {
+   "count": 315,
+   "sample": [
+    "/Users/timo/.claude/design-library/media/aave/home/home.webp",
+    "/Users/timo/.claude/design-library/media/axelar-network/home/home.webp",
+    "/Users/timo/.claude/design-library/media/cap/home/home.jpg",
+    "/Users/timo/.claude/design-library/media/coinflect/home/home.webp",
+    "/Users/timo/.claude/design-library/media/decideai/home/home.webp",
+    "/Users/timo/.claude/design-library/media/era-app/home/home.jpg",
+    "/Users/timo/.claude/design-library/media/fold-money/home/home.webp",
+    "/Users/timo/.claude/design-library/media/glideapps/home/home.webp",
+    "/Users/timo/.claude/design-library/media/heynds/home/home.jpg",
+    "/Users/timo/.claude/design-library/media/jitter/home/home.jpg",
+    "/Users/timo/.claude/design-library/media/liveblocks/home/home.webp",
+    "/Users/timo/.claude/design-library/media/mintlify/home/home.jpg",
+    "/Users/timo/.claude/design-library/media/mux/home/home.webp",
+    "/Users/timo/.claude/design-library/media/oysterhr/home/home.webp",
+    "/Users/timo/.claude/design-library/media/portalgaming/home/home.jpg",
+    "/Users/timo/.claude/design-library/media/relate-so/home/home.webp",
+    "/Users/timo/.claude/design-library/media/seline/home/home.webp",
+    "/Users/timo/.claude/design-library/media/sprout/home/home.webp",
+    "/Users/timo/.claude/design-library/media/swagapp/home/home.webp",
+    "/Users/timo/.claude/design-library/media/tiblo/home/home.webp"
+   ]
+  },
+  "pricing": {
+   "count": 123,
+   "sample": [
+    "/Users/timo/.claude/design-library/media/ada/pricing/pricing.jpg",
+    "/Users/timo/.claude/design-library/media/betterstack/pricing/pricing.webp",
+    "/Users/timo/.claude/design-library/media/cap/pricing/pricing.jpg",
+    "/Users/timo/.claude/design-library/media/cohere/pricing/pricing.webp",
+    "/Users/timo/.claude/design-library/media/cycleapp/pricing/pricing.webp",
+    "/Users/timo/.claude/design-library/media/evervault/pricing/pricing.webp",
+    "/Users/timo/.claude/design-library/media/gamma/pricing/pricing.jpg",
+    "/Users/timo/.claude/design-library/media/goodnotes/pricing/pricing.webp",
+    "/Users/timo/.claude/design-library/media/herokit/pricing/pricing.jpg",
+    "/Users/timo/.claude/design-library/media/june/pricing/pricing.webp",
+    "/Users/timo/.claude/design-library/media/listenup/pricing/pricing.webp",
+    "/Users/timo/.claude/design-library/media/metaview/pricing/pricing.webp",
+    "/Users/timo/.claude/design-library/media/obviously/pricing/pricing.webp",
+    "/Users/timo/.claude/design-library/media/pirsch/pricing/pricing.webp",
+    "/Users/timo/.claude/design-library/media/raycast/pricing/pricing.webp",
+    "/Users/timo/.claude/design-library/media/saybriefly/pricing/pricing.jpg",
+    "/Users/timo/.claude/design-library/media/specifyapp/pricing/pricing.webp",
+    "/Users/timo/.claude/design-library/media/supabase/pricing/pricing.webp",
+    "/Users/timo/.claude/design-library/media/tedy/pricing/pricing.webp",
+    "/Users/timo/.claude/design-library/media/titan/pricing/pricing.webp"
+   ]
+  },
+  "blog": {
+   "count": 61,
+   "sample": [
+    "/Users/timo/.claude/design-library/media/acctual/blog/blog.jpg",
+    "/Users/timo/.claude/design-library/media/astro-build/blog/blog.webp",
+    "/Users/timo/.claude/design-library/media/cap/blog/blog.jpg",
+    "/Users/timo/.claude/design-library/media/codex/blog/blog.webp",
+    "/Users/timo/.claude/design-library/media/dimension/blog/blog.webp",
+    "/Users/timo/.claude/design-library/media/evervault/blog/blog.webp",
+    "/Users/timo/.claude/design-library/media/genway/blog/blog.jpg",
+    "/Users/timo/.claude/design-library/media/goodnotes/blog/blog.webp",
+    "/Users/timo/.claude/design-library/media/hellotime/blog/blog.jpg",
+    "/Users/timo/.claude/design-library/media/index-app/blog/blog.jpg",
+    "/Users/timo/.claude/design-library/media/krepling/blog/blog.webp",
+    "/Users/timo/.claude/design-library/media/modal/blog/blog.jpg",
+    "/Users/timo/.claude/design-library/media/outerbase/blog/blog.webp",
+    "/Users/timo/.claude/design-library/media/paradigmai/blog/blog.jpg",
+    "/Users/timo/.claude/design-library/media/portrait/blog/blog.jpg",
+    "/Users/timo/.claude/design-library/media/raycast/blog/blog.webp",
+    "/Users/timo/.claude/design-library/media/scenery/blog/blog.webp",
+    "/Users/timo/.claude/design-library/media/starlight-money/blog/blog.webp",
+    "/Users/timo/.claude/design-library/media/superhuman/blog/blog.webp",
+    "/Users/timo/.claude/design-library/media/trunk/blog/blog.webp"
+   ]
+  },
+  "product": {
+   "count": 48,
+   "sample": [
+    "/Users/timo/.claude/design-library/media/amplemarket/product/product.webp",
+    "/Users/timo/.claude/design-library/media/brainfishai/product/product.jpg",
+    "/Users/timo/.claude/design-library/media/cap/product/product.jpg",
+    "/Users/timo/.claude/design-library/media/clay-com/product/product.jpg",
+    "/Users/timo/.claude/design-library/media/common/product/product.webp",
+    "/Users/timo/.claude/design-library/media/craft-do/product/product.jpg",
+    "/Users/timo/.claude/design-library/media/default/product/product.jpg",
+    "/Users/timo/.claude/design-library/media/equals/product/product.webp",
+    "/Users/timo/.claude/design-library/media/front/product/product.webp",
+    "/Users/timo/.claude/design-library/media/gitbook/product/product.webp",
+    "/Users/timo/.claude/design-library/media/hydra/product/product.webp",
+    "/Users/timo/.claude/design-library/media/listenup/product/product.webp",
+    "/Users/timo/.claude/design-library/media/monad/product/product.webp",
+    "/Users/timo/.claude/design-library/media/outseta/product/product.jpg",
+    "/Users/timo/.claude/design-library/media/oysterhr/product/product.webp",
+    "/Users/timo/.claude/design-library/media/penpot/product/product.webp",
+    "/Users/timo/.claude/design-library/media/prismic/product/product.webp",
+    "/Users/timo/.claude/design-library/media/rally-space/product/product.webp",
+    "/Users/timo/.claude/design-library/media/save-day/product/product.webp",
+    "/Users/timo/.claude/design-library/media/spellbook/product/product.jpg"
+   ]
+  },
+  "about": {
+   "count": 37,
+   "sample": [
+    "/Users/timo/.claude/design-library/media/acctual/about/about.jpg",
+    "/Users/timo/.claude/design-library/media/astro-build/about/about.webp",
+    "/Users/timo/.claude/design-library/media/buymeacoffee/about/about.webp",
+    "/Users/timo/.claude/design-library/media/cakeequity/about/about.webp",
+    "/Users/timo/.claude/design-library/media/cap/about/about.jpg",
+    "/Users/timo/.claude/design-library/media/codex/about/about.webp",
+    "/Users/timo/.claude/design-library/media/cohere/about/about.webp",
+    "/Users/timo/.claude/design-library/media/common/about/about.webp",
+    "/Users/timo/.claude/design-library/media/dimension/about/about.webp",
+    "/Users/timo/.claude/design-library/media/dope-security/about/about.webp",
+    "/Users/timo/.claude/design-library/media/equals/about/about.jpg",
+    "/Users/timo/.claude/design-library/media/fabric-so/about/about.webp",
+    "/Users/timo/.claude/design-library/media/flox/about/about.webp",
+    "/Users/timo/.claude/design-library/media/gamma/about/about.jpg",
+    "/Users/timo/.claude/design-library/media/genway/about/about.jpg",
+    "/Users/timo/.claude/design-library/media/hatch-fm/about/about.webp",
+    "/Users/timo/.claude/design-library/media/headroom/about/about.jpg",
+    "/Users/timo/.claude/design-library/media/hellotime/about/about.jpg",
+    "/Users/timo/.claude/design-library/media/monad/about/about.webp",
+    "/Users/timo/.claude/design-library/media/morphic/about/about.webp"
+   ]
+  },
+  "resources": {
+   "count": 36,
+   "sample": [
+    "/Users/timo/.claude/design-library/media/artboard-studio/resources/resources.webp",
+    "/Users/timo/.claude/design-library/media/brainfishai/resources/resources.jpg",
+    "/Users/timo/.claude/design-library/media/cakeequity/resources/resources.webp",
+    "/Users/timo/.claude/design-library/media/canopy-is/resources/resources.webp",
+    "/Users/timo/.claude/design-library/media/clay-com/resources/resources.jpg",
+    "/Users/timo/.claude/design-library/media/default/resources/resources.jpg",
+    "/Users/timo/.claude/design-library/media/dub/resources/resources.jpg",
+    "/Users/timo/.claude/design-library/media/eclipse/resources/resources.webp",
+    "/Users/timo/.claude/design-library/media/equals/resources/resources.webp",
+    "/Users/timo/.claude/design-library/media/eraser/resources/resources.webp",
+    "/Users/timo/.claude/design-library/media/fable/resources/resources.webp",
+    "/Users/timo/.claude/design-library/media/front/resources/resources.webp",
+    "/Users/timo/.claude/design-library/media/hydra/resources/resources.webp",
+    "/Users/timo/.claude/design-library/media/jasper/resources/resources.jpg",
+    "/Users/timo/.claude/design-library/media/kindsight/resources/resources.jpg",
+    "/Users/timo/.claude/design-library/media/lattice/resources/resources.webp",
+    "/Users/timo/.claude/design-library/media/metaview/resources/resources.webp",
+    "/Users/timo/.claude/design-library/media/mintlify/resources/resources.jpg",
+    "/Users/timo/.claude/design-library/media/notion/resources/resources.webp",
+    "/Users/timo/.claude/design-library/media/oysterhr/resources/resources.webp"
+   ]
+  },
+  "solutions": {
+   "count": 21,
+   "sample": [
+    "/Users/timo/.claude/design-library/media/artboard-studio/solutions/solutions.webp",
+    "/Users/timo/.claude/design-library/media/brainfishai/solutions/solutions.jpg",
+    "/Users/timo/.claude/design-library/media/clay-com/solutions/solutions.jpg",
+    "/Users/timo/.claude/design-library/media/front/solutions/solutions.webp",
+    "/Users/timo/.claude/design-library/media/gamma/solutions/solutions.jpg",
+    "/Users/timo/.claude/design-library/media/gitbook/solutions/solutions.webp",
+    "/Users/timo/.claude/design-library/media/gotomorro/solutions/solutions.webp",
+    "/Users/timo/.claude/design-library/media/jasper/solutions/solutions.jpg",
+    "/Users/timo/.claude/design-library/media/kindsight/solutions/solutions.jpg",
+    "/Users/timo/.claude/design-library/media/lattice/solutions/solutions.webp",
+    "/Users/timo/.claude/design-library/media/lithic/solutions/solutions.webp",
+    "/Users/timo/.claude/design-library/media/notion/solutions/solutions.webp",
+    "/Users/timo/.claude/design-library/media/paradigmai/solutions/solutions.jpg",
+    "/Users/timo/.claude/design-library/media/saucelabs/solutions/solutions.webp",
+    "/Users/timo/.claude/design-library/media/shopify/solutions/solutions.webp",
+    "/Users/timo/.claude/design-library/media/specifyapp/solutions/solutions.webp",
+    "/Users/timo/.claude/design-library/media/tines/solutions/solutions.webp",
+    "/Users/timo/.claude/design-library/media/trustditto/solutions/solutions.jpg",
+    "/Users/timo/.claude/design-library/media/turn/solutions/solutions.jpg",
+    "/Users/timo/.claude/design-library/media/uizard/solutions/solutions.webp"
+   ]
+  },
+  "company": {
+   "count": 20,
+   "sample": [
+    "/Users/timo/.claude/design-library/media/amra/company/company.webp",
+    "/Users/timo/.claude/design-library/media/betterstack/company/company.webp",
+    "/Users/timo/.claude/design-library/media/clay-com/company/company.jpg",
+    "/Users/timo/.claude/design-library/media/equals/company/company.webp",
+    "/Users/timo/.claude/design-library/media/getrepeat/company/company.webp",
+    "/Users/timo/.claude/design-library/media/gitbook/company/company.webp",
+    "/Users/timo/.claude/design-library/media/height-app/company/company.webp",
+    "/Users/timo/.claude/design-library/media/jasper/company/company.jpg",
+    "/Users/timo/.claude/design-library/media/kindsight/company/company.jpg",
+    "/Users/timo/.claude/design-library/media/lattice/company/company.webp",
+    "/Users/timo/.claude/design-library/media/lithic/company/company.webp",
+    "/Users/timo/.claude/design-library/media/liveblocks/company/company.webp",
+    "/Users/timo/.claude/design-library/media/modal/company/company.jpg",
+    "/Users/timo/.claude/design-library/media/outseta/company/company.jpg",
+    "/Users/timo/.claude/design-library/media/oxide-computer/company/company.jpg",
+    "/Users/timo/.claude/design-library/media/scenery/company/company.webp",
+    "/Users/timo/.claude/design-library/media/spellbook/company/company.jpg",
+    "/Users/timo/.claude/design-library/media/steep/company/company.webp",
+    "/Users/timo/.claude/design-library/media/synthesia/company/company.webp",
+    "/Users/timo/.claude/design-library/media/usetola/company/company.webp"
+   ]
+  },
+  "features": {
+   "count": 19,
+   "sample": [
+    "/Users/timo/.claude/design-library/media/buzzsprout/features/features.webp",
+    "/Users/timo/.claude/design-library/media/canopy-is/features/features.webp",
+    "/Users/timo/.claude/design-library/media/flox/features/features.webp",
+    "/Users/timo/.claude/design-library/media/framer/features/features.webp",
+    "/Users/timo/.claude/design-library/media/getcontrast/features/features.webp",
+    "/Users/timo/.claude/design-library/media/gitbook/features/features.webp",
+    "/Users/timo/.claude/design-library/media/goodnotes/features/features.webp",
+    "/Users/timo/.claude/design-library/media/june/features/features.webp",
+    "/Users/timo/.claude/design-library/media/kit/features/features.webp",
+    "/Users/timo/.claude/design-library/media/krepling/features/features.webp",
+    "/Users/timo/.claude/design-library/media/lottielab/features/features.webp",
+    "/Users/timo/.claude/design-library/media/planpoint/features/features.webp",
+    "/Users/timo/.claude/design-library/media/privy/features/features.webp",
+    "/Users/timo/.claude/design-library/media/resend/features/features.jpg",
+    "/Users/timo/.claude/design-library/media/sketch/features/features.webp",
+    "/Users/timo/.claude/design-library/media/studio-design/features/features.webp",
+    "/Users/timo/.claude/design-library/media/synthesia/features/features.webp",
+    "/Users/timo/.claude/design-library/media/tana/features/features.jpg",
+    "/Users/timo/.claude/design-library/media/todoist/features/features.webp"
+   ]
+  },
+  "use-cases": {
+   "count": 16,
+   "sample": [
+    "/Users/timo/.claude/design-library/media/clay-com/use-cases/use-cases.webp",
+    "/Users/timo/.claude/design-library/media/clutch/use-cases/use-cases.jpg",
+    "/Users/timo/.claude/design-library/media/default/use-cases/use-cases.jpg",
+    "/Users/timo/.claude/design-library/media/equals/use-cases/use-cases.jpg",
+    "/Users/timo/.claude/design-library/media/eraser/use-cases/use-cases.webp",
+    "/Users/timo/.claude/design-library/media/evervault/use-cases/use-cases.webp",
+    "/Users/timo/.claude/design-library/media/fable/use-cases/use-cases.webp",
+    "/Users/timo/.claude/design-library/media/listenup/use-cases/use-cases.webp",
+    "/Users/timo/.claude/design-library/media/liveblocks/use-cases/use-cases.webp",
+    "/Users/timo/.claude/design-library/media/modal/use-cases/use-cases.jpg",
+    "/Users/timo/.claude/design-library/media/relayed/use-cases/use-cases.webp",
+    "/Users/timo/.claude/design-library/media/shareup/use-cases/use-cases.webp",
+    "/Users/timo/.claude/design-library/media/synthesia/use-cases/use-cases.webp",
+    "/Users/timo/.claude/design-library/media/tome/use-cases/use-cases.webp",
+    "/Users/timo/.claude/design-library/media/usedrop/use-cases/use-cases.webp",
+    "/Users/timo/.claude/design-library/media/viewport/use-cases/use-cases.jpg"
+   ]
+  }
+ },
+ "mid": {
+  "careers": {
+   "count": 13,
+   "sample": [
+    "/Users/timo/.claude/design-library/media/astro-build/careers/careers.webp",
+    "/Users/timo/.claude/design-library/media/clay-earth/careers/careers.webp",
+    "/Users/timo/.claude/design-library/media/cluely/careers/careers.jpg"
+   ]
+  },
+  "customers": {
+   "count": 12,
+   "sample": [
+    "/Users/timo/.claude/design-library/media/clearbit/customers/customers.webp",
+    "/Users/timo/.claude/design-library/media/codex/customers/customers.webp",
+    "/Users/timo/.claude/design-library/media/dub/customers/customers.jpg"
+   ]
+  },
+  "enterprise": {
+   "count": 11,
+   "sample": [
+    "/Users/timo/.claude/design-library/media/antimetal/enterprise/enterprise.webp",
+    "/Users/timo/.claude/design-library/media/betterstack/enterprise/enterprise.webp",
+    "/Users/timo/.claude/design-library/media/clay-com/enterprise/enterprise.jpg"
+   ]
+  },
+  "platform": {
+   "count": 9,
+   "sample": [
+    "/Users/timo/.claude/design-library/media/ada/platform/platform.jpg",
+    "/Users/timo/.claude/design-library/media/amra/platform/platform.webp",
+    "/Users/timo/.claude/design-library/media/betterstack/platform/platform.webp"
+   ]
+  },
+  "templates": {
+   "count": 9,
+   "sample": [
+    "/Users/timo/.claude/design-library/media/artboard-studio/templates/templates.webp",
+    "/Users/timo/.claude/design-library/media/jitter/templates/templates.jpg",
+    "/Users/timo/.claude/design-library/media/paradigmai/templates/templates.jpg"
+   ]
+  },
+  "about-us": {
+   "count": 9,
+   "sample": [
+    "/Users/timo/.claude/design-library/media/clutch/about-us/about-us.jpg",
+    "/Users/timo/.claude/design-library/media/fly/about-us/about-us.webp",
+    "/Users/timo/.claude/design-library/media/fonts-ninja/about-us/about-us.webp"
+   ]
+  },
+  "products": {
+   "count": 8,
+   "sample": [
+    "/Users/timo/.claude/design-library/media/aave/products/products.webp",
+    "/Users/timo/.claude/design-library/media/adaline/products/products.jpg",
+    "/Users/timo/.claude/design-library/media/cohere/products/products.webp"
+   ]
+  },
+  "integrations": {
+   "count": 7,
+   "sample": [
+    "/Users/timo/.claude/design-library/media/astro-build/integrations/integrations.webp",
+    "/Users/timo/.claude/design-library/media/cycle/integrations/integrations.webp",
+    "/Users/timo/.claude/design-library/media/gitbook/integrations/integrations.webp"
+   ]
+  },
+  "community": {
+   "count": 7,
+   "sample": [
+    "/Users/timo/.claude/design-library/media/betterstack/community/community.webp",
+    "/Users/timo/.claude/design-library/media/holograph/community/community.webp",
+    "/Users/timo/.claude/design-library/media/lottiefiles/community/community.jpg"
+   ]
+  },
+  "contact": {
+   "count": 5,
+   "sample": [
+    "/Users/timo/.claude/design-library/media/amplemarket/contact/contact.webp",
+    "/Users/timo/.claude/design-library/media/buddy-works/contact/contact.webp",
+    "/Users/timo/.claude/design-library/media/openserv/contact/contact.webp"
+   ]
+  },
+  "for-teams": {
+   "count": 5,
+   "sample": [
+    "/Users/timo/.claude/design-library/media/artboard-studio/for-teams/for-teams.webp",
+    "/Users/timo/.claude/design-library/media/canopy-is/for-teams/for-teams.webp",
+    "/Users/timo/.claude/design-library/media/tana/for-teams/for-teams.jpg"
+   ]
+  },
+  "security": {
+   "count": 5,
+   "sample": [
+    "/Users/timo/.claude/design-library/media/ctrl/security/security.webp",
+    "/Users/timo/.claude/design-library/media/fly/security/security.webp",
+    "/Users/timo/.claude/design-library/media/pass-app/security/security.webp"
+   ]
+  }
+ }
+}

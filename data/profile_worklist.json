@@ -1,0 +1,1618 @@
+[
+ {
+  "slug": "aave",
+  "mode": "vision"
+ },
+ {
+  "slug": "aave-recent",
+  "mode": "vision"
+ },
+ {
+  "slug": "acctual",
+  "mode": "vision"
+ },
+ {
+  "slug": "ada",
+  "mode": "vision"
+ },
+ {
+  "slug": "adaline",
+  "mode": "vision"
+ },
+ {
+  "slug": "agentql",
+  "mode": "vision"
+ },
+ {
+  "slug": "airbnb",
+  "mode": "distill"
+ },
+ {
+  "slug": "airtable",
+  "mode": "distill"
+ },
+ {
+  "slug": "amie",
+  "mode": "vision"
+ },
+ {
+  "slug": "amplemarket",
+  "mode": "vision"
+ },
+ {
+  "slug": "amra",
+  "mode": "vision"
+ },
+ {
+  "slug": "aninix",
+  "mode": "vision"
+ },
+ {
+  "slug": "antimetal",
+  "mode": "vision"
+ },
+ {
+  "slug": "apple",
+  "mode": "distill"
+ },
+ {
+  "slug": "arc",
+  "mode": "vision"
+ },
+ {
+  "slug": "arcadia",
+  "mode": "vision"
+ },
+ {
+  "slug": "area-technology",
+  "mode": "vision"
+ },
+ {
+  "slug": "artboard-studio",
+  "mode": "vision"
+ },
+ {
+  "slug": "aside",
+  "mode": "vision"
+ },
+ {
+  "slug": "astro-build",
+  "mode": "vision"
+ },
+ {
+  "slug": "astro-dither",
+  "mode": "vision"
+ },
+ {
+  "slug": "augen",
+  "mode": "vision"
+ },
+ {
+  "slug": "avara",
+  "mode": "vision"
+ },
+ {
+  "slug": "awesomic",
+  "mode": "vision"
+ },
+ {
+  "slug": "axelar-network",
+  "mode": "vision"
+ },
+ {
+  "slug": "basehub",
+  "mode": "vision"
+ },
+ {
+  "slug": "becane-paris",
+  "mode": "vision"
+ },
+ {
+  "slug": "beeper",
+  "mode": "vision"
+ },
+ {
+  "slug": "belen-jones",
+  "mode": "vision"
+ },
+ {
+  "slug": "bento",
+  "mode": "vision"
+ },
+ {
+  "slug": "betterstack",
+  "mode": "vision"
+ },
+ {
+  "slug": "binance",
+  "mode": "distill"
+ },
+ {
+  "slug": "bmw",
+  "mode": "distill"
+ },
+ {
+  "slug": "bmw-m",
+  "mode": "distill"
+ },
+ {
+  "slug": "boostinsurance",
+  "mode": "vision"
+ },
+ {
+  "slug": "brainfishai",
+  "mode": "vision"
+ },
+ {
+  "slug": "browserbase",
+  "mode": "vision"
+ },
+ {
+  "slug": "buddy-works",
+  "mode": "vision"
+ },
+ {
+  "slug": "bugatti",
+  "mode": "distill"
+ },
+ {
+  "slug": "buymeacoffee",
+  "mode": "vision"
+ },
+ {
+  "slug": "buzzsprout",
+  "mode": "vision"
+ },
+ {
+  "slug": "cakeequity",
+  "mode": "vision"
+ },
+ {
+  "slug": "cal",
+  "mode": "distill"
+ },
+ {
+  "slug": "caldera",
+  "mode": "vision"
+ },
+ {
+  "slug": "campsite-design",
+  "mode": "vision"
+ },
+ {
+  "slug": "canopy-is",
+  "mode": "vision"
+ },
+ {
+  "slug": "cap",
+  "mode": "vision"
+ },
+ {
+  "slug": "capital-xyz",
+  "mode": "vision"
+ },
+ {
+  "slug": "cassettine",
+  "mode": "vision"
+ },
+ {
+  "slug": "cathy-dolle",
+  "mode": "vision"
+ },
+ {
+  "slug": "checklyhq",
+  "mode": "vision"
+ },
+ {
+  "slug": "chroniclehq",
+  "mode": "vision"
+ },
+ {
+  "slug": "circleso",
+  "mode": "vision"
+ },
+ {
+  "slug": "claude",
+  "mode": "distill"
+ },
+ {
+  "slug": "clay",
+  "mode": "distill"
+ },
+ {
+  "slug": "clay-com",
+  "mode": "vision"
+ },
+ {
+  "slug": "clay-earth",
+  "mode": "vision"
+ },
+ {
+  "slug": "clearbit",
+  "mode": "vision"
+ },
+ {
+  "slug": "clickhouse",
+  "mode": "distill"
+ },
+ {
+  "slug": "clipdrop",
+  "mode": "vision"
+ },
+ {
+  "slug": "cluely",
+  "mode": "vision"
+ },
+ {
+  "slug": "clutch",
+  "mode": "vision"
+ },
+ {
+  "slug": "cntrl",
+  "mode": "vision"
+ },
+ {
+  "slug": "codex",
+  "mode": "vision"
+ },
+ {
+  "slug": "cohere",
+  "mode": "vision"
+ },
+ {
+  "slug": "coinbase",
+  "mode": "distill"
+ },
+ {
+  "slug": "coinflect",
+  "mode": "vision"
+ },
+ {
+  "slug": "coinshift",
+  "mode": "vision"
+ },
+ {
+  "slug": "common",
+  "mode": "vision"
+ },
+ {
+  "slug": "composer-trade",
+  "mode": "vision"
+ },
+ {
+  "slug": "composio",
+  "mode": "distill"
+ },
+ {
+  "slug": "copy-ai",
+  "mode": "vision"
+ },
+ {
+  "slug": "cora",
+  "mode": "vision"
+ },
+ {
+  "slug": "cord",
+  "mode": "vision"
+ },
+ {
+  "slug": "cortexdao",
+  "mode": "vision"
+ },
+ {
+  "slug": "craft-do",
+  "mode": "vision"
+ },
+ {
+  "slug": "createanything",
+  "mode": "vision"
+ },
+ {
+  "slug": "ctrl",
+  "mode": "vision"
+ },
+ {
+  "slug": "current",
+  "mode": "vision"
+ },
+ {
+  "slug": "cursor",
+  "mode": "distill"
+ },
+ {
+  "slug": "cycle",
+  "mode": "vision"
+ },
+ {
+  "slug": "cycleapp",
+  "mode": "vision"
+ },
+ {
+  "slug": "dashlane",
+  "mode": "vision"
+ },
+ {
+  "slug": "decideai",
+  "mode": "vision"
+ },
+ {
+  "slug": "decipad",
+  "mode": "vision"
+ },
+ {
+  "slug": "default",
+  "mode": "vision"
+ },
+ {
+  "slug": "dell-1996",
+  "mode": "distill"
+ },
+ {
+  "slug": "deta",
+  "mode": "vision"
+ },
+ {
+  "slug": "deta-space",
+  "mode": "vision"
+ },
+ {
+  "slug": "diagram",
+  "mode": "vision"
+ },
+ {
+  "slug": "dimension",
+  "mode": "vision"
+ },
+ {
+  "slug": "dirt",
+  "mode": "vision"
+ },
+ {
+  "slug": "discord",
+  "mode": "distill"
+ },
+ {
+  "slug": "displace",
+  "mode": "vision"
+ },
+ {
+  "slug": "dock",
+  "mode": "vision"
+ },
+ {
+  "slug": "dope-security",
+  "mode": "vision"
+ },
+ {
+  "slug": "dub",
+  "mode": "vision"
+ },
+ {
+  "slug": "eclipse",
+  "mode": "vision"
+ },
+ {
+  "slug": "ecosia",
+  "mode": "vision"
+ },
+ {
+  "slug": "elevenlabs",
+  "mode": "distill"
+ },
+ {
+  "slug": "endlesstools",
+  "mode": "vision"
+ },
+ {
+  "slug": "equals",
+  "mode": "vision"
+ },
+ {
+  "slug": "equals-app",
+  "mode": "vision"
+ },
+ {
+  "slug": "era-app",
+  "mode": "vision"
+ },
+ {
+  "slug": "eraser",
+  "mode": "vision"
+ },
+ {
+  "slug": "evergreen",
+  "mode": "vision"
+ },
+ {
+  "slug": "everlend",
+  "mode": "vision"
+ },
+ {
+  "slug": "evervault",
+  "mode": "vision"
+ },
+ {
+  "slug": "expo",
+  "mode": "distill"
+ },
+ {
+  "slug": "fable",
+  "mode": "vision"
+ },
+ {
+  "slug": "fabric-so",
+  "mode": "vision"
+ },
+ {
+  "slug": "fal",
+  "mode": "vision"
+ },
+ {
+  "slug": "fasthtml",
+  "mode": "vision"
+ },
+ {
+  "slug": "ferrari",
+  "mode": "distill"
+ },
+ {
+  "slug": "fiberplane",
+  "mode": "vision"
+ },
+ {
+  "slug": "figura-digital",
+  "mode": "vision"
+ },
+ {
+  "slug": "film-ai",
+  "mode": "vision"
+ },
+ {
+  "slug": "flox",
+  "mode": "vision"
+ },
+ {
+  "slug": "fly",
+  "mode": "vision"
+ },
+ {
+  "slug": "fold-money",
+  "mode": "vision"
+ },
+ {
+  "slug": "fonts-ninja",
+  "mode": "vision"
+ },
+ {
+  "slug": "framer",
+  "mode": "vision"
+ },
+ {
+  "slug": "front",
+  "mode": "vision"
+ },
+ {
+  "slug": "galileo-ft",
+  "mode": "vision"
+ },
+ {
+  "slug": "gamma",
+  "mode": "vision"
+ },
+ {
+  "slug": "geniestudio",
+  "mode": "vision"
+ },
+ {
+  "slug": "genway",
+  "mode": "vision"
+ },
+ {
+  "slug": "getapron",
+  "mode": "vision"
+ },
+ {
+  "slug": "getcoco",
+  "mode": "vision"
+ },
+ {
+  "slug": "getcontrast",
+  "mode": "vision"
+ },
+ {
+  "slug": "getrepeat",
+  "mode": "vision"
+ },
+ {
+  "slug": "getstark",
+  "mode": "vision"
+ },
+ {
+  "slug": "gitbook",
+  "mode": "vision"
+ },
+ {
+  "slug": "gitness",
+  "mode": "vision"
+ },
+ {
+  "slug": "glideapps",
+  "mode": "vision"
+ },
+ {
+  "slug": "glitch",
+  "mode": "vision"
+ },
+ {
+  "slug": "glyphy",
+  "mode": "vision"
+ },
+ {
+  "slug": "goodnotes",
+  "mode": "vision"
+ },
+ {
+  "slug": "gopano",
+  "mode": "vision"
+ },
+ {
+  "slug": "gotomorro",
+  "mode": "vision"
+ },
+ {
+  "slug": "grabee",
+  "mode": "vision"
+ },
+ {
+  "slug": "granola",
+  "mode": "vision"
+ },
+ {
+  "slug": "graphy",
+  "mode": "vision"
+ },
+ {
+  "slug": "gregor-collienne",
+  "mode": "vision"
+ },
+ {
+  "slug": "harry-atkins",
+  "mode": "vision"
+ },
+ {
+  "slug": "hashicorp",
+  "mode": "distill"
+ },
+ {
+  "slug": "hatch-fm",
+  "mode": "vision"
+ },
+ {
+  "slug": "headroom",
+  "mode": "vision"
+ },
+ {
+  "slug": "healthytogether",
+  "mode": "vision"
+ },
+ {
+  "slug": "height-app",
+  "mode": "vision"
+ },
+ {
+  "slug": "hellotime",
+  "mode": "vision"
+ },
+ {
+  "slug": "herokit",
+  "mode": "vision"
+ },
+ {
+  "slug": "heynds",
+  "mode": "vision"
+ },
+ {
+  "slug": "heyquin",
+  "mode": "vision"
+ },
+ {
+  "slug": "holograph",
+  "mode": "vision"
+ },
+ {
+  "slug": "hook-xyz",
+  "mode": "vision"
+ },
+ {
+  "slug": "hp",
+  "mode": "distill"
+ },
+ {
+  "slug": "huddle-works",
+  "mode": "vision"
+ },
+ {
+  "slug": "hydra",
+  "mode": "vision"
+ },
+ {
+  "slug": "hyperliquid",
+  "mode": "vision"
+ },
+ {
+  "slug": "ibm",
+  "mode": "distill"
+ },
+ {
+  "slug": "icebug",
+  "mode": "vision"
+ },
+ {
+  "slug": "idle-finance",
+  "mode": "vision"
+ },
+ {
+  "slug": "imgs-so",
+  "mode": "vision"
+ },
+ {
+  "slug": "impilo",
+  "mode": "vision"
+ },
+ {
+  "slug": "index-app",
+  "mode": "vision"
+ },
+ {
+  "slug": "index-inc",
+  "mode": "vision"
+ },
+ {
+  "slug": "intercom",
+  "mode": "distill"
+ },
+ {
+  "slug": "interfere",
+  "mode": "vision"
+ },
+ {
+  "slug": "inthememory",
+  "mode": "vision"
+ },
+ {
+  "slug": "jam-dev",
+  "mode": "vision"
+ },
+ {
+  "slug": "jasper",
+  "mode": "vision"
+ },
+ {
+  "slug": "jitter",
+  "mode": "vision"
+ },
+ {
+  "slug": "juicebox",
+  "mode": "vision"
+ },
+ {
+  "slug": "june",
+  "mode": "vision"
+ },
+ {
+  "slug": "kikin",
+  "mode": "vision"
+ },
+ {
+  "slug": "kindsight",
+  "mode": "vision"
+ },
+ {
+  "slug": "kit",
+  "mode": "vision"
+ },
+ {
+  "slug": "ko-fi",
+  "mode": "vision"
+ },
+ {
+  "slug": "kosmik",
+  "mode": "vision"
+ },
+ {
+  "slug": "kraken",
+  "mode": "distill"
+ },
+ {
+  "slug": "krepling",
+  "mode": "vision"
+ },
+ {
+  "slug": "lamborghini",
+  "mode": "distill"
+ },
+ {
+  "slug": "langbase",
+  "mode": "vision"
+ },
+ {
+  "slug": "lattice",
+  "mode": "vision"
+ },
+ {
+  "slug": "lazy-so",
+  "mode": "vision"
+ },
+ {
+  "slug": "linear.app",
+  "mode": "distill"
+ },
+ {
+  "slug": "listenup",
+  "mode": "vision"
+ },
+ {
+  "slug": "literal-club",
+  "mode": "vision"
+ },
+ {
+  "slug": "lithic",
+  "mode": "vision"
+ },
+ {
+  "slug": "liveblocks",
+  "mode": "vision"
+ },
+ {
+  "slug": "loops",
+  "mode": "vision"
+ },
+ {
+  "slug": "lottiefiles",
+  "mode": "vision"
+ },
+ {
+  "slug": "lottielab",
+  "mode": "vision"
+ },
+ {
+  "slug": "lovable",
+  "mode": "distill"
+ },
+ {
+  "slug": "luroapp",
+  "mode": "vision"
+ },
+ {
+  "slug": "madewithgsap",
+  "mode": "vision"
+ },
+ {
+  "slug": "magicbeans",
+  "mode": "vision"
+ },
+ {
+  "slug": "makelog",
+  "mode": "vision"
+ },
+ {
+  "slug": "maneken",
+  "mode": "vision"
+ },
+ {
+  "slug": "mastercard",
+  "mode": "distill"
+ },
+ {
+  "slug": "meech213",
+  "mode": "vision"
+ },
+ {
+  "slug": "memorisely",
+  "mode": "vision"
+ },
+ {
+  "slug": "merlin",
+  "mode": "vision"
+ },
+ {
+  "slug": "meta",
+  "mode": "distill"
+ },
+ {
+  "slug": "metadrop",
+  "mode": "vision"
+ },
+ {
+  "slug": "metaview",
+  "mode": "vision"
+ },
+ {
+  "slug": "mezmo",
+  "mode": "vision"
+ },
+ {
+  "slug": "micro",
+  "mode": "vision"
+ },
+ {
+  "slug": "minimax",
+  "mode": "distill"
+ },
+ {
+  "slug": "mintlify",
+  "mode": "vision"
+ },
+ {
+  "slug": "mintlify-recent",
+  "mode": "vision"
+ },
+ {
+  "slug": "miro",
+  "mode": "vision"
+ },
+ {
+  "slug": "mistral.ai",
+  "mode": "distill"
+ },
+ {
+  "slug": "mixpanel",
+  "mode": "vision"
+ },
+ {
+  "slug": "mmm-page",
+  "mode": "vision"
+ },
+ {
+  "slug": "modal",
+  "mode": "vision"
+ },
+ {
+  "slug": "mode",
+  "mode": "vision"
+ },
+ {
+  "slug": "monad",
+  "mode": "vision"
+ },
+ {
+  "slug": "mongodb",
+  "mode": "distill"
+ },
+ {
+  "slug": "monologue",
+  "mode": "vision"
+ },
+ {
+  "slug": "moonli",
+  "mode": "vision"
+ },
+ {
+  "slug": "morflax",
+  "mode": "vision"
+ },
+ {
+  "slug": "morphic",
+  "mode": "vision"
+ },
+ {
+  "slug": "motionformobile",
+  "mode": "vision"
+ },
+ {
+  "slug": "movingparts",
+  "mode": "vision"
+ },
+ {
+  "slug": "multiparty",
+  "mode": "vision"
+ },
+ {
+  "slug": "mural",
+  "mode": "vision"
+ },
+ {
+  "slug": "mux",
+  "mode": "vision"
+ },
+ {
+  "slug": "mymind",
+  "mode": "vision"
+ },
+ {
+  "slug": "near",
+  "mode": "vision"
+ },
+ {
+  "slug": "nike",
+  "mode": "distill"
+ },
+ {
+  "slug": "nintendo-2001",
+  "mode": "distill"
+ },
+ {
+  "slug": "nothing-to-watch",
+  "mode": "vision"
+ },
+ {
+  "slug": "notion",
+  "mode": "vision"
+ },
+ {
+  "slug": "nvidia",
+  "mode": "distill"
+ },
+ {
+  "slug": "obscura",
+  "mode": "vision"
+ },
+ {
+  "slug": "obviously",
+  "mode": "vision"
+ },
+ {
+  "slug": "ollama",
+  "mode": "distill"
+ },
+ {
+  "slug": "opencode.ai",
+  "mode": "distill"
+ },
+ {
+  "slug": "opencollective",
+  "mode": "vision"
+ },
+ {
+  "slug": "openserv",
+  "mode": "vision"
+ },
+ {
+  "slug": "operate",
+  "mode": "vision"
+ },
+ {
+  "slug": "orior-ai",
+  "mode": "vision"
+ },
+ {
+  "slug": "ortto",
+  "mode": "vision"
+ },
+ {
+  "slug": "osmo-supply",
+  "mode": "vision"
+ },
+ {
+  "slug": "outerbase",
+  "mode": "vision"
+ },
+ {
+  "slug": "outseta",
+  "mode": "vision"
+ },
+ {
+  "slug": "overflow",
+  "mode": "vision"
+ },
+ {
+  "slug": "oxide-computer",
+  "mode": "vision"
+ },
+ {
+  "slug": "oysterhr",
+  "mode": "vision"
+ },
+ {
+  "slug": "pacome-pertant",
+  "mode": "vision"
+ },
+ {
+  "slug": "paper",
+  "mode": "vision"
+ },
+ {
+  "slug": "paper-design",
+  "mode": "vision"
+ },
+ {
+  "slug": "paradigmai",
+  "mode": "vision"
+ },
+ {
+  "slug": "pass-app",
+  "mode": "vision"
+ },
+ {
+  "slug": "passionfroot",
+  "mode": "vision"
+ },
+ {
+  "slug": "paywithpeppermint",
+  "mode": "vision"
+ },
+ {
+  "slug": "pencilbooth",
+  "mode": "vision"
+ },
+ {
+  "slug": "penpot",
+  "mode": "vision"
+ },
+ {
+  "slug": "pinterest",
+  "mode": "distill"
+ },
+ {
+  "slug": "pirsch",
+  "mode": "vision"
+ },
+ {
+  "slug": "planetscale",
+  "mode": "vision"
+ },
+ {
+  "slug": "planpoint",
+  "mode": "vision"
+ },
+ {
+  "slug": "playstation",
+  "mode": "distill"
+ },
+ {
+  "slug": "podia",
+  "mode": "vision"
+ },
+ {
+  "slug": "podium",
+  "mode": "vision"
+ },
+ {
+  "slug": "podscan",
+  "mode": "vision"
+ },
+ {
+  "slug": "pop-site",
+  "mode": "vision"
+ },
+ {
+  "slug": "portalgaming",
+  "mode": "vision"
+ },
+ {
+  "slug": "portrait",
+  "mode": "vision"
+ },
+ {
+  "slug": "posthog",
+  "mode": "distill"
+ },
+ {
+  "slug": "prevalent-ai",
+  "mode": "vision"
+ },
+ {
+  "slug": "prismic",
+  "mode": "vision"
+ },
+ {
+  "slug": "privy",
+  "mode": "vision"
+ },
+ {
+  "slug": "prototyper-for-figma",
+  "mode": "vision"
+ },
+ {
+  "slug": "qatalog",
+  "mode": "vision"
+ },
+ {
+  "slug": "qatchup",
+  "mode": "vision"
+ },
+ {
+  "slug": "ragged-edge",
+  "mode": "vision"
+ },
+ {
+  "slug": "rally-space",
+  "mode": "vision"
+ },
+ {
+  "slug": "react-email",
+  "mode": "vision"
+ },
+ {
+  "slug": "ready-so",
+  "mode": "vision"
+ },
+ {
+  "slug": "reef",
+  "mode": "vision"
+ },
+ {
+  "slug": "reflect",
+  "mode": "vision"
+ },
+ {
+  "slug": "relace",
+  "mode": "vision"
+ },
+ {
+  "slug": "relate-so",
+  "mode": "vision"
+ },
+ {
+  "slug": "relayed",
+  "mode": "vision"
+ },
+ {
+  "slug": "renault",
+  "mode": "distill"
+ },
+ {
+  "slug": "replay",
+  "mode": "vision"
+ },
+ {
+  "slug": "replicate",
+  "mode": "distill"
+ },
+ {
+  "slug": "replit",
+  "mode": "vision"
+ },
+ {
+  "slug": "resend",
+  "mode": "vision"
+ },
+ {
+  "slug": "resend-forward",
+  "mode": "vision"
+ },
+ {
+  "slug": "retool",
+  "mode": "vision"
+ },
+ {
+  "slug": "revolut",
+  "mode": "distill"
+ },
+ {
+  "slug": "reworkd",
+  "mode": "vision"
+ },
+ {
+  "slug": "risecalendar",
+  "mode": "vision"
+ },
+ {
+  "slug": "runwayml",
+  "mode": "distill"
+ },
+ {
+  "slug": "safepal",
+  "mode": "vision"
+ },
+ {
+  "slug": "sandclock",
+  "mode": "vision"
+ },
+ {
+  "slug": "sanity",
+  "mode": "distill"
+ },
+ {
+  "slug": "saucelabs",
+  "mode": "vision"
+ },
+ {
+  "slug": "save-day",
+  "mode": "vision"
+ },
+ {
+  "slug": "saybriefly",
+  "mode": "vision"
+ },
+ {
+  "slug": "scenery",
+  "mode": "vision"
+ },
+ {
+  "slug": "seline",
+  "mode": "vision"
+ },
+ {
+  "slug": "sentry",
+  "mode": "distill"
+ },
+ {
+  "slug": "shapeco",
+  "mode": "vision"
+ },
+ {
+  "slug": "shareio",
+  "mode": "vision"
+ },
+ {
+  "slug": "shares-io",
+  "mode": "vision"
+ },
+ {
+  "slug": "shareup",
+  "mode": "vision"
+ },
+ {
+  "slug": "shopify",
+  "mode": "vision"
+ },
+ {
+  "slug": "shopify-design",
+  "mode": "vision"
+ },
+ {
+  "slug": "shopify-editions",
+  "mode": "vision"
+ },
+ {
+  "slug": "shopify-editions-spring-26",
+  "mode": "vision"
+ },
+ {
+  "slug": "shortcut",
+  "mode": "vision"
+ },
+ {
+  "slug": "shortverse",
+  "mode": "vision"
+ },
+ {
+  "slug": "shuttle",
+  "mode": "vision"
+ },
+ {
+  "slug": "sileon",
+  "mode": "vision"
+ },
+ {
+  "slug": "silo",
+  "mode": "vision"
+ },
+ {
+  "slug": "sketch",
+  "mode": "vision"
+ },
+ {
+  "slug": "skiff",
+  "mode": "vision"
+ },
+ {
+  "slug": "slack",
+  "mode": "distill"
+ },
+ {
+  "slug": "spacex",
+  "mode": "distill"
+ },
+ {
+  "slug": "sparkles",
+  "mode": "vision"
+ },
+ {
+  "slug": "specifyapp",
+  "mode": "vision"
+ },
+ {
+  "slug": "spellbook",
+  "mode": "vision"
+ },
+ {
+  "slug": "spotify",
+  "mode": "distill"
+ },
+ {
+  "slug": "sprout",
+  "mode": "vision"
+ },
+ {
+  "slug": "stableaudio",
+  "mode": "vision"
+ },
+ {
+  "slug": "standards-site",
+  "mode": "vision"
+ },
+ {
+  "slug": "starbucks",
+  "mode": "distill"
+ },
+ {
+  "slug": "starlight-money",
+  "mode": "vision"
+ },
+ {
+  "slug": "statamic",
+  "mode": "vision"
+ },
+ {
+  "slug": "steep",
+  "mode": "vision"
+ },
+ {
+  "slug": "stripe",
+  "mode": "distill"
+ },
+ {
+  "slug": "strut",
+  "mode": "vision"
+ },
+ {
+  "slug": "studio-design",
+  "mode": "vision"
+ },
+ {
+  "slug": "sublime",
+  "mode": "vision"
+ },
+ {
+  "slug": "suno",
+  "mode": "vision"
+ },
+ {
+  "slug": "super",
+  "mode": "vision"
+ },
+ {
+  "slug": "superhuman",
+  "mode": "vision"
+ },
+ {
+  "slug": "supertape",
+  "mode": "vision"
+ },
+ {
+  "slug": "superthread",
+  "mode": "vision"
+ },
+ {
+  "slug": "swagapp",
+  "mode": "vision"
+ },
+ {
+  "slug": "switch-lit",
+  "mode": "vision"
+ },
+ {
+  "slug": "syllabus",
+  "mode": "vision"
+ },
+ {
+  "slug": "synthesia",
+  "mode": "vision"
+ },
+ {
+  "slug": "tableland",
+  "mode": "vision"
+ },
+ {
+  "slug": "tailwindcss",
+  "mode": "vision"
+ },
+ {
+  "slug": "tally",
+  "mode": "vision"
+ },
+ {
+  "slug": "tana",
+  "mode": "vision"
+ },
+ {
+  "slug": "tedy",
+  "mode": "vision"
+ },
+ {
+  "slug": "tesla",
+  "mode": "distill"
+ },
+ {
+  "slug": "textla",
+  "mode": "vision"
+ },
+ {
+  "slug": "theleap",
+  "mode": "vision"
+ },
+ {
+  "slug": "thenile",
+  "mode": "vision"
+ },
+ {
+  "slug": "thepatchsystem",
+  "mode": "vision"
+ },
+ {
+  "slug": "theverge",
+  "mode": "distill"
+ },
+ {
+  "slug": "threads",
+  "mode": "vision"
+ },
+ {
+  "slug": "three-tools",
+  "mode": "vision"
+ },
+ {
+  "slug": "tiblo",
+  "mode": "vision"
+ },
+ {
+  "slug": "timescale",
+  "mode": "vision"
+ },
+ {
+  "slug": "tines",
+  "mode": "vision"
+ },
+ {
+  "slug": "titan",
+  "mode": "vision"
+ },
+ {
+  "slug": "todoist",
+  "mode": "vision"
+ },
+ {
+  "slug": "together.ai",
+  "mode": "distill"
+ },
+ {
+  "slug": "tome",
+  "mode": "vision"
+ },
+ {
+  "slug": "topology",
+  "mode": "vision"
+ },
+ {
+  "slug": "tracky",
+  "mode": "vision"
+ },
+ {
+  "slug": "trunk",
+  "mode": "vision"
+ },
+ {
+  "slug": "trustditto",
+  "mode": "vision"
+ },
+ {
+  "slug": "tryeraser",
+  "mode": "vision"
+ },
+ {
+  "slug": "tuple",
+  "mode": "vision"
+ },
+ {
+  "slug": "turn",
+  "mode": "vision"
+ },
+ {
+  "slug": "twingate",
+  "mode": "vision"
+ },
+ {
+  "slug": "uber",
+  "mode": "distill"
+ },
+ {
+  "slug": "uizard",
+  "mode": "vision"
+ },
+ {
+  "slug": "unicorn",
+  "mode": "vision"
+ },
+ {
+  "slug": "usedrop",
+  "mode": "vision"
+ },
+ {
+  "slug": "useparallel",
+  "mode": "vision"
+ },
+ {
+  "slug": "useportal",
+  "mode": "vision"
+ },
+ {
+  "slug": "usestir",
+  "mode": "vision"
+ },
+ {
+  "slug": "usetola",
+  "mode": "vision"
+ },
+ {
+  "slug": "vana",
+  "mode": "vision"
+ },
+ {
+  "slug": "vapi",
+  "mode": "vision"
+ },
+ {
+  "slug": "ventriloc",
+  "mode": "vision"
+ },
+ {
+  "slug": "vercel",
+  "mode": "distill"
+ },
+ {
+  "slug": "vetric",
+  "mode": "vision"
+ },
+ {
+  "slug": "viewport",
+  "mode": "vision"
+ },
+ {
+  "slug": "vodafone",
+  "mode": "distill"
+ },
+ {
+  "slug": "voicenotes",
+  "mode": "vision"
+ },
+ {
+  "slug": "voltagent",
+  "mode": "distill"
+ },
+ {
+  "slug": "warp",
+  "mode": "distill"
+ },
+ {
+  "slug": "webflow",
+  "mode": "distill"
+ },
+ {
+  "slug": "whimsical",
+  "mode": "vision"
+ },
+ {
+  "slug": "wired",
+  "mode": "distill"
+ },
+ {
+  "slug": "wise",
+  "mode": "distill"
+ },
+ {
+  "slug": "withcompound",
+  "mode": "vision"
+ },
+ {
+  "slug": "wowpage",
+  "mode": "vision"
+ },
+ {
+  "slug": "x-advertising",
+  "mode": "vision"
+ },
+ {
+  "slug": "x.ai",
+  "mode": "distill"
+ },
+ {
+  "slug": "zapier",
+  "mode": "distill"
+ },
+ {
+  "slug": "zkpass",
+  "mode": "vision"
+ }
+]
