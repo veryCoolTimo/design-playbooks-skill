@@ -1,0 +1,10 @@
+{
+  "name": "design-playbooks",
+  "description": "Evidence-based design playbooks for AI coding agents — rules synthesized from 407 real product sites: page-type playbooks with pattern frequencies, 9 style guides, per-site hex/type tokens, DESIGN.md generator.",
+  "version": "1.0.0",
+  "author": { "name": "veryCoolTimo", "email": "tima.bulaev@gmail.com" },
+  "homepage": "https://github.com/veryCoolTimo/design-playbooks-skill",
+  "repository": "https://github.com/veryCoolTimo/design-playbooks-skill",
+  "license": "MIT",
+  "keywords": ["skills", "frontend-design", "design-tokens", "design-system", "web-design", "ui-design"]
+}

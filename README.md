@@ -26,6 +26,15 @@ AI-generated frontends all look the same: purple gradient, Inter, three cards. P
 
 ## Install
 
+**Claude Code, plugin marketplace:**
+
+```
+/plugin marketplace add veryCoolTimo/design-playbooks-skill
+/plugin install design-playbooks@design-playbooks
+```
+
+**Manual (clone + symlink):**
+
 ```bash
 git clone https://github.com/veryCoolTimo/design-playbooks-skill.git ~/.claude/design-library
 ln -s ~/.claude/design-library/skill ~/.claude/skills/design-playbooks
