@@ -25,3 +25,11 @@ Notes:
   nailed raycast (white CTA on dark) and figma (black CTA) — keep it verbatim.
 - Agents also correctly identified dual-polarity systems (supabase launch-week white
   mode, figma dark blog) — the "check both hero and mid-page sections" rule works.
+
+## Acceptance Scenario B — edit existing frontend (2026-07-11, v2)
+Fake project: cream/serif/rust (EL) globals.css + hero.html.
+Agent followed Step 0: read project styling FIRST → inferred **EL / light** from tokens
+(#f5efe3 canvas, Canela/Tiempos serif, weight-300, rust #b5471f, 4px radius).
+Ran `find.py --style EL --tone light` (new search tool), chose claude + kindsight,
+improved hero in the SAME language (poster type ramp, single rust emphasis word,
+hairline depth) — no style switch, no purple SaaS. **PASS.** All 4 scenarios (A/B/C/D) green.
