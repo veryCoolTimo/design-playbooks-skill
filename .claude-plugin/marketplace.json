@@ -1,0 +1,16 @@
+{
+  "name": "design-playbooks",
+  "description": "Marketplace for design-playbooks: evidence-based design rules for Claude Code from 407 real product sites",
+  "owner": { "name": "veryCoolTimo", "email": "tima.bulaev@gmail.com" },
+  "plugins": [
+    {
+      "name": "design-playbooks",
+      "description": "Evidence-based design playbooks for AI coding agents — synthesized from 407 real product sites.",
+      "version": "1.0.0",
+      "source": "./",
+      "strict": false,
+      "skills": ["./skill"],
+      "author": { "name": "veryCoolTimo", "email": "tima.bulaev@gmail.com" }
+    }
+  ]
+}
