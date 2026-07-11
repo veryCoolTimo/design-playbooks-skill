@@ -1,3 +1,5 @@
+<img src="assets/banner.webp" alt="Design Playbooks — evidence-based design rules for AI coding agents, synthesized from 407 real product sites" width="100%">
+
 # Design Playbooks for Claude Code
 
 [![Claude Code](https://img.shields.io/badge/Claude_Code-skill-d97757?logo=anthropic&logoColor=white)](https://claude.com/claude-code)
