@@ -65,15 +65,34 @@ def main():
 
     cat = load()
     sites = cat["sites"]
+    like_seed = None
+    note = None
     if a.like:
         ref = sites.get(a.like)
         if not ref:
             print(f"unknown slug: {a.like}", file=sys.stderr)
             return 2
+        like_seed = a.like
         a.style, a.category = ref["style"], ref["category"]
 
-    hits = [(slug, s) for slug, s in sites.items() if match(slug, s, a)]
-    note = None
+    def run():
+        return [(slug, s) for slug, s in sites.items()
+                if slug != like_seed and match(slug, s, a)]
+
+    hits = run()
+    if a.like and len(hits) < 3:
+        # unique (style,category) pair — widen: same category, then same style
+        seed = sites[like_seed]
+        a.style = None
+        cat_hits = run()
+        if len(cat_hits) >= 3:
+            hits, note = cat_hits, (f"few exact style+category siblings of {like_seed}; "
+                                    f"showing same-category ({seed['category']}) matches — "
+                                    f"read {like_seed}'s profile for its exact tokens.")
+        else:
+            a.category, a.style = None, seed["style"]
+            hits, note = run(), (f"{like_seed} is nearly unique in the corpus; showing "
+                                 f"same-style ({seed['style']}) matches instead.")
     if not hits and a.page:
         # graceful fallback: drop the page filter, keep style/category/tone
         want = a.page
