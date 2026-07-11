@@ -21,6 +21,43 @@ LIB = os.path.expanduser("~/.claude/design-library")
 def load():
     return json.load(open(os.path.join(LIB, "catalog.json")))
 
+def _hue(hexcol):
+    if not hexcol:
+        return None
+    h = hexcol.lstrip("#")
+    if len(h) == 3:
+        h = "".join(c * 2 for c in h)
+    try:
+        r, g, b = (int(h[i:i+2], 16) / 255 for i in (0, 2, 4))
+    except (ValueError, IndexError):
+        return None
+    import colorsys
+    hh, ss, vv = colorsys.rgb_to_hsv(r, g, b)
+    return None if ss < 0.12 else hh * 360  # near-grayscale has no meaningful hue
+
+def diversify(hits, k):
+    """Greedily pick k candidates whose primary colors are maximally spread in hue,
+    so repeated queries surface *different* references instead of the same top-N."""
+    pool = list(hits)
+    hues = {slug: _hue(s["palette"]["primary"]) for slug, s in pool}
+    chosen = [pool[0]]
+    while len(chosen) < k and len(chosen) < len(pool):
+        best, best_score = None, -1
+        for cand in pool:
+            if cand in chosen:
+                continue
+            ch = hues[cand[0]]
+            if ch is None:
+                score = 15  # neutral/grayscale: mild novelty, don't cluster
+            else:
+                score = min((abs(ch - hues[c[0]]) if hues[c[0]] is not None else 180)
+                            for c in chosen)
+                score = min(score, 360 - score) if score > 180 else score
+            if score > best_score:
+                best, best_score = cand, score
+        chosen.append(best)
+    return chosen
+
 def match(slug, s, a):
     if a.style and s["style"] != a.style and s.get("style_alt") != a.style:
         return False
@@ -59,6 +96,8 @@ def main():
     ap.add_argument("--tag", action="append", help="recent.design tag (repeatable, AND)")
     ap.add_argument("--has-media", action="store_true", dest="has_media")
     ap.add_argument("--like", help="slug: find siblings sharing its style+category")
+    ap.add_argument("--diverse", action="store_true",
+                    help="pick candidates spread across primary hue (anti-homogenization)")
     ap.add_argument("--limit", type=int, default=30)
     ap.add_argument("--json", action="store_true")
     a = ap.parse_args()
@@ -112,7 +151,10 @@ def main():
             score += 1
         return -score
     hits.sort(key=rank)
-    hits = hits[:a.limit]
+    if a.diverse and len(hits) > a.limit:
+        hits = diversify(hits, a.limit)
+    else:
+        hits = hits[:a.limit]
 
     if a.json:
         print(json.dumps({slug: s for slug, s in hits}, indent=1))

@@ -51,11 +51,13 @@ Playbook file = `$LIB/playbooks/styles/<full-name>.md` (e.g. DT → dark-tech.md
    Do/Don't lists as constraints, not suggestions.
 3. **Find reference sites** with the search tool (never hand-grep):
    ```
-   python3 $LIB/scripts/find.py --style DT --category fintech --page pricing
+   python3 $LIB/scripts/find.py --style DT --category fintech --page pricing --diverse
    python3 $LIB/scripts/find.py --tone dark --category crypto-web3 --on-disk pricing
    python3 $LIB/scripts/find.py --keyword gradient --tag animation
    python3 $LIB/scripts/find.py --like stripe          # siblings of a known site
    ```
+   Add `--diverse` when picking references to build from — it spreads candidates across
+   palettes so your output doesn't converge on the same few sites as everyone else.
    `--on-disk <page>` = only sites whose screenshot of that page actually exists.
    If a filter is too tight the tool auto-loosens and prints a ⚠ note. Rows marked 📷
    have local screenshots. Read the top 2–4 profiles: `$LIB/profiles/sites/<slug>.md`.
@@ -68,6 +70,26 @@ Playbook file = `$LIB/playbooks/styles/<full-name>.md` (e.g. DT → dark-tech.md
 5. **Apply:** take tokens (palette hex, type families, radius) from ONE primary
    reference profile; structure from the page playbook; mood from the style playbook.
    Never average palettes across sites — pick one and commit.
+
+## Reference, don't replicate (anti-sameness)
+
+The corpus exists to escape generic design, not to make every project look identical.
+A reference is a **starting point you adapt**, never a template you clone.
+
+- **Diversify the source.** Use `find.py --diverse` so you don't default to the same
+  famous sites every time. Two different projects in the same style should read as
+  *siblings, not twins* — rotate which reference you anchor on.
+- **Shift the palette.** Don't ship a recolor of the reference. Move the primary's
+  hue/saturation toward the user's brand, keep the *relationships* (one CTA color,
+  canvas/ink contrast, accent scarcity) — not the exact hexes. The profile's palette
+  is a proven structure, not a paint bucket to copy.
+- **Adapt the structure.** Take the page playbook's *anatomy* (what sections, what
+  order) but vary the execution — section count, hero treatment, component shapes.
+  Never reproduce one reference's layout, copy, or components 1:1.
+- **Mix, don't mirror.** Tokens from one reference + a signature idea from another +
+  the user's own content = something new. Cloning a single site is the failure mode.
+- If the user asks for "like <brand>", match the *language* (its signature moves),
+  then make it theirs — different content, adjusted color, their name. Not a reskin.
 
 ## DESIGN.md Generator
 
