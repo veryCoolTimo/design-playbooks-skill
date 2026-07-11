@@ -48,4 +48,18 @@ Buttons (states), cards, inputs, badges — shape/border/shadow with token refs.
 
 ## Do's and Don'ts
 5 Do / 5 Don't specific to this brand's language.
+
+## Responsive Behavior
+Breakpoints, how the grid collapses, touch targets, image behavior.
+
+## Agent Prompt Guide
+A ready-to-paste block for an AI agent: 1-line palette summary (canvas/ink/primary hex),
+the two font names, radius scale, and 2-3 imperative rules ("use <primary> for one CTA
+per section; headings weight X; cards Npx radius"). This makes the file drop-in usable.
 ```
+
+**Ecosystem note:** the section names above are compatible with the widely-used Google
+Stitch / awesome-design-md 9-section format (Visual Theme, Color Palette & Roles,
+Typography Rules, Component Stylings, Layout Principles, Depth & Elevation, Do's and
+Don'ts, Responsive Behavior, Agent Prompt Guide). Keep them so generated files work in
+any tool that expects that format.

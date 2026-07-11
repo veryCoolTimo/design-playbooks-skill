@@ -65,8 +65,11 @@ Playbook file = `$LIB/playbooks/styles/<full-name>.md` (e.g. DT → dark-tech.md
    (`ls $LIB/media/<slug>/`) then Read 2–3 images. Two layouts exist:
    `media/<slug>/<page>/<page>.<ext>` (most sites) OR flat `media/<slug>/shot-01.jpg…`
    (recent.design sites — check `pages_on_disk` in the catalog, empty list ⇒ flat shots).
-   No 📷 → WebFetch the live `website`, or Live Analyzer. `<slug>` and `<slug>-recent`
-   are the same brand captured twice — check both.
+   No 📷 / media not installed → generate a token preview:
+   `python3 $LIB/scripts/preview.py <slug>` renders a self-contained swatches +
+   type-scale + buttons + card HTML from the profile alone (no screenshot needed) —
+   Read it or open it. Or WebFetch the live `website` / Live Analyzer. `<slug>` and
+   `<slug>-recent` are the same brand captured twice — check both.
 5. **Apply:** take tokens (palette hex, type families, radius) from ONE primary
    reference profile; structure from the page playbook; mood from the style playbook.
    Never average palettes across sites — pick one and commit.

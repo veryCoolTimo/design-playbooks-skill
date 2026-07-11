@@ -19,7 +19,8 @@ AI-generated frontends all look the same: purple gradient, Inter, three cards. P
 - **407 site profiles** — per-site YAML tokens (canvas/ink/primary/accents, type families, radius) + layout, components, signature moves. Vision-generated from screenshots, calibrated against authoritative ground truth (9/9 pass).
 - **Domain layer** — 248 cataloged design works (motion, branding, print, 3D), 93 app icons, 49 OG images, each with craft-rules playbooks.
 - **Structured search** — `find.py --style DT --category fintech --tone dark --on-disk pricing`. 14 normalized categories, light/dark tone, page filters, keyword/tag search, `--like <brand>`, graceful auto-loosening. No more guessing grep strings.
-- **DESIGN.md generator** — "make a DESIGN.md like Linear, but green" → tokenized design system for *your* project, from a fixed template.
+- **Token previews** — `scripts/preview.py <slug>` renders visual swatches + type-scale + a component card from any profile's tokens, **no screenshots needed**.
+- **DESIGN.md generator** — "make a DESIGN.md like Linear, but green" → tokenized design system for *your* project, in the Google-Stitch-compatible 9-section format (works in awesome-design-md tooling too).
 - **Live Analyzer** — profile any live URL on the fly; the corpus is a July-2026 snapshot, not a ceiling.
 - **Auto-triggering** — the skill activates on any frontend/UI task and enforces one rule above all: *take tokens from ONE reference, never average palettes.*
 
