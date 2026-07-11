@@ -18,8 +18,9 @@ AI-generated frontends all look the same: purple gradient, Inter, three cards. P
 - **9 style playbooks** — minimal-light, dark-tech, dark-neon, colorful-playful, illustration, big-type, elegant-serif, photo-driven, gradient-mesh. Palette formulas with real hex, typography formulas, Do/Don't.
 - **407 site profiles** — per-site YAML tokens (canvas/ink/primary/accents, type families, radius) + layout, components, signature moves. Vision-generated from screenshots, calibrated against authoritative ground truth (9/9 pass).
 - **Domain layer** — 248 cataloged design works (motion, branding, print, 3D), 93 app icons, 49 OG images, each with craft-rules playbooks.
-- **DESIGN.md generator** — "make a DESIGN.md like Linear, but green" → tokenized design system for *your* project.
-- **Live Analyzer** — profile any live URL on the fly; the corpus is a cache, not a ceiling.
+- **Structured search** — `find.py --style DT --category fintech --tone dark --on-disk pricing`. 14 normalized categories, light/dark tone, page filters, keyword/tag search, `--like <brand>`, graceful auto-loosening. No more guessing grep strings.
+- **DESIGN.md generator** — "make a DESIGN.md like Linear, but green" → tokenized design system for *your* project, from a fixed template.
+- **Live Analyzer** — profile any live URL on the fly; the corpus is a July-2026 snapshot, not a ceiling.
 - **Auto-triggering** — the skill activates on any frontend/UI task and enforces one rule above all: *take tokens from ONE reference, never average palettes.*
 
 ## Install
@@ -41,7 +42,7 @@ python3 ~/.claude/design-library/scripts/fetch_media.py --all
 
 | You say | The skill does |
 |---|---|
-| "Build a pricing page for a dev-tools product, dark" | Reads `pricing.md` + `dark-tech.md` playbooks, picks 2–3 DT profiles, applies one palette (e.g. Supabase `#3ecf8e` on `#121212`) |
+| "Build a pricing page for a dev-tools product, dark" | `find.py --style DT --category developer-tools --on-disk pricing` → reads `pricing.md` + `dark-tech.md`, picks 2–3 profiles, applies one palette (e.g. Supabase `#3ecf8e` on `#121212`) |
 | "Fix the hero on our landing" | Reads your tailwind/CSS first, infers your style code, picks *matching* references — doesn't fight your design |
 | "Make a DESIGN.md like Linear" | Generates a tokenized design system for your brand from the `linear.app` profile |
 | "Design an app icon" | Loads the app-icons playbook + 93-icon catalog, shows 3 references |
@@ -89,10 +90,10 @@ Use it *with* the official frontend-design skill: that one sets aesthetic direct
 ```
 design-library/
 ├── skill/SKILL.md        # the routing skill (symlink target)
-├── catalog.json          # machine index: slug → style, category, palette, pages
+├── catalog.json          # v2 index: style(+alt), category(+sub), tone, palette, tags, keywords
 ├── playbooks/            # pages/ · styles/ · domains/
 ├── profiles/             # sites/*.md · design.md · icons.md · og.md
-├── scripts/              # fetch_media · update_recent · build_catalog · validate_library
+├── scripts/              # find · taxonomy · build_catalog · validate_library · fetch_media · update_recent
 ├── media/                # optional screenshot layer (gitignored, fetched on demand)
 └── docs/                 # spec + implementation plan
 ```
