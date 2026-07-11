@@ -1,5 +1,5 @@
 ---
-name: design-refs
+name: design-playbooks
 description: Use when doing ANY frontend/UI design work — building a new page or component, restyling or editing existing frontend, choosing a visual direction, making an app icon or OG image, or when the user asks for design references, a DESIGN.md, or "make it look like <brand>". Provides evidence - real-site profiles, page-type playbooks, style playbooks, and screenshots from a local corpus of 400+ analyzed sites.
 ---
 
